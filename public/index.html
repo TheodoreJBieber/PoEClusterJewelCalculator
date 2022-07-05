@@ -1,0 +1,58 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="tabcode.js"></script>
+	<script type="text/javascript" src="calculator.js"></script>
+	<script type="text/javascript" src="datahandler.js"></script>
+</head>
+<body>
+	<h1>PoE Cluster Jewel Calculator</h1>
+	<div class="tab">
+	  <button class="tablinks" onclick="openCity(event, '3n2d')" id="defaultOpen">3 Notables, 2 Desired</button>
+	  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+	  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+	</div>
+	<div id="3n2d" class="tabcontent">
+	  	<h3>3 Notables, 2 Desired</h3>
+	  	<p>Description of "3 Notables, 2 Desired"</p>
+	  	<div class="img">
+			<img src="img/3not_2desired.png">
+	  	</div>
+		<div class="dropdowns">
+			<div>
+				<label>Desired Notable #1 (Position 1 or 3)</label>
+				<select id="select3n2dn1">
+					<option value=-1>Please make a selection</option>
+				</select>
+			</div>
+			<div>
+				<label>Desired Notable #2 (Position 1 or 3)</label>
+				<select id="select3n2dn3">
+					<option value=-1>Please make a selection</option>
+				</select>
+			</div>
+			<div>
+				<button onclick="calculate3n2d(event)">Calculate</button>
+			</div>
+			<div id="output3n2d"></div>
+		</div>
+	</div>
+
+
+	<div id="Paris" class="tabcontent">
+	  <h3>Paris</h3>
+	  <p>Paris is the capital of France.</p>
+	</div>
+
+	<div id="Tokyo" class="tabcontent">
+	  <h3>Tokyo</h3>
+	  <p>Tokyo is the capital of Japan.</p>
+	</div>
+
+
+</body>
+<script>
+	// Get the element with id="defaultOpen" and click on it
+	document.getElementById("defaultOpen").click();
+	// init data
+	initData("data/sort_order.data");
+</script>
