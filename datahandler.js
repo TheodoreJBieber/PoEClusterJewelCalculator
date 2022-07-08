@@ -1,7 +1,9 @@
 var sortOrderMap;
 var sortOrderReverseMap;
+var notablesList;
+var sizesList;
 
-function initData(sortOrderPath) {
+function initData(sortOrderPath, notablesPath, sizesPath) {
 	fetch(sortOrderPath)
 	.then(response => {
 		return response.json();
@@ -14,6 +16,23 @@ function initData(sortOrderPath) {
 		}
 		fillindropdowns();
 	});
+	fetch(notablesPath)
+	.then(response => {
+		return response.json();
+	})
+	.then(jsondata => {
+		notablesList = jsondata;
+		fillInNotablesLegend();
+	})
+	
+	fetch(sizesPath)
+	.then(response => {
+		return response.json();
+	})
+	.then(jsondata => {
+		sizesList = jsondata;
+		fillInNotablesLegend();
+	})
 }
 
 function fillindropdowns() {
@@ -37,4 +56,8 @@ function createOption(text, value) {
 	option.text = text;
 	option.value = value;
 	return option;
+}
+
+function fillInNotablesLegend() {
+	let tableId = "tableNotables";
 }

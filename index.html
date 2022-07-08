@@ -9,7 +9,7 @@
 	<div class="tab">
 	  <button class="tablinks" onclick="openCity(event, '3n2d')" id="defaultOpen">3 Notables, 2 Desired</button>
 	  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-	  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+	  <button class="tablinks" onclick="openCity(event, 'notables')">Notables Legend</button>
 	</div>
 	<div id="3n2d" class="tabcontent">
 	  	<h3>3 Notables, 2 Desired</h3>
@@ -43,7 +43,7 @@
 	  <p>Paris is the capital of France.</p>
 	</div>
 
-	<div id="Tokyo" class="tabcontent">
+	<div id="notables" class="tabcontent">
 	  <h3>Tokyo</h3>
 	  <p>Tokyo is the capital of Japan.</p>
 	</div>
@@ -54,5 +54,5 @@
 	// Get the element with id="defaultOpen" and click on it
 	document.getElementById("defaultOpen").click();
 	// init data
-	initData("data/sort_order.data");
+	initData("data/sort_order.data", "data/notables.data", "data/sizes.data");
 </script>
