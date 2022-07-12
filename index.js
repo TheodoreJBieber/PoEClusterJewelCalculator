@@ -49,6 +49,11 @@ const server = http.createServer((req, res) => {
             // res.setHeader('Content-Type', 'text/js');
             fs.createReadStream(filePath).pipe(res);
         }
+        else if (fileExt == '.json') {
+            res.statusCode = 200;
+            // res.setHeader('Content-Type', 'text/js');
+            fs.createReadStream(filePath).pipe(res);
+        }
         else {
             filePath = path.resolve('./404.html');
             res.statusCode = 404;

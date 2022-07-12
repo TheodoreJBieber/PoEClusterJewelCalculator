@@ -1,0 +1,1 @@
+ curl 'https://www.pathofexile.com/api/trade/data/stats' > ./data/raw/trade_stats.json

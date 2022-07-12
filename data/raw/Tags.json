@@ -1,0 +1,7023 @@
+[
+  {
+    "_rid": 0,
+    "Id": "default",
+    "Unknown2": 422118271,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 1,
+    "Id": "shield",
+    "Unknown2": -1731563496,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 2,
+    "Id": "ring",
+    "Unknown2": 1548697290,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 3,
+    "Id": "amulet",
+    "Unknown2": -1511969425,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 4,
+    "Id": "boots",
+    "Unknown2": -1687220715,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 5,
+    "Id": "bow",
+    "Unknown2": 679464059,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 6,
+    "Id": "equipment",
+    "Unknown2": 722580695,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 7,
+    "Id": "armour",
+    "Unknown2": -1337443129,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 8,
+    "Id": "weapon",
+    "Unknown2": 2083734973,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 9,
+    "Id": "wand",
+    "Unknown2": 480222972,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 10,
+    "Id": "staff",
+    "Unknown2": 471286042,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 11,
+    "Id": "mace",
+    "Unknown2": 806631069,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 12,
+    "Id": "sword",
+    "Unknown2": -305572255,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 13,
+    "Id": "dagger",
+    "Unknown2": 439417649,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 14,
+    "Id": "claw",
+    "Unknown2": 1232106651,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 15,
+    "Id": "axe",
+    "Unknown2": -1640938969,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 16,
+    "Id": "body_armour",
+    "Unknown2": -1017232752,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 17,
+    "Id": "life_flask",
+    "Unknown2": -302187947,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 18,
+    "Id": "mana_flask",
+    "Unknown2": -985289358,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 19,
+    "Id": "hybrid_flask",
+    "Unknown2": 774333752,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 20,
+    "Id": "flask",
+    "Unknown2": -967589388,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 21,
+    "Id": "quiver",
+    "Unknown2": -2050119198,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 22,
+    "Id": "gloves",
+    "Unknown2": 1392394290,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 23,
+    "Id": "onehand",
+    "Unknown2": 1350994486,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 24,
+    "Id": "twohand",
+    "Unknown2": -183571183,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 25,
+    "Id": "helmet",
+    "Unknown2": -1197794553,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 26,
+    "Id": "belt",
+    "Unknown2": -1774779830,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 27,
+    "Id": "gem",
+    "Unknown2": -1503656832,
+    "DisplayString": "",
+    "Name": "Gem"
+  },
+  {
+    "_rid": 28,
+    "Id": "relic",
+    "Unknown2": -1150730594,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 29,
+    "Id": "not_str",
+    "Unknown2": 1726095109,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 30,
+    "Id": "not_dex",
+    "Unknown2": 1518814017,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 31,
+    "Id": "not_int",
+    "Unknown2": -90790275,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 32,
+    "Id": "ranged",
+    "Unknown2": -1855492611,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 33,
+    "Id": "not_for_sale",
+    "Unknown2": 298763543,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 34,
+    "Id": "caster",
+    "Unknown2": 993687062,
+    "DisplayString": "",
+    "Name": "Caster"
+  },
+  {
+    "_rid": 35,
+    "Id": "magic",
+    "Unknown2": -233873258,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 36,
+    "Id": "rare",
+    "Unknown2": 809785191,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 37,
+    "Id": "sceptre",
+    "Unknown2": -487326946,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 38,
+    "Id": "str_armour",
+    "Unknown2": 5047160,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 39,
+    "Id": "dex_armour",
+    "Unknown2": -286794275,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 40,
+    "Id": "int_armour",
+    "Unknown2": 1534929092,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 41,
+    "Id": "str_dex_armour",
+    "Unknown2": 593525683,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 42,
+    "Id": "str_int_armour",
+    "Unknown2": 126758274,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 43,
+    "Id": "dex_int_armour",
+    "Unknown2": -1119777017,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 44,
+    "Id": "str_dex_int_armour",
+    "Unknown2": 249531404,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 45,
+    "Id": "focus",
+    "Unknown2": -865950637,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 46,
+    "Id": "utility_flask",
+    "Unknown2": -1313516165,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 47,
+    "Id": "critical_utility_flask",
+    "Unknown2": 1559119753,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 48,
+    "Id": "humanoid",
+    "Unknown2": -1467387511,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 49,
+    "Id": "mammal_beast",
+    "Unknown2": 658107308,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 50,
+    "Id": "reptile_beast",
+    "Unknown2": 259341384,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 51,
+    "Id": "skeleton",
+    "Unknown2": 1934215573,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 52,
+    "Id": "zombie",
+    "Unknown2": -1694124475,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 53,
+    "Id": "ghost",
+    "Unknown2": 1711657501,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 54,
+    "Id": "earth_elemental",
+    "Unknown2": -617423810,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 55,
+    "Id": "water_elemental",
+    "Unknown2": -1772503833,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 56,
+    "Id": "demon",
+    "Unknown2": 526180268,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 57,
+    "Id": "map",
+    "Unknown2": 117084118,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 58,
+    "Id": "rapier",
+    "Unknown2": -1212351665,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 59,
+    "Id": "necromancer_raisable",
+    "Unknown2": -2079483573,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 60,
+    "Id": "lots_of_life",
+    "Unknown2": -1630114125,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 61,
+    "Id": "indoors_area",
+    "Unknown2": 1812553362,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 62,
+    "Id": "beach",
+    "Unknown2": 438557988,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 63,
+    "Id": "dungeon",
+    "Unknown2": -1805174340,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 64,
+    "Id": "cave",
+    "Unknown2": -791832627,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 65,
+    "Id": "forest",
+    "Unknown2": -510995764,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 66,
+    "Id": "swamp",
+    "Unknown2": 1271616055,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 67,
+    "Id": "mountain",
+    "Unknown2": 801147916,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 68,
+    "Id": "temple",
+    "Unknown2": -846480570,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 69,
+    "Id": "urban",
+    "Unknown2": -1769634512,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 70,
+    "Id": "high_level_map",
+    "Unknown2": -1344914802,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 71,
+    "Id": "human",
+    "Unknown2": -489391221,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 72,
+    "Id": "beast",
+    "Unknown2": -1234812302,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 73,
+    "Id": "undead",
+    "Unknown2": -1224959533,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 74,
+    "Id": "construct",
+    "Unknown2": -1536566801,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 75,
+    "Id": "insect",
+    "Unknown2": 1629886372,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 76,
+    "Id": "spider",
+    "Unknown2": 783329194,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 77,
+    "Id": "undying",
+    "Unknown2": 551696512,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 78,
+    "Id": "goatman",
+    "Unknown2": -1110474790,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 79,
+    "Id": "stone_construct",
+    "Unknown2": -1977669232,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 80,
+    "Id": "fishing_rod",
+    "Unknown2": -1963178456,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 81,
+    "Id": "one_hand_weapon",
+    "Unknown2": -1244043764,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 82,
+    "Id": "two_hand_weapon",
+    "Unknown2": 1851682530,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 83,
+    "Id": "atziri1",
+    "Unknown2": 50885000,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 84,
+    "Id": "atziri2",
+    "Unknown2": -1043735472,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 85,
+    "Id": "drops_no_mods",
+    "Unknown2": -2064457713,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 86,
+    "Id": "drops_no_rares",
+    "Unknown2": -585143422,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 87,
+    "Id": "drops_no_quality",
+    "Unknown2": 1047760583,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 88,
+    "Id": "drops_no_sockets",
+    "Unknown2": 445386850,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 89,
+    "Id": "drops_not_dupeable",
+    "Unknown2": 1792672519,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 90,
+    "Id": "shore",
+    "Unknown2": -1104300794,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 91,
+    "Id": "darkshore",
+    "Unknown2": -1320092895,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 92,
+    "Id": "inland",
+    "Unknown2": 1049344822,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 93,
+    "Id": "prison",
+    "Unknown2": -1022487850,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 94,
+    "Id": "axis",
+    "Unknown2": 1802885338,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 95,
+    "Id": "cavern",
+    "Unknown2": 655836606,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 96,
+    "Id": "southernforest",
+    "Unknown2": 59198762,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 97,
+    "Id": "southernforest2",
+    "Unknown2": 1016151459,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 98,
+    "Id": "church",
+    "Unknown2": 1062674584,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 99,
+    "Id": "sins",
+    "Unknown2": 9691936,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 100,
+    "Id": "forestdark",
+    "Unknown2": -2049594548,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 101,
+    "Id": "weavers",
+    "Unknown2": -632810702,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 102,
+    "Id": "inca",
+    "Unknown2": 728628710,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 103,
+    "Id": "city1",
+    "Unknown2": -2048069506,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 104,
+    "Id": "city2",
+    "Unknown2": -1660471988,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 105,
+    "Id": "city3",
+    "Unknown2": 384312642,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 106,
+    "Id": "crematorium",
+    "Unknown2": 1432887881,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 107,
+    "Id": "catacombs",
+    "Unknown2": 1752138954,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 108,
+    "Id": "solaris",
+    "Unknown2": 1916070207,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 109,
+    "Id": "docks",
+    "Unknown2": 1393021754,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 110,
+    "Id": "sewers",
+    "Unknown2": 308414390,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 111,
+    "Id": "barracks",
+    "Unknown2": -1907567628,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 112,
+    "Id": "lunaris",
+    "Unknown2": -502510337,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 113,
+    "Id": "gardens",
+    "Unknown2": 1433485813,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 114,
+    "Id": "library",
+    "Unknown2": 468742873,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 115,
+    "Id": "scepter",
+    "Unknown2": -1527304680,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 116,
+    "Id": "secret_area",
+    "Unknown2": -883617665,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 117,
+    "Id": "limited_strongbox_benefits",
+    "Unknown2": -1920234946,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 118,
+    "Id": "red_blood",
+    "Unknown2": -789025943,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 119,
+    "Id": "ghost_blood",
+    "Unknown2": 526951436,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 120,
+    "Id": "mud_blood",
+    "Unknown2": -893085497,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 121,
+    "Id": "insect_blood",
+    "Unknown2": 1482412790,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 122,
+    "Id": "bones",
+    "Unknown2": -2100200059,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 123,
+    "Id": "water",
+    "Unknown2": -1714718325,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 124,
+    "Id": "noblood",
+    "Unknown2": 889131235,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 125,
+    "Id": "unusable_corpse",
+    "Unknown2": -1169124542,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 126,
+    "Id": "hidden_monster",
+    "Unknown2": -1428860942,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 127,
+    "Id": "devourer",
+    "Unknown2": -1663378793,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 128,
+    "Id": "wb_basic",
+    "Unknown2": 1873912370,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 129,
+    "Id": "wb_support",
+    "Unknown2": 597622042,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 130,
+    "Id": "wb_elite",
+    "Unknown2": -1055298856,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 131,
+    "Id": "wb_leader",
+    "Unknown2": -493465122,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 132,
+    "Id": "rare_minion",
+    "Unknown2": -310370269,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 133,
+    "Id": "undeletable_corpse",
+    "Unknown2": -1040324226,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 134,
+    "Id": "jewel",
+    "Unknown2": 546488626,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 135,
+    "Id": "strjewel",
+    "Unknown2": 285430845,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 136,
+    "Id": "dexjewel",
+    "Unknown2": 2071899319,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 137,
+    "Id": "intjewel",
+    "Unknown2": 714660582,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 138,
+    "Id": "gladiator",
+    "Unknown2": -2025383958,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 139,
+    "Id": "karui",
+    "Unknown2": -2011704840,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 140,
+    "Id": "flying",
+    "Unknown2": -696178521,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 141,
+    "Id": "large_model",
+    "Unknown2": -1854454621,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 142,
+    "Id": "specific_weapon",
+    "Unknown2": -249458454,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 143,
+    "Id": "two_handed_mod",
+    "Unknown2": 1740060125,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 144,
+    "Id": "dual_wielding_mod",
+    "Unknown2": -1356844946,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 145,
+    "Id": "shield_mod",
+    "Unknown2": 1461672553,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 146,
+    "Id": "one_handed_mod",
+    "Unknown2": -1739579770,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 147,
+    "Id": "melee_mod",
+    "Unknown2": -1468662467,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 148,
+    "Id": "twostonering",
+    "Unknown2": 1568617313,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 149,
+    "Id": "poison_zombie",
+    "Unknown2": 1662026400,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 150,
+    "Id": "divination_card",
+    "Unknown2": -525409613,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 151,
+    "Id": "currency",
+    "Unknown2": -1548855849,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 152,
+    "Id": "no_divine",
+    "Unknown2": 1957293956,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 153,
+    "Id": "unique_map",
+    "Unknown2": -673050882,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 154,
+    "Id": "low_tier_map",
+    "Unknown2": 1785721432,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 155,
+    "Id": "mid_tier_map",
+    "Unknown2": -100555438,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 156,
+    "Id": "top_tier_map",
+    "Unknown2": 1228175240,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 157,
+    "Id": "old_map",
+    "Unknown2": 910114632,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 158,
+    "Id": "act_boss_area",
+    "Unknown2": 1739434203,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 159,
+    "Id": "no_tempests",
+    "Unknown2": 1713491982,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 160,
+    "Id": "cannot_be_twinned",
+    "Unknown2": 1485286773,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 161,
+    "Id": "no_shroud_walker",
+    "Unknown2": -765486310,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 162,
+    "Id": "no_echo",
+    "Unknown2": -1446213388,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 163,
+    "Id": "immobile",
+    "Unknown2": 1241743669,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 164,
+    "Id": "limited_tempests",
+    "Unknown2": 470320466,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 165,
+    "Id": "small_staff",
+    "Unknown2": -393412754,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 166,
+    "Id": "support_gem",
+    "Unknown2": -1995778299,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 167,
+    "Id": "level_capped_gem",
+    "Unknown2": -1428022996,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 168,
+    "Id": "no_effect_flask_mod",
+    "Unknown2": 1117565919,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 169,
+    "Id": "area_with_water",
+    "Unknown2": 2008657150,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 170,
+    "Id": "no_bloodlines",
+    "Unknown2": -60887087,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 171,
+    "Id": "has_caster_mod",
+    "Unknown2": 1366564317,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 172,
+    "Id": "has_attack_mod",
+    "Unknown2": -338365173,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 173,
+    "Id": "maraketh",
+    "Unknown2": 1921258599,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 174,
+    "Id": "uses_suicide_explode",
+    "Unknown2": 2051881677,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 175,
+    "Id": "cannot_be_monolith",
+    "Unknown2": 859996387,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 176,
+    "Id": "no_zana_quests",
+    "Unknown2": 919197219,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 177,
+    "Id": "atlas_base_type",
+    "Unknown2": -78767488,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 178,
+    "Id": "ringatlas1",
+    "Unknown2": -1298090855,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 179,
+    "Id": "ringatlas2",
+    "Unknown2": 1931690275,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 180,
+    "Id": "amuletatlas1",
+    "Unknown2": 1730289393,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 181,
+    "Id": "amuletatlas2",
+    "Unknown2": -1366710920,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 182,
+    "Id": "beltatlas1",
+    "Unknown2": 324027794,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 183,
+    "Id": "beltatlas2",
+    "Unknown2": 1598176761,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 184,
+    "Id": "helmetatlas1",
+    "Unknown2": -91512053,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 185,
+    "Id": "bootsatlas1",
+    "Unknown2": 347287161,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 186,
+    "Id": "bootsatlas2",
+    "Unknown2": -457406515,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 187,
+    "Id": "bootsatlas3",
+    "Unknown2": 165745133,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 188,
+    "Id": "glovesatlasstr",
+    "Unknown2": -1022701509,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 189,
+    "Id": "glovesatlasdex",
+    "Unknown2": -361335756,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 190,
+    "Id": "glovesatlasint",
+    "Unknown2": 1846595285,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 191,
+    "Id": "shaped_map",
+    "Unknown2": 1462490800,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 192,
+    "Id": "no_boss",
+    "Unknown2": -1651264779,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 193,
+    "Id": "no_monster_packs",
+    "Unknown2": 202389593,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 194,
+    "Id": "no_strongboxes",
+    "Unknown2": -1592742084,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 195,
+    "Id": "hall_of_grandmasters",
+    "Unknown2": -572997122,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 196,
+    "Id": "vaults_of_atziri",
+    "Unknown2": 1685272438,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 197,
+    "Id": "cowards_trial",
+    "Unknown2": -1192614989,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 198,
+    "Id": "breach_map",
+    "Unknown2": -1161623188,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 199,
+    "Id": "breach_commander",
+    "Unknown2": 827889309,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 200,
+    "Id": "breach_leaguestone",
+    "Unknown2": 1019701551,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 201,
+    "Id": "breachstone",
+    "Unknown2": 363287614,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 202,
+    "Id": "breachstone_splinter",
+    "Unknown2": -1038764992,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 203,
+    "Id": "essence_leaguestone",
+    "Unknown2": 1854853281,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 204,
+    "Id": "prophecy_leaguestone",
+    "Unknown2": -728868466,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 205,
+    "Id": "perandus_leaguestone",
+    "Unknown2": 644031442,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 206,
+    "Id": "talisman_leaguestone",
+    "Unknown2": -2030574241,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 207,
+    "Id": "warbands_leaguestone",
+    "Unknown2": -491450506,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 208,
+    "Id": "torment_leaguestone",
+    "Unknown2": -1473361611,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 209,
+    "Id": "rampage_leaguestone",
+    "Unknown2": 66162003,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 210,
+    "Id": "domination_leaguestone",
+    "Unknown2": 413404014,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 211,
+    "Id": "tempest_leaguestone",
+    "Unknown2": -49112558,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 212,
+    "Id": "bloodlines_leaguestone",
+    "Unknown2": 185339446,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 213,
+    "Id": "beyond_leaguestone",
+    "Unknown2": 1860806544,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 214,
+    "Id": "ambush_leaguestone",
+    "Unknown2": -784493159,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 215,
+    "Id": "invasion_leaguestone",
+    "Unknown2": 203535816,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 216,
+    "Id": "nemesis_leaguestone",
+    "Unknown2": -81589280,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 217,
+    "Id": "anarchy_leaguestone",
+    "Unknown2": 2113851235,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 218,
+    "Id": "onslaught_leaguestone",
+    "Unknown2": 1047435191,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 219,
+    "Id": "god",
+    "Unknown2": 783163788,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 220,
+    "Id": "unset_ring",
+    "Unknown2": 2028097609,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 221,
+    "Id": "no_leaguestone",
+    "Unknown2": -231003227,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 222,
+    "Id": "chaos_warband",
+    "Unknown2": -2120680418,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 223,
+    "Id": "templar",
+    "Unknown2": -1925890158,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 224,
+    "Id": "cultist",
+    "Unknown2": -1719582271,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 225,
+    "Id": "female",
+    "Unknown2": -432735741,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 226,
+    "Id": "str_shield",
+    "Unknown2": 764180665,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 227,
+    "Id": "dex_shield",
+    "Unknown2": -87426311,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 228,
+    "Id": "str_dex_shield",
+    "Unknown2": -755278286,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 229,
+    "Id": "str_int_shield",
+    "Unknown2": 1475330806,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 230,
+    "Id": "dex_int_shield",
+    "Unknown2": -72346652,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 231,
+    "Id": "currency_shard",
+    "Unknown2": 973261421,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 232,
+    "Id": "harbinger_orb_shard",
+    "Unknown2": 224731394,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 233,
+    "Id": "not_harbinger_minion",
+    "Unknown2": -717342281,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 234,
+    "Id": "abyss_jewel_melee",
+    "Unknown2": 1283177657,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 235,
+    "Id": "abyss_jewel_ranged",
+    "Unknown2": 1781456528,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 236,
+    "Id": "abyss_jewel_caster",
+    "Unknown2": -725593291,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 237,
+    "Id": "abyss_jewel_summoner",
+    "Unknown2": 387008749,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 238,
+    "Id": "abyss_jewel",
+    "Unknown2": -887598304,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 239,
+    "Id": "abyssal",
+    "Unknown2": -208228007,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 240,
+    "Id": "unarmed",
+    "Unknown2": 1295226988,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 241,
+    "Id": "worlds_map",
+    "Unknown2": -1507823294,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 242,
+    "Id": "shaper_item",
+    "Unknown2": -1896601905,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 243,
+    "Id": "elder_item",
+    "Unknown2": 1851580775,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 244,
+    "Id": "boots_shaper",
+    "Unknown2": 835354659,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 245,
+    "Id": "boots_elder",
+    "Unknown2": -1044859920,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 246,
+    "Id": "sword_shaper",
+    "Unknown2": 84384007,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 247,
+    "Id": "sword_elder",
+    "Unknown2": 384912521,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 248,
+    "Id": "gloves_shaper",
+    "Unknown2": 483611526,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 249,
+    "Id": "gloves_elder",
+    "Unknown2": -907274548,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 250,
+    "Id": "helmet_shaper",
+    "Unknown2": 1899678678,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 251,
+    "Id": "helmet_elder",
+    "Unknown2": 429857474,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 252,
+    "Id": "body_armour_shaper",
+    "Unknown2": 198594898,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 253,
+    "Id": "body_armour_elder",
+    "Unknown2": -1557119159,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 254,
+    "Id": "amulet_shaper",
+    "Unknown2": 164822342,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 255,
+    "Id": "amulet_elder",
+    "Unknown2": 161987595,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 256,
+    "Id": "ring_shaper",
+    "Unknown2": 848115939,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 257,
+    "Id": "ring_elder",
+    "Unknown2": 936964861,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 258,
+    "Id": "belt_shaper",
+    "Unknown2": 30346913,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 259,
+    "Id": "belt_elder",
+    "Unknown2": -19383962,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 260,
+    "Id": "quiver_shaper",
+    "Unknown2": 412694232,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 261,
+    "Id": "quiver_elder",
+    "Unknown2": -893929801,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 262,
+    "Id": "shield_shaper",
+    "Unknown2": 803375709,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 263,
+    "Id": "shield_elder",
+    "Unknown2": 1969686996,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 264,
+    "Id": "2h_sword_shaper",
+    "Unknown2": 1137784453,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 265,
+    "Id": "2h_sword_elder",
+    "Unknown2": -2055749692,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 266,
+    "Id": "axe_shaper",
+    "Unknown2": 1257485194,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 267,
+    "Id": "axe_elder",
+    "Unknown2": 2116527869,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 268,
+    "Id": "mace_shaper",
+    "Unknown2": 1011181819,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 269,
+    "Id": "mace_elder",
+    "Unknown2": 951323250,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 270,
+    "Id": "claw_shaper",
+    "Unknown2": 21171434,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 271,
+    "Id": "claw_elder",
+    "Unknown2": -160369465,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 272,
+    "Id": "bow_shaper",
+    "Unknown2": 1060567650,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 273,
+    "Id": "bow_elder",
+    "Unknown2": 622607930,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 274,
+    "Id": "dagger_shaper",
+    "Unknown2": -425157207,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 275,
+    "Id": "dagger_elder",
+    "Unknown2": -514145618,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 276,
+    "Id": "2h_axe_shaper",
+    "Unknown2": -362683998,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 277,
+    "Id": "2h_axe_elder",
+    "Unknown2": -2140467821,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 278,
+    "Id": "2h_mace_shaper",
+    "Unknown2": 1085972234,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 279,
+    "Id": "2h_mace_elder",
+    "Unknown2": -1002222589,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 280,
+    "Id": "staff_shaper",
+    "Unknown2": 355857584,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 281,
+    "Id": "staff_elder",
+    "Unknown2": 1420046447,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 282,
+    "Id": "sceptre_shaper",
+    "Unknown2": 2058359723,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 283,
+    "Id": "sceptre_elder",
+    "Unknown2": -163414020,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 284,
+    "Id": "wand_shaper",
+    "Unknown2": 700700006,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 285,
+    "Id": "wand_elder",
+    "Unknown2": -1981761141,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 286,
+    "Id": "rune_dagger_shaper",
+    "Unknown2": -942166699,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 287,
+    "Id": "rune_dagger_elder",
+    "Unknown2": 1951820585,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 288,
+    "Id": "warstaff_shaper",
+    "Unknown2": 2034346008,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 289,
+    "Id": "warstaff_elder",
+    "Unknown2": -975633010,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 290,
+    "Id": "grants_crit_chance_support",
+    "Unknown2": 2059315499,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 291,
+    "Id": "no_legacy_of_zeal",
+    "Unknown2": 1986477275,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 292,
+    "Id": "bestiary_beast_boss",
+    "Unknown2": 1589109822,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 293,
+    "Id": "elder_occupied_map",
+    "Unknown2": -2007174293,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 294,
+    "Id": "bestiary_wilds",
+    "Unknown2": 76567804,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 295,
+    "Id": "bestiary_sands",
+    "Unknown2": -1587025262,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 296,
+    "Id": "bestiary_caverns",
+    "Unknown2": 1270889588,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 297,
+    "Id": "bestiary_deep",
+    "Unknown2": -569608595,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 298,
+    "Id": "no_cannot_die_aura",
+    "Unknown2": -31469869,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 299,
+    "Id": "bestiary_net",
+    "Unknown2": 1358571060,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 300,
+    "Id": "up_to_level_2_gem",
+    "Unknown2": -767816044,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 301,
+    "Id": "up_to_level_8_gem",
+    "Unknown2": 738930902,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 302,
+    "Id": "essence",
+    "Unknown2": 62442745,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 303,
+    "Id": "talisman",
+    "Unknown2": -1942672583,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 304,
+    "Id": "armour_divination",
+    "Unknown2": 793287421,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 305,
+    "Id": "weapon_divination",
+    "Unknown2": -1680678253,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 306,
+    "Id": "jewellery_divination",
+    "Unknown2": 538815593,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 307,
+    "Id": "delve_chest",
+    "Unknown2": 652155875,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 308,
+    "Id": "incursion_monster",
+    "Unknown2": 202204071,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 309,
+    "Id": "fire",
+    "Unknown2": -2029277933,
+    "DisplayString": "",
+    "Name": "Fire"
+  },
+  {
+    "_rid": 310,
+    "Id": "cold",
+    "Unknown2": -574263596,
+    "DisplayString": "",
+    "Name": "Cold"
+  },
+  {
+    "_rid": 311,
+    "Id": "lightning",
+    "Unknown2": -1612937727,
+    "DisplayString": "",
+    "Name": "Lightning"
+  },
+  {
+    "_rid": 312,
+    "Id": "chaos",
+    "Unknown2": -1442355210,
+    "DisplayString": "",
+    "Name": "Chaos"
+  },
+  {
+    "_rid": 313,
+    "Id": "physical",
+    "Unknown2": -1776010098,
+    "DisplayString": "",
+    "Name": "Physical"
+  },
+  {
+    "_rid": 314,
+    "Id": "poison",
+    "Unknown2": -721197808,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 315,
+    "Id": "bleed",
+    "Unknown2": -827005500,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 316,
+    "Id": "life",
+    "Unknown2": -1898888975,
+    "DisplayString": "",
+    "Name": "Life"
+  },
+  {
+    "_rid": 317,
+    "Id": "defences",
+    "Unknown2": -1993615670,
+    "DisplayString": "",
+    "Name": "Defences"
+  },
+  {
+    "_rid": 318,
+    "Id": "elemental",
+    "Unknown2": 694886432,
+    "DisplayString": "",
+    "Name": "Elemental"
+  },
+  {
+    "_rid": 319,
+    "Id": "attack",
+    "Unknown2": -430218722,
+    "DisplayString": "",
+    "Name": "Attack"
+  },
+  {
+    "_rid": 320,
+    "Id": "minion",
+    "Unknown2": -538872548,
+    "DisplayString": "",
+    "Name": "Minion"
+  },
+  {
+    "_rid": 321,
+    "Id": "aura",
+    "Unknown2": -1164333916,
+    "DisplayString": "",
+    "Name": "Aura"
+  },
+  {
+    "_rid": 322,
+    "Id": "vaal",
+    "Unknown2": 443230400,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 323,
+    "Id": "mana",
+    "Unknown2": 1813685179,
+    "DisplayString": "",
+    "Name": "Mana"
+  },
+  {
+    "_rid": 324,
+    "Id": "speed",
+    "Unknown2": -576307596,
+    "DisplayString": "",
+    "Name": "Speed"
+  },
+  {
+    "_rid": 325,
+    "Id": "flat_life_regen",
+    "Unknown2": 1212793365,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 326,
+    "Id": "einharbeast",
+    "Unknown2": -983538837,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 327,
+    "Id": "einharmonkey",
+    "Unknown2": -1160268108,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 328,
+    "Id": "einharcavespiders",
+    "Unknown2": -676915783,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 329,
+    "Id": "einhardropbear",
+    "Unknown2": 1698151552,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 330,
+    "Id": "einharsnake",
+    "Unknown2": 488951764,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 331,
+    "Id": "einharthornspiders",
+    "Unknown2": -7744894,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 332,
+    "Id": "einharrhoa",
+    "Unknown2": -545575842,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 333,
+    "Id": "einharbonerhoa",
+    "Unknown2": 2146350324,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 334,
+    "Id": "einharinsectspawner",
+    "Unknown2": -1357694826,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 335,
+    "Id": "einharspiker",
+    "Unknown2": -1595496814,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 336,
+    "Id": "einharkiweth",
+    "Unknown2": 1179434094,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 337,
+    "Id": "einharchimeral",
+    "Unknown2": 1728870617,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 338,
+    "Id": "einharvultureparasite",
+    "Unknown2": 1017919576,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 339,
+    "Id": "einharsandleaper",
+    "Unknown2": 511947305,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 340,
+    "Id": "einharfuryhound",
+    "Unknown2": -800732583,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 341,
+    "Id": "einharbull",
+    "Unknown2": 1189466517,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 342,
+    "Id": "einhargoatman",
+    "Unknown2": 491977196,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 343,
+    "Id": "einharmountaingoat",
+    "Unknown2": -1342974228,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 344,
+    "Id": "einharshieldcrab",
+    "Unknown2": 1666432615,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 345,
+    "Id": "einharcrabparasite",
+    "Unknown2": 1587675493,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 346,
+    "Id": "einharparasite",
+    "Unknown2": 154265269,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 347,
+    "Id": "einharscorpion",
+    "Unknown2": -1049075034,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 348,
+    "Id": "quality_currency",
+    "Unknown2": -1360586992,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 349,
+    "Id": "einharmaps",
+    "Unknown2": 938538426,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 350,
+    "Id": "rusted_scarab",
+    "Unknown2": 431832716,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 351,
+    "Id": "old_map_series",
+    "Unknown2": -858086349,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 352,
+    "Id": "map_not_on_atlas",
+    "Unknown2": 1371734345,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 353,
+    "Id": "warehouse_area",
+    "Unknown2": 2134068227,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 354,
+    "Id": "act6_karui_area",
+    "Unknown2": 1900181591,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 355,
+    "Id": "kaom_area",
+    "Unknown2": -1789583391,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 356,
+    "Id": "daresso_area",
+    "Unknown2": 558299198,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 357,
+    "Id": "library_area",
+    "Unknown2": 335392273,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 358,
+    "Id": "marketplace_area",
+    "Unknown2": 1831444570,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 359,
+    "Id": "belly_area",
+    "Unknown2": -287178683,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 360,
+    "Id": "solaris_area",
+    "Unknown2": 922251731,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 361,
+    "Id": "prison_area",
+    "Unknown2": -110745582,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 362,
+    "Id": "fields_area",
+    "Unknown2": 1268745944,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 363,
+    "Id": "chamber_of_sins_area",
+    "Unknown2": 756361704,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 364,
+    "Id": "has_road_area",
+    "Unknown2": -238271062,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 365,
+    "Id": "garden_area",
+    "Unknown2": -770113080,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 366,
+    "Id": "dock_area",
+    "Unknown2": 500528753,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 367,
+    "Id": "sewer_area",
+    "Unknown2": 1340884354,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 368,
+    "Id": "crossroad_area",
+    "Unknown2": -1061016031,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 369,
+    "Id": "catacomb_area",
+    "Unknown2": -1130894900,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 370,
+    "Id": "lunaris_outer_area",
+    "Unknown2": -1889457657,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 371,
+    "Id": "crypt_area",
+    "Unknown2": 1036779960,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 372,
+    "Id": "vaal_pyramid_area",
+    "Unknown2": 1614719189,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 373,
+    "Id": "forest_map_area",
+    "Unknown2": -2123286789,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 374,
+    "Id": "urban_sarn_area",
+    "Unknown2": 737026885,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 375,
+    "Id": "aqueduct_area",
+    "Unknown2": -1784854480,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 376,
+    "Id": "thicket_area",
+    "Unknown2": -604736593,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 377,
+    "Id": "bandit_area",
+    "Unknown2": -1723770641,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 378,
+    "Id": "pitfight_area",
+    "Unknown2": -1894962672,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 379,
+    "Id": "slums_area",
+    "Unknown2": 2087381849,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 380,
+    "Id": "lunaris_area",
+    "Unknown2": -1680831610,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 381,
+    "Id": "vaal_ruin_area",
+    "Unknown2": -370437413,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 382,
+    "Id": "reef_area",
+    "Unknown2": -141565650,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 383,
+    "Id": "mine_area",
+    "Unknown2": 915076726,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 384,
+    "Id": "has_foxes_area",
+    "Unknown2": -1527759504,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 385,
+    "Id": "flooded_area",
+    "Unknown2": -1169090247,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 386,
+    "Id": "fetid_area",
+    "Unknown2": 1974399428,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 387,
+    "Id": "necropolis_area",
+    "Unknown2": -739518741,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 388,
+    "Id": "sceptre_of_god_area",
+    "Unknown2": -1716377705,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 389,
+    "Id": "graveyard_area",
+    "Unknown2": 2128066672,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 390,
+    "Id": "den_area",
+    "Unknown2": -711449268,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 391,
+    "Id": "river_area",
+    "Unknown2": -823332157,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 392,
+    "Id": "ship_graveyard_area",
+    "Unknown2": -714621009,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 393,
+    "Id": "tower_area",
+    "Unknown2": 1579486399,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 394,
+    "Id": "relic_area",
+    "Unknown2": 1500836547,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 395,
+    "Id": "dark_forest_area",
+    "Unknown2": -1578083259,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 396,
+    "Id": "parapet_area",
+    "Unknown2": -1520779394,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 397,
+    "Id": "cave_area",
+    "Unknown2": 1733252439,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 398,
+    "Id": "desert_area",
+    "Unknown2": 466974660,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 399,
+    "Id": "arena_area",
+    "Unknown2": -745481869,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 400,
+    "Id": "lightning_area",
+    "Unknown2": 1503849645,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 401,
+    "Id": "rain_area",
+    "Unknown2": 384525428,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 402,
+    "Id": "snow_area",
+    "Unknown2": 1190267659,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 403,
+    "Id": "fire_area",
+    "Unknown2": 1129161990,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 404,
+    "Id": "mausoleum_area",
+    "Unknown2": -554683848,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 405,
+    "Id": "wealthy_area",
+    "Unknown2": 918134475,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 406,
+    "Id": "otherworldly_story_area",
+    "Unknown2": -1564919931,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 407,
+    "Id": "harvest_area",
+    "Unknown2": 1518529547,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 408,
+    "Id": "triple_boss_map",
+    "Unknown2": 1446067374,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 409,
+    "Id": "lighthouse_area",
+    "Unknown2": -26049735,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 410,
+    "Id": "lunaris_blood_area",
+    "Unknown2": -6029735,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 411,
+    "Id": "ruined_vaal_city_area",
+    "Unknown2": -84437433,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 412,
+    "Id": "coast_boat_area",
+    "Unknown2": -1887102164,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 413,
+    "Id": "snow_mountain_area",
+    "Unknown2": 74264669,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 414,
+    "Id": "synthesised_monster",
+    "Unknown2": 654576993,
+    "DisplayString": "<rgb(175,238,238)>{Synthesised}",
+    "Name": ""
+  },
+  {
+    "_rid": 415,
+    "Id": "has_damage_taken_as_mod",
+    "Unknown2": 440775501,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 416,
+    "Id": "has_physical_conversion_mod",
+    "Unknown2": -599898730,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 417,
+    "Id": "polished_scarab",
+    "Unknown2": 1556871574,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 418,
+    "Id": "gilded_scarab",
+    "Unknown2": 157396454,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 419,
+    "Id": "high_gardens_area",
+    "Unknown2": 1168077614,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 420,
+    "Id": "crystal_ore_area",
+    "Unknown2": -1841038860,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 421,
+    "Id": "tropical_island_area",
+    "Unknown2": 1767868224,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 422,
+    "Id": "jungle_valley_area",
+    "Unknown2": -410609165,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 423,
+    "Id": "wasteland_area",
+    "Unknown2": 475108083,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 424,
+    "Id": "desert_map_area",
+    "Unknown2": 63770663,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 425,
+    "Id": "mud_geyser_area",
+    "Unknown2": -42598793,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 426,
+    "Id": "southern_forest_area",
+    "Unknown2": -1374835406,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 427,
+    "Id": "northern_forest_area",
+    "Unknown2": -1736548907,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 428,
+    "Id": "dried_lake_area",
+    "Unknown2": -1762062451,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 429,
+    "Id": "labyrinth_end_area",
+    "Unknown2": 1331911130,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 430,
+    "Id": "old_fields_area",
+    "Unknown2": -265403006,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 431,
+    "Id": "archives_area",
+    "Unknown2": -1211213917,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 432,
+    "Id": "labyrinth_OH_area",
+    "Unknown2": -779896387,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 433,
+    "Id": "temple_of_decay_area",
+    "Unknown2": -2080168042,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 434,
+    "Id": "arachnid_tomb_map_area",
+    "Unknown2": -312586874,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 435,
+    "Id": "cemetery_map_area",
+    "Unknown2": 75170671,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 436,
+    "Id": "quay_area",
+    "Unknown2": 1529258141,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 437,
+    "Id": "local_item_quality",
+    "Unknown2": -108848762,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 438,
+    "Id": "synthesised_monster2",
+    "Unknown2": -487227875,
+    "DisplayString": "<rgb(175,238,238)>{Synthesised}",
+    "Name": ""
+  },
+  {
+    "_rid": 439,
+    "Id": "core_map_area",
+    "Unknown2": 2106052595,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 440,
+    "Id": "breachstone2",
+    "Unknown2": 260361620,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 441,
+    "Id": "breachstone3",
+    "Unknown2": 1575961709,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 442,
+    "Id": "breachstone4",
+    "Unknown2": 1085250937,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 443,
+    "Id": "breach_blessing",
+    "Unknown2": 2144013449,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 444,
+    "Id": "corrupted_vaal",
+    "Unknown2": -1738705889,
+    "DisplayString": "<rgb(212, 0, 0)>{Corrupted}",
+    "Name": ""
+  },
+  {
+    "_rid": 445,
+    "Id": "shaper_divination",
+    "Unknown2": -1202642179,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 446,
+    "Id": "elder_divination",
+    "Unknown2": 538312549,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 447,
+    "Id": "fire_prison_area",
+    "Unknown2": 1035217270,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 448,
+    "Id": "synthesis_area",
+    "Unknown2": -746517959,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 449,
+    "Id": "attack_staff",
+    "Unknown2": 765125441,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 450,
+    "Id": "attack_dagger",
+    "Unknown2": -1708661606,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 451,
+    "Id": "legion_monster",
+    "Unknown2": 932477852,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 452,
+    "Id": "has_percent_mana_mod",
+    "Unknown2": 198168397,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 453,
+    "Id": "ringatlas3",
+    "Unknown2": -1007621430,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 454,
+    "Id": "ringatlas4",
+    "Unknown2": 1124329052,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 455,
+    "Id": "rare_monster_pack",
+    "Unknown2": 463025022,
+    "DisplayString": "<rgb(255, 255, 0)>{Minion}",
+    "Name": ""
+  },
+  {
+    "_rid": 456,
+    "Id": "weapon_can_roll_minion_modifiers",
+    "Unknown2": -44836073,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 457,
+    "Id": "wandatlas1",
+    "Unknown2": 1429893026,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 458,
+    "Id": "has_atlas_mission",
+    "Unknown2": 1175934164,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 459,
+    "Id": "legion_splinter",
+    "Unknown2": -690072327,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 460,
+    "Id": "has_mana_cost_mod",
+    "Unknown2": -365519480,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 461,
+    "Id": "unique_shard",
+    "Unknown2": 816597144,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 462,
+    "Id": "unique_shard_base",
+    "Unknown2": 785597768,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 463,
+    "Id": "infected_map",
+    "Unknown2": -500027408,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 464,
+    "Id": "can_be_infected_map",
+    "Unknown2": -2003763721,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 465,
+    "Id": "mushrune",
+    "Unknown2": 781803728,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 466,
+    "Id": "blight_death_fire",
+    "Unknown2": -1384901705,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 467,
+    "Id": "blight_death_cold",
+    "Unknown2": 1763834157,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 468,
+    "Id": "blight_death_lightning",
+    "Unknown2": 430000549,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 469,
+    "Id": "blight_death_physical",
+    "Unknown2": 96176211,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 470,
+    "Id": "blight_death_chaos",
+    "Unknown2": -745021882,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 471,
+    "Id": "blight_doesnt_engage",
+    "Unknown2": 1116224885,
+    "DisplayString": "Doesn't engage nearby Enemies",
+    "Name": ""
+  },
+  {
+    "_rid": 472,
+    "Id": "map_area_with_open_water",
+    "Unknown2": -307966985,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 473,
+    "Id": "vile_areas",
+    "Unknown2": -1084783420,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 474,
+    "Id": "no_frenzy_charge_on_death",
+    "Unknown2": 168791221,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 475,
+    "Id": "no_soul_conduit",
+    "Unknown2": -702946340,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 476,
+    "Id": "no_fractured",
+    "Unknown2": 1960011743,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 477,
+    "Id": "boots_crusader",
+    "Unknown2": -1624914186,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 478,
+    "Id": "boots_adjudicator",
+    "Unknown2": 326261620,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 479,
+    "Id": "boots_eyrie",
+    "Unknown2": 262881481,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 480,
+    "Id": "boots_basilisk",
+    "Unknown2": 269657599,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 481,
+    "Id": "gloves_crusader",
+    "Unknown2": 1521325230,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 482,
+    "Id": "gloves_adjudicator",
+    "Unknown2": -745365186,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 483,
+    "Id": "gloves_eyrie",
+    "Unknown2": 852984104,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 484,
+    "Id": "gloves_basilisk",
+    "Unknown2": -1026341546,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 485,
+    "Id": "helmet_crusader",
+    "Unknown2": 225712680,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 486,
+    "Id": "helmet_adjudicator",
+    "Unknown2": 795190440,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 487,
+    "Id": "helmet_eyrie",
+    "Unknown2": 248852262,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 488,
+    "Id": "helmet_basilisk",
+    "Unknown2": 630771717,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 489,
+    "Id": "body_armour_crusader",
+    "Unknown2": 472726676,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 490,
+    "Id": "body_armour_adjudicator",
+    "Unknown2": 460198930,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 491,
+    "Id": "body_armour_eyrie",
+    "Unknown2": 420031211,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 492,
+    "Id": "body_armour_basilisk",
+    "Unknown2": 1085302132,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 493,
+    "Id": "shield_crusader",
+    "Unknown2": -1873150164,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 494,
+    "Id": "shield_adjudicator",
+    "Unknown2": -1438718115,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 495,
+    "Id": "shield_eyrie",
+    "Unknown2": 1704232451,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 496,
+    "Id": "shield_basilisk",
+    "Unknown2": -945270941,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 497,
+    "Id": "belt_crusader",
+    "Unknown2": -766465503,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 498,
+    "Id": "belt_adjudicator",
+    "Unknown2": 1099951041,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 499,
+    "Id": "belt_eyrie",
+    "Unknown2": 1624752927,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 500,
+    "Id": "belt_basilisk",
+    "Unknown2": 237084929,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 501,
+    "Id": "amulet_crusader",
+    "Unknown2": -1606774569,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 502,
+    "Id": "amulet_adjudicator",
+    "Unknown2": -89439180,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 503,
+    "Id": "amulet_eyrie",
+    "Unknown2": 1592157433,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 504,
+    "Id": "amulet_basilisk",
+    "Unknown2": -1648479593,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 505,
+    "Id": "ring_crusader",
+    "Unknown2": 111294352,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 506,
+    "Id": "ring_adjudicator",
+    "Unknown2": 2113641939,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 507,
+    "Id": "ring_eyrie",
+    "Unknown2": -1711311241,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 508,
+    "Id": "ring_basilisk",
+    "Unknown2": -1898981578,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 509,
+    "Id": "quiver_crusader",
+    "Unknown2": -830748461,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 510,
+    "Id": "quiver_adjudicator",
+    "Unknown2": -654298756,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 511,
+    "Id": "quiver_eyrie",
+    "Unknown2": -1698916080,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 512,
+    "Id": "quiver_basilisk",
+    "Unknown2": 2125810531,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 513,
+    "Id": "claw_crusader",
+    "Unknown2": -878125621,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 514,
+    "Id": "dagger_crusader",
+    "Unknown2": -283029243,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 515,
+    "Id": "wand_crusader",
+    "Unknown2": -1890610445,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 516,
+    "Id": "sword_crusader",
+    "Unknown2": -1769244568,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 517,
+    "Id": "axe_crusader",
+    "Unknown2": 1479402321,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 518,
+    "Id": "mace_crusader",
+    "Unknown2": 2043740523,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 519,
+    "Id": "sceptre_crusader",
+    "Unknown2": -1349656741,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 520,
+    "Id": "bow_crusader",
+    "Unknown2": -1779446394,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 521,
+    "Id": "staff_crusader",
+    "Unknown2": 2100191031,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 522,
+    "Id": "2h_sword_crusader",
+    "Unknown2": 2074192019,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 523,
+    "Id": "2h_axe_crusader",
+    "Unknown2": -776844642,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 524,
+    "Id": "2h_mace_crusader",
+    "Unknown2": 1014439478,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 525,
+    "Id": "rune_dagger_crusader",
+    "Unknown2": -1713987312,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 526,
+    "Id": "warstaff_crusader",
+    "Unknown2": -1579829829,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 527,
+    "Id": "claw_eyrie",
+    "Unknown2": 200029766,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 528,
+    "Id": "dagger_eyrie",
+    "Unknown2": -181960636,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 529,
+    "Id": "wand_eyrie",
+    "Unknown2": -616378810,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 530,
+    "Id": "sword_eyrie",
+    "Unknown2": 1911415526,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 531,
+    "Id": "axe_eyrie",
+    "Unknown2": 1218578439,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 532,
+    "Id": "mace_eyrie",
+    "Unknown2": -1385333141,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 533,
+    "Id": "sceptre_eyrie",
+    "Unknown2": -811393317,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 534,
+    "Id": "bow_eyrie",
+    "Unknown2": -796064190,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 535,
+    "Id": "staff_eyrie",
+    "Unknown2": -839227503,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 536,
+    "Id": "2h_sword_eyrie",
+    "Unknown2": -468077961,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 537,
+    "Id": "2h_axe_eyrie",
+    "Unknown2": -1382880144,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 538,
+    "Id": "2h_mace_eyrie",
+    "Unknown2": -853389985,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 539,
+    "Id": "rune_dagger_eyrie",
+    "Unknown2": 548532031,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 540,
+    "Id": "warstaff_eyrie",
+    "Unknown2": 388605474,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 541,
+    "Id": "claw_basilisk",
+    "Unknown2": 1323298402,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 542,
+    "Id": "dagger_basilisk",
+    "Unknown2": -296873924,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 543,
+    "Id": "wand_basilisk",
+    "Unknown2": -1494938590,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 544,
+    "Id": "sword_basilisk",
+    "Unknown2": -842029183,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 545,
+    "Id": "axe_basilisk",
+    "Unknown2": 1297986503,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 546,
+    "Id": "mace_basilisk",
+    "Unknown2": 24179361,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 547,
+    "Id": "sceptre_basilisk",
+    "Unknown2": 900204570,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 548,
+    "Id": "bow_basilisk",
+    "Unknown2": 1223026859,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 549,
+    "Id": "staff_basilisk",
+    "Unknown2": -1714811737,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 550,
+    "Id": "2h_sword_basilisk",
+    "Unknown2": -57134647,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 551,
+    "Id": "2h_axe_basilisk",
+    "Unknown2": 989270770,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 552,
+    "Id": "2h_mace_basilisk",
+    "Unknown2": -743233124,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 553,
+    "Id": "rune_dagger_basilisk",
+    "Unknown2": 1118539817,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 554,
+    "Id": "warstaff_basilisk",
+    "Unknown2": 573250160,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 555,
+    "Id": "claw_adjudicator",
+    "Unknown2": -529712715,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 556,
+    "Id": "dagger_adjudicator",
+    "Unknown2": 389471776,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 557,
+    "Id": "wand_adjudicator",
+    "Unknown2": -1508173960,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 558,
+    "Id": "sword_adjudicator",
+    "Unknown2": 76035437,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 559,
+    "Id": "axe_adjudicator",
+    "Unknown2": 345392971,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 560,
+    "Id": "mace_adjudicator",
+    "Unknown2": -1889588584,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 561,
+    "Id": "sceptre_adjudicator",
+    "Unknown2": -1592209064,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 562,
+    "Id": "bow_adjudicator",
+    "Unknown2": -1671075665,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 563,
+    "Id": "staff_adjudicator",
+    "Unknown2": -469410937,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 564,
+    "Id": "2h_sword_adjudicator",
+    "Unknown2": 1644874906,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 565,
+    "Id": "2h_axe_adjudicator",
+    "Unknown2": -2120095889,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 566,
+    "Id": "2h_mace_adjudicator",
+    "Unknown2": -1044333285,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 567,
+    "Id": "rune_dagger_adjudicator",
+    "Unknown2": -758197229,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 568,
+    "Id": "warstaff_adjudicator",
+    "Unknown2": 2131211834,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 569,
+    "Id": "grants_2h_support",
+    "Unknown2": 2062099181,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 570,
+    "Id": "no_prophecies",
+    "Unknown2": -1166302892,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 571,
+    "Id": "warstaff",
+    "Unknown2": -1471235332,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 572,
+    "Id": "expansion_jewel_large",
+    "Unknown2": -605694411,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 573,
+    "Id": "expansion_jewel_medium",
+    "Unknown2": 1721257109,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 574,
+    "Id": "expansion_jewel_small",
+    "Unknown2": -1947377515,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 575,
+    "Id": "affliction_axe_and_sword_damage",
+    "Unknown2": 484191192,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 576,
+    "Id": "affliction_mace_and_staff_damage",
+    "Unknown2": -1519555369,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 577,
+    "Id": "affliction_dagger_and_claw_damage",
+    "Unknown2": -11631474,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 578,
+    "Id": "affliction_bow_damage",
+    "Unknown2": 1325926078,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 579,
+    "Id": "affliction_wand_damage",
+    "Unknown2": 1460140019,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 580,
+    "Id": "affliction_damage_with_two_handed_melee_weapons",
+    "Unknown2": 1952290546,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 581,
+    "Id": "affliction_attack_damage_while_dual_wielding_",
+    "Unknown2": -425875831,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 582,
+    "Id": "affliction_attack_damage_while_holding_a_shield",
+    "Unknown2": 1601333421,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 583,
+    "Id": "affliction_attack_damage_",
+    "Unknown2": -1345409755,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 584,
+    "Id": "affliction_spell_damage",
+    "Unknown2": 307775245,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 585,
+    "Id": "affliction_elemental_damage",
+    "Unknown2": 1562156069,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 586,
+    "Id": "affliction_physical_damage",
+    "Unknown2": 1202706076,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 587,
+    "Id": "affliction_fire_damage",
+    "Unknown2": -1101558515,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 588,
+    "Id": "affliction_lightning_damage",
+    "Unknown2": 95340343,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 589,
+    "Id": "affliction_cold_damage",
+    "Unknown2": -227781657,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 590,
+    "Id": "affliction_chaos_damage",
+    "Unknown2": 1014925526,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 591,
+    "Id": "affliction_minion_damage",
+    "Unknown2": 847442481,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 592,
+    "Id": "affliction_fire_damage_over_time_multiplier",
+    "Unknown2": 2076246268,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 593,
+    "Id": "affliction_chaos_damage_over_time_multiplier",
+    "Unknown2": 2119497368,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 594,
+    "Id": "affliction_physical_damage_over_time_multiplier",
+    "Unknown2": -1962557999,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 595,
+    "Id": "affliction_cold_damage_over_time_multiplier",
+    "Unknown2": 1695284285,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 596,
+    "Id": "affliction_damage_over_time_multiplier",
+    "Unknown2": -737564256,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 597,
+    "Id": "affliction_effect_of_non-damaging_ailments",
+    "Unknown2": 352969874,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 598,
+    "Id": "old_do_not_use_affliction_aura_effect",
+    "Unknown2": 1202854153,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 599,
+    "Id": "old_do_not_use_affliction_curse_effect",
+    "Unknown2": 142694422,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 600,
+    "Id": "affliction_damage_while_you_have_a_herald",
+    "Unknown2": 893482607,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 601,
+    "Id": "affliction_minion_damage_while_you_have_a_herald",
+    "Unknown2": -1067790979,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 602,
+    "Id": "affliction_warcry_buff_effect",
+    "Unknown2": -948189083,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 603,
+    "Id": "affliction_critical_chance",
+    "Unknown2": -267986495,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 604,
+    "Id": "affliction_minion_life",
+    "Unknown2": -607679541,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 605,
+    "Id": "affliction_area_damage",
+    "Unknown2": -1407122974,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 606,
+    "Id": "affliction_projectile_damage",
+    "Unknown2": 830026786,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 607,
+    "Id": "affliction_trap_and_mine_damage",
+    "Unknown2": 708482251,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 608,
+    "Id": "affliction_totem_damage",
+    "Unknown2": -1456726511,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 609,
+    "Id": "affliction_brand_damage",
+    "Unknown2": 21910472,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 610,
+    "Id": "affliction_channelling_skill_damage",
+    "Unknown2": -562366841,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 611,
+    "Id": "affliction_flask_duration",
+    "Unknown2": -950489935,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 612,
+    "Id": "affliction_life_and_mana_recovery_from_flasks",
+    "Unknown2": 212454347,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 613,
+    "Id": "affliction_maximum_life",
+    "Unknown2": -1885456442,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 614,
+    "Id": "affliction_maximum_energy_shield",
+    "Unknown2": -367034407,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 615,
+    "Id": "affliction_maximum_mana",
+    "Unknown2": 1737099563,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 616,
+    "Id": "affliction_armour",
+    "Unknown2": -94833281,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 617,
+    "Id": "affliction_evasion",
+    "Unknown2": -1418939163,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 618,
+    "Id": "affliction_chance_to_block",
+    "Unknown2": -1926765389,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 619,
+    "Id": "affliction_fire_resistance",
+    "Unknown2": 498439026,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 620,
+    "Id": "affliction_cold_resistance",
+    "Unknown2": -600422384,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 621,
+    "Id": "affliction_lightning_resistance",
+    "Unknown2": 1631625026,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 622,
+    "Id": "affliction_chaos_resistance",
+    "Unknown2": 69694748,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 623,
+    "Id": "affliction_chance_to_dodge_attacks",
+    "Unknown2": 1090187294,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 624,
+    "Id": "affliction_strength",
+    "Unknown2": -1460644078,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 625,
+    "Id": "affliction_dexterity",
+    "Unknown2": -1010102916,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 626,
+    "Id": "affliction_intelligence",
+    "Unknown2": -949961328,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 627,
+    "Id": "has_affliction_notable",
+    "Unknown2": -1962112748,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 628,
+    "Id": "map_device",
+    "Unknown2": 681001185,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 629,
+    "Id": "jewelled_scarab",
+    "Unknown2": 290123392,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 630,
+    "Id": "critical",
+    "Unknown2": -931382702,
+    "DisplayString": "",
+    "Name": "Critical"
+  },
+  {
+    "_rid": 631,
+    "Id": "heist_contract",
+    "Unknown2": -995544939,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 632,
+    "Id": "evasion",
+    "Unknown2": -205406665,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 633,
+    "Id": "energy_shield",
+    "Unknown2": 1604436694,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 634,
+    "Id": "power_charge",
+    "Unknown2": 1490966445,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 635,
+    "Id": "frenzy_charge",
+    "Unknown2": 168798152,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 636,
+    "Id": "endurance_charge",
+    "Unknown2": -824977748,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 637,
+    "Id": "damage",
+    "Unknown2": -685024492,
+    "DisplayString": "",
+    "Name": "Damage"
+  },
+  {
+    "_rid": 638,
+    "Id": "resistance",
+    "Unknown2": -1944643143,
+    "DisplayString": "",
+    "Name": "Resistance"
+  },
+  {
+    "_rid": 639,
+    "Id": "attribute",
+    "Unknown2": 441714245,
+    "DisplayString": "",
+    "Name": "Attribute"
+  },
+  {
+    "_rid": 640,
+    "Id": "block",
+    "Unknown2": -524065130,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 641,
+    "Id": "ailment",
+    "Unknown2": 234763480,
+    "DisplayString": "",
+    "Name": "Ailment"
+  },
+  {
+    "_rid": 642,
+    "Id": "blue_herring",
+    "Unknown2": -919577785,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 643,
+    "Id": "skill",
+    "Unknown2": -34109109,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 644,
+    "Id": "support",
+    "Unknown2": 1598270973,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 645,
+    "Id": "curse",
+    "Unknown2": -878170705,
+    "DisplayString": "",
+    "Name": "Curse"
+  },
+  {
+    "_rid": 646,
+    "Id": "green_herring",
+    "Unknown2": -103939288,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 647,
+    "Id": "red_herring",
+    "Unknown2": 1722785125,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 648,
+    "Id": "heist_coin",
+    "Unknown2": -1375464169,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 649,
+    "Id": "heist_equipment_utility",
+    "Unknown2": 729613925,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 650,
+    "Id": "heist_equipment_reward",
+    "Unknown2": 551121727,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 651,
+    "Id": "heist_equipment_weapon",
+    "Unknown2": -358314892,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 652,
+    "Id": "heist_equipment_lockpick",
+    "Unknown2": 1363542535,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 653,
+    "Id": "heist_equipment_bruteforce",
+    "Unknown2": 2075652688,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 654,
+    "Id": "heist_equipment_perception",
+    "Unknown2": 815389871,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 655,
+    "Id": "heist_equipment_demolition",
+    "Unknown2": 1346046342,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 656,
+    "Id": "heist_equipment_counterthaumaturge",
+    "Unknown2": 2147301894,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 657,
+    "Id": "heist_equipment_trapdisarmament",
+    "Unknown2": -1322419108,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 658,
+    "Id": "heist_equipment_agility",
+    "Unknown2": -119085685,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 659,
+    "Id": "heist_equipment_deception",
+    "Unknown2": 2057277625,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 660,
+    "Id": "heist_equipment_engineering",
+    "Unknown2": 1971244821,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 661,
+    "Id": "trinket",
+    "Unknown2": -1814139379,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 662,
+    "Id": "heist_equipment_tool",
+    "Unknown2": -1630087290,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 663,
+    "Id": "elemental_damage",
+    "Unknown2": -1407002231,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 664,
+    "Id": "physical_damage",
+    "Unknown2": -276219112,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 665,
+    "Id": "resource",
+    "Unknown2": -703195842,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 666,
+    "Id": "caster_damage",
+    "Unknown2": -643086750,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 667,
+    "Id": "heist_equipment_melee",
+    "Unknown2": -453108385,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 668,
+    "Id": "heist_equipment_ranged",
+    "Unknown2": 1179551903,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 669,
+    "Id": "heist_equipment_caster",
+    "Unknown2": -262322589,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 670,
+    "Id": "heist_blueprint",
+    "Unknown2": 1793897042,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 671,
+    "Id": "affliction_orb",
+    "Unknown2": 399194277,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 672,
+    "Id": "affliction_splinter",
+    "Unknown2": 1140889003,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 673,
+    "Id": "catalyst",
+    "Unknown2": -1668874224,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 674,
+    "Id": "sextant",
+    "Unknown2": 1372764287,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 675,
+    "Id": "heist_job_level_1",
+    "Unknown2": 1089236415,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 676,
+    "Id": "heist_job_level_2",
+    "Unknown2": 1750724954,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 677,
+    "Id": "heist_job_level_3",
+    "Unknown2": 2020603639,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 678,
+    "Id": "heist_job_level_4",
+    "Unknown2": -1420958162,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 679,
+    "Id": "heist_job_level_5",
+    "Unknown2": -111594470,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 680,
+    "Id": "heist_guard",
+    "Unknown2": -1713546394,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 681,
+    "Id": "heist_equipment",
+    "Unknown2": 164484535,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 682,
+    "Id": "watchstone_item",
+    "Unknown2": -841276448,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 683,
+    "Id": "watchstone_league",
+    "Unknown2": 1173215725,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 684,
+    "Id": "watchstone_environment",
+    "Unknown2": 737644806,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 685,
+    "Id": "watchstone",
+    "Unknown2": -908591493,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 686,
+    "Id": "no_maven",
+    "Unknown2": 1790478879,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 687,
+    "Id": "allow_maven",
+    "Unknown2": -1791222687,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 688,
+    "Id": "no_tangle",
+    "Unknown2": -1935140474,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 689,
+    "Id": "no_cleansing_fire",
+    "Unknown2": 1510174994,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 690,
+    "Id": "shaper_monster",
+    "Unknown2": 1030289492,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 691,
+    "Id": "elder_monster",
+    "Unknown2": 1735155990,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 692,
+    "Id": "eyrie_monster",
+    "Unknown2": 459530725,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 693,
+    "Id": "basilisk_monster",
+    "Unknown2": 2006029925,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 694,
+    "Id": "crusader_monster",
+    "Unknown2": -1538000951,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 695,
+    "Id": "adjudicator_monster",
+    "Unknown2": 673334330,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 696,
+    "Id": "maven_map",
+    "Unknown2": -476192420,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 697,
+    "Id": "maven_void_map",
+    "Unknown2": -2102306948,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 698,
+    "Id": "maven_void_map_feared",
+    "Unknown2": -1609707806,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 699,
+    "Id": "abyss_monster",
+    "Unknown2": -2065980948,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 700,
+    "Id": "influence_monster",
+    "Unknown2": -966194563,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 701,
+    "Id": "blight_boss",
+    "Unknown2": -340586346,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 702,
+    "Id": "no_possessed_foe",
+    "Unknown2": 2006732667,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 703,
+    "Id": "vaal_gem",
+    "Unknown2": 2017531363,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 704,
+    "Id": "weapon_can_roll_totem_modifiers",
+    "Unknown2": 1500659523,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 705,
+    "Id": "staffatlas1",
+    "Unknown2": -740311312,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 706,
+    "Id": "quiveratlas1",
+    "Unknown2": -2113307368,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 707,
+    "Id": "ringatlas5",
+    "Unknown2": -1024260522,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 708,
+    "Id": "amuletatlas3",
+    "Unknown2": 284422091,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 709,
+    "Id": "glovesatlasstrint",
+    "Unknown2": -970907824,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 710,
+    "Id": "bootsatlasdexint",
+    "Unknown2": 716964574,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 711,
+    "Id": "chaos_damage",
+    "Unknown2": -2045284761,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 712,
+    "Id": "no_proximity_shield",
+    "Unknown2": -1408947179,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 713,
+    "Id": "no_final_gasp",
+    "Unknown2": 1321046818,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 714,
+    "Id": "demigods",
+    "Unknown2": 1991705993,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 715,
+    "Id": "dot_multi",
+    "Unknown2": 967620337,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 716,
+    "Id": "no_forced_item_drops",
+    "Unknown2": -503249172,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 717,
+    "Id": "unveiled_mod",
+    "Unknown2": -880690237,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 718,
+    "Id": "ultimatum_trial",
+    "Unknown2": 628472000,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 719,
+    "Id": "expedition_templar_remnant",
+    "Unknown2": -2095847451,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 720,
+    "Id": "expedition_vaal_remnant",
+    "Unknown2": 692722197,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 721,
+    "Id": "expedition_vaal_remnant2",
+    "Unknown2": -1167494662,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 722,
+    "Id": "expedition_karui_remnant",
+    "Unknown2": 2120405214,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 723,
+    "Id": "expedition_eternalempire_remnant",
+    "Unknown2": 1676197267,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 724,
+    "Id": "expedition_eternalempire_remnant2",
+    "Unknown2": 1187056706,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 725,
+    "Id": "expedition_eternalempire_remnant3",
+    "Unknown2": 473239399,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 726,
+    "Id": "expedition_eternalempire_remnant4",
+    "Unknown2": 2122548709,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 727,
+    "Id": "expedition_maraketh_remnant",
+    "Unknown2": 602448312,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 728,
+    "Id": "expedition_maraketh_remnant2",
+    "Unknown2": 24757494,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 729,
+    "Id": "expedition_sirens_remnant",
+    "Unknown2": -1179342672,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 730,
+    "Id": "expedition_monkeytribe_remnant",
+    "Unknown2": -1766450373,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 731,
+    "Id": "expedition_lostmen_remnant",
+    "Unknown2": -997572192,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 732,
+    "Id": "expedition_logbook",
+    "Unknown2": -104702499,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 733,
+    "Id": "ward_armour",
+    "Unknown2": 965594498,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 734,
+    "Id": "adaptation_armour",
+    "Unknown2": 678553851,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 735,
+    "Id": "disallowed_in_generic_currency_stash_slots",
+    "Unknown2": 1991992041,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 736,
+    "Id": "expedition_common_remnant",
+    "Unknown2": 762831142,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 737,
+    "Id": "expedition_common_remnant_logbook",
+    "Unknown2": 1605657746,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 738,
+    "Id": "expedition_flask",
+    "Unknown2": 616679876,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 739,
+    "Id": "expedition_currency_faction1",
+    "Unknown2": -287931912,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 740,
+    "Id": "expedition_currency_faction2",
+    "Unknown2": 153646160,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 741,
+    "Id": "expedition_currency_faction3",
+    "Unknown2": 716492436,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 742,
+    "Id": "expedition_currency_faction4",
+    "Unknown2": 1458352084,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 743,
+    "Id": "expedition_monster",
+    "Unknown2": 1722346759,
+    "DisplayString": "<outlinecolour:rgb(14,46,85)>{<rgb(116,177,255)>{Runic}}",
+    "Name": ""
+  },
+  {
+    "_rid": 744,
+    "Id": "has_flat_strength_mod",
+    "Unknown2": -1138889642,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 745,
+    "Id": "has_flat_dexterity_mod",
+    "Unknown2": -1875591612,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 746,
+    "Id": "has_flat_intelligence_mod",
+    "Unknown2": 1686643488,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 747,
+    "Id": "expedition_faction_druids_of_the_broken_circle",
+    "Unknown2": 815747335,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 748,
+    "Id": "expedition_faction_black_scythe",
+    "Unknown2": 668225039,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 749,
+    "Id": "expedition_faction_order_of_the_chalice",
+    "Unknown2": -896744867,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 750,
+    "Id": "expedition_faction_knights_of_the_sun",
+    "Unknown2": -1463285677,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 751,
+    "Id": "map_has_blight_encounter",
+    "Unknown2": 1530276102,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 752,
+    "Id": "breachstone5",
+    "Unknown2": 378944864,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 753,
+    "Id": "no_delve_nodes",
+    "Unknown2": 714831121,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 754,
+    "Id": "delve_city_biome",
+    "Unknown2": -639117876,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 755,
+    "Id": "affliction_reservation_efficiency_small",
+    "Unknown2": 399852273,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 756,
+    "Id": "affliction_curse_effect_small",
+    "Unknown2": 1238307487,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 757,
+    "Id": "has_flat_armour_mod",
+    "Unknown2": -1412973450,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 758,
+    "Id": "has_flat_evasion_mod",
+    "Unknown2": 966479542,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 759,
+    "Id": "has_flat_energy_shield_mod",
+    "Unknown2": 1185144614,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 760,
+    "Id": "fake_currency",
+    "Unknown2": 865619647,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 761,
+    "Id": "bandit",
+    "Unknown2": 201603792,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 762,
+    "Id": "military",
+    "Unknown2": 1420064524,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 763,
+    "Id": "eldritch",
+    "Unknown2": -2041184149,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 764,
+    "Id": "exile",
+    "Unknown2": 2106993581,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 765,
+    "Id": "crustacean_beast",
+    "Unknown2": -1339830613,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 766,
+    "Id": "avian_beast",
+    "Unknown2": -623354020,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 767,
+    "Id": "canine_beast",
+    "Unknown2": 253922322,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 768,
+    "Id": "feline_beast",
+    "Unknown2": 312949011,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 769,
+    "Id": "amphibian_beast",
+    "Unknown2": -33005246,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 770,
+    "Id": "rodent_beast",
+    "Unknown2": 824894868,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 771,
+    "Id": "primate_beast",
+    "Unknown2": -165035435,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 772,
+    "Id": "ursine_beast",
+    "Unknown2": 1487929047,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 773,
+    "Id": "golem",
+    "Unknown2": 1687716449,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 774,
+    "Id": "rodent",
+    "Unknown2": -2036570562,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 775,
+    "Id": "melee",
+    "Unknown2": 2103409095,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 776,
+    "Id": "physical_affinity",
+    "Unknown2": -1303337158,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 777,
+    "Id": "fire_affinity",
+    "Unknown2": -1381147624,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 778,
+    "Id": "cold_affinity",
+    "Unknown2": 534045390,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 779,
+    "Id": "lightning_affinity",
+    "Unknown2": 1371536228,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 780,
+    "Id": "chaos_affinity",
+    "Unknown2": 304860995,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 781,
+    "Id": "aura_bearer",
+    "Unknown2": 946092254,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 782,
+    "Id": "cursing_monster",
+    "Unknown2": -1981423163,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 783,
+    "Id": "summoner",
+    "Unknown2": 2067824841,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 784,
+    "Id": "raises_dead",
+    "Unknown2": -1565049088,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 785,
+    "Id": "has_one_handed_melee",
+    "Unknown2": -1237845518,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 786,
+    "Id": "has_dual_wield_melee",
+    "Unknown2": 1802630703,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 787,
+    "Id": "has_two_handed_melee",
+    "Unknown2": -1463568198,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 788,
+    "Id": "has_one_hand_sword",
+    "Unknown2": 1916444212,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 789,
+    "Id": "has_thrusting_one_hand_sword",
+    "Unknown2": -1787408836,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 790,
+    "Id": "has_two_hand_sword",
+    "Unknown2": 1269931235,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 791,
+    "Id": "has_one_hand_mace",
+    "Unknown2": 897757506,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 792,
+    "Id": "has_two_hand_mace",
+    "Unknown2": -498946109,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 793,
+    "Id": "has_sceptre",
+    "Unknown2": -984383461,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 794,
+    "Id": "has_wand",
+    "Unknown2": -1515534370,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 795,
+    "Id": "has_one_hand_axe",
+    "Unknown2": -822369342,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 796,
+    "Id": "has_two_hand_axe",
+    "Unknown2": -292753242,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 797,
+    "Id": "has_bow",
+    "Unknown2": -1871988105,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 798,
+    "Id": "has_dagger",
+    "Unknown2": -2001078500,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 799,
+    "Id": "has_staff",
+    "Unknown2": 641148289,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 800,
+    "Id": "has_claw",
+    "Unknown2": -2032065280,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 801,
+    "Id": "has_shield",
+    "Unknown2": -20750724,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 802,
+    "Id": "is_unarmed",
+    "Unknown2": -1686258778,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 803,
+    "Id": "extra_extra_small_height",
+    "Unknown2": 686245286,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 804,
+    "Id": "extra_small_height",
+    "Unknown2": 726352330,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 805,
+    "Id": "small_height",
+    "Unknown2": 365183768,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 806,
+    "Id": "medium_small_height",
+    "Unknown2": 559498634,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 807,
+    "Id": "medium_height",
+    "Unknown2": -2130717440,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 808,
+    "Id": "large_height",
+    "Unknown2": -1137412046,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 809,
+    "Id": "extra_large_height",
+    "Unknown2": -1737342282,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 810,
+    "Id": "extra_extra_large_height",
+    "Unknown2": -1704486369,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 811,
+    "Id": "kitava_height",
+    "Unknown2": -2106209473,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 812,
+    "Id": "very_slow_movement",
+    "Unknown2": 383784182,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 813,
+    "Id": "slow_movement",
+    "Unknown2": 1556336969,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 814,
+    "Id": "medium_movement",
+    "Unknown2": 104547876,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 815,
+    "Id": "fast_movement",
+    "Unknown2": -1607494425,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 816,
+    "Id": "very_fast_movement",
+    "Unknown2": -635594206,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 817,
+    "Id": "flesh_armour",
+    "Unknown2": 914828785,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 818,
+    "Id": "light_armour",
+    "Unknown2": 894636014,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 819,
+    "Id": "hard_armour",
+    "Unknown2": -1456682567,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 820,
+    "Id": "mail_armour",
+    "Unknown2": 12037867,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 821,
+    "Id": "plate_armour",
+    "Unknown2": -1919101943,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 822,
+    "Id": "stone_armour",
+    "Unknown2": -1373291725,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 823,
+    "Id": "energy_armour",
+    "Unknown2": 884706954,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 824,
+    "Id": "bone_armour",
+    "Unknown2": -1064517766,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 825,
+    "Id": "ghost_armour",
+    "Unknown2": -507252213,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 826,
+    "Id": "metal_armour",
+    "Unknown2": 1696898984,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 827,
+    "Id": "liquid_armour",
+    "Unknown2": -183239289,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 828,
+    "Id": "wood_armour",
+    "Unknown2": -1382638685,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 829,
+    "Id": "is_daemon",
+    "Unknown2": -1284984558,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 830,
+    "Id": "cleaving_weapon",
+    "Unknown2": -1566451258,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 831,
+    "Id": "slashing_weapon",
+    "Unknown2": -923495679,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 832,
+    "Id": "bludgeoning_weapon",
+    "Unknown2": -779740035,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 833,
+    "Id": "puncturing_weapon",
+    "Unknown2": 1702804084,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 834,
+    "Id": "animal_claw_weapon",
+    "Unknown2": -1538375864,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 835,
+    "Id": "unique_map_boss",
+    "Unknown2": 696689158,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 836,
+    "Id": "non_unique_map_boss",
+    "Unknown2": 1580309182,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 837,
+    "Id": "standalone_map_boss",
+    "Unknown2": -1593662590,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 838,
+    "Id": "elder_map_boss",
+    "Unknown2": 472297122,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 839,
+    "Id": "rogue_exile",
+    "Unknown2": -896160059,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 840,
+    "Id": "is_clone",
+    "Unknown2": 104257566,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 841,
+    "Id": "non_attacking",
+    "Unknown2": -1405680595,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 842,
+    "Id": "no_tier_1_eldritch_implicit",
+    "Unknown2": -823210779,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 843,
+    "Id": "no_tier_2_eldritch_implicit",
+    "Unknown2": 1374432631,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 844,
+    "Id": "no_tier_3_eldritch_implicit",
+    "Unknown2": -1782782971,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 845,
+    "Id": "no_tier_4_eldritch_implicit",
+    "Unknown2": -2035991178,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 846,
+    "Id": "no_tier_5_eldritch_implicit",
+    "Unknown2": 150443125,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 847,
+    "Id": "no_tier_6_eldritch_implicit",
+    "Unknown2": -1820300025,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 848,
+    "Id": "scarab",
+    "Unknown2": 1594868889,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 849,
+    "Id": "alira_area",
+    "Unknown2": 1669127204,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 850,
+    "Id": "ocean_area",
+    "Unknown2": -492218657,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 851,
+    "Id": "voll_monster_story",
+    "Unknown2": -591982796,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 852,
+    "Id": "voll_monster_map",
+    "Unknown2": -743735911,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 853,
+    "Id": "military_area",
+    "Unknown2": 1324605633,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 854,
+    "Id": "thaumaturgy_area",
+    "Unknown2": -1049142250,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 855,
+    "Id": "piety_area",
+    "Unknown2": 1435577272,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 856,
+    "Id": "summoner_area",
+    "Unknown2": -1102296331,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 857,
+    "Id": "gold_pile_area",
+    "Unknown2": 440936394,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 858,
+    "Id": "undying_boss_area",
+    "Unknown2": 726660012,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 859,
+    "Id": "merveil_area",
+    "Unknown2": 1317274210,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 860,
+    "Id": "sea_witch_boss_area",
+    "Unknown2": -1685416046,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 861,
+    "Id": "golem_boss_area",
+    "Unknown2": -494920982,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 862,
+    "Id": "chaos_golem_boss_area",
+    "Unknown2": 316855134,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 863,
+    "Id": "windy_area",
+    "Unknown2": -1277694979,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 864,
+    "Id": "templar_boss_area",
+    "Unknown2": -1649645116,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 865,
+    "Id": "doedre_monster_story",
+    "Unknown2": 1397527032,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 866,
+    "Id": "doedre_monster_map",
+    "Unknown2": -86511783,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 867,
+    "Id": "shavronne_monster_story",
+    "Unknown2": -636035696,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 868,
+    "Id": "shavronne_monster_map",
+    "Unknown2": 173599506,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 869,
+    "Id": "maligaro_monster_story",
+    "Unknown2": -1283161707,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 870,
+    "Id": "maligaro_monste_map",
+    "Unknown2": 1195695310,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 871,
+    "Id": "unholy_trio_monster_story",
+    "Unknown2": 477670791,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 872,
+    "Id": "unholy_trio_monster_map",
+    "Unknown2": 1939231545,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 873,
+    "Id": "voll_area",
+    "Unknown2": 1010936803,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 874,
+    "Id": "doedre_area",
+    "Unknown2": 1944943512,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 875,
+    "Id": "shavronne_area",
+    "Unknown2": 900762192,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 876,
+    "Id": "maligaro_area",
+    "Unknown2": 1606012979,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 877,
+    "Id": "unholy_trio_area",
+    "Unknown2": 588817473,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 878,
+    "Id": "kitava_area",
+    "Unknown2": 763443506,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 879,
+    "Id": "atziri_area",
+    "Unknown2": -1398246493,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 880,
+    "Id": "trap_exile",
+    "Unknown2": -600148860,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 881,
+    "Id": "kraityn_area",
+    "Unknown2": 280265851,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 882,
+    "Id": "toxic_pool_area",
+    "Unknown2": -436639952,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 883,
+    "Id": "dominus_monster_story",
+    "Unknown2": -1990335845,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 884,
+    "Id": "dominus_monster_map",
+    "Unknown2": -1145040823,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 885,
+    "Id": "dominus_area",
+    "Unknown2": 158109196,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 886,
+    "Id": "necromancer_boss",
+    "Unknown2": -1898275483,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 887,
+    "Id": "necromancer_area",
+    "Unknown2": -1956576811,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 888,
+    "Id": "bestiary_spirit_boss",
+    "Unknown2": -1206670352,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 889,
+    "Id": "archer_boss",
+    "Unknown2": -1194517156,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 890,
+    "Id": "archer_boss_area",
+    "Unknown2": -2058103904,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 891,
+    "Id": "bameth",
+    "Unknown2": -23171936,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 892,
+    "Id": "dishonoured_queen",
+    "Unknown2": -1466612929,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 893,
+    "Id": "rigwald_area",
+    "Unknown2": 1912544993,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 894,
+    "Id": "ruined_area",
+    "Unknown2": 1385540054,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 895,
+    "Id": "spider_boss_area",
+    "Unknown2": 359337501,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 896,
+    "Id": "beyond_demon",
+    "Unknown2": -2111390176,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 897,
+    "Id": "female_rogue_exile",
+    "Unknown2": 1950581970,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 898,
+    "Id": "scavenger_boss_area",
+    "Unknown2": 96601205,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 899,
+    "Id": "goatman_boss_area",
+    "Unknown2": 1963149033,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 900,
+    "Id": "totem_boss_area",
+    "Unknown2": -2073802882,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 901,
+    "Id": "kitava_cultist_area",
+    "Unknown2": -211601851,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 902,
+    "Id": "abyss_commander_monster",
+    "Unknown2": 1179781733,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 903,
+    "Id": "solaris_boss_story",
+    "Unknown2": -357874702,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 904,
+    "Id": "solaris_boss_map",
+    "Unknown2": -423704936,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 905,
+    "Id": "elder_portal_monster",
+    "Unknown2": -1860203777,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 906,
+    "Id": "shaper_void_entity_monster",
+    "Unknown2": 784155329,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 907,
+    "Id": "abaxoth_monster",
+    "Unknown2": -648960437,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 908,
+    "Id": "beyond_commander_monster",
+    "Unknown2": -641547510,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 909,
+    "Id": "unholy_trio_combined_boss_story",
+    "Unknown2": -138652970,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 910,
+    "Id": "unholy_trio_combined_boss_map",
+    "Unknown2": -229272639,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 911,
+    "Id": "crystalline_area",
+    "Unknown2": 2026088119,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 912,
+    "Id": "rogue_exile_boss_area",
+    "Unknown2": 846464640,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 913,
+    "Id": "shaper_guardian_boss",
+    "Unknown2": -1308764720,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 914,
+    "Id": "trio_soul_area",
+    "Unknown2": 1992376982,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 915,
+    "Id": "abyss_lich_boss",
+    "Unknown2": -1516407459,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 916,
+    "Id": "elder_guardian_boss",
+    "Unknown2": 313929952,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 917,
+    "Id": "chayula_boss",
+    "Unknown2": 1420620227,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 918,
+    "Id": "harbinger_portal_monster",
+    "Unknown2": 1431369955,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 919,
+    "Id": "invasion_boss",
+    "Unknown2": 1848731587,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 920,
+    "Id": "screeching_boss",
+    "Unknown2": -2044175743,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 921,
+    "Id": "king_boss_story",
+    "Unknown2": -1289629076,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 922,
+    "Id": "king_boss_map",
+    "Unknown2": -288558784,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 923,
+    "Id": "king_boss_area",
+    "Unknown2": -1369345822,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 924,
+    "Id": "labyrinth_tileset_area",
+    "Unknown2": -1028217302,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 925,
+    "Id": "betrayal_syndicate_member",
+    "Unknown2": 776402257,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 926,
+    "Id": "betrayal_janus",
+    "Unknown2": 220839046,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 927,
+    "Id": "necromancer_exile",
+    "Unknown2": 515924566,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 928,
+    "Id": "innocence_story",
+    "Unknown2": -1054948296,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 929,
+    "Id": "innocence_map",
+    "Unknown2": 1666864939,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 930,
+    "Id": "betrayal_catarina",
+    "Unknown2": -1979657170,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 931,
+    "Id": "bridge_area",
+    "Unknown2": 335286102,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 932,
+    "Id": "incursion_architect_breach",
+    "Unknown2": 2131534239,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 933,
+    "Id": "god_boss_map_area",
+    "Unknown2": 1736996193,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 934,
+    "Id": "betrayal_breach",
+    "Unknown2": -639238868,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 935,
+    "Id": "kitava_map_boss",
+    "Unknown2": -1000810973,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 936,
+    "Id": "vaal_architect_incursion",
+    "Unknown2": 313438345,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 937,
+    "Id": "vaal_architect_temple",
+    "Unknown2": -825545424,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 938,
+    "Id": "elder_boss",
+    "Unknown2": -2064128225,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 939,
+    "Id": "betrayal_cameria",
+    "Unknown2": 869503650,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 940,
+    "Id": "crusader_conqueror_boss",
+    "Unknown2": -1256720281,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 941,
+    "Id": "breachlord_boss_domain",
+    "Unknown2": 2039738857,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 942,
+    "Id": "argus_labyrinth",
+    "Unknown2": -779583375,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 943,
+    "Id": "rigwald_map_boss",
+    "Unknown2": -642867977,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 944,
+    "Id": "warlord_conqueror_boss",
+    "Unknown2": 2026762731,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 945,
+    "Id": "betrayal_guff",
+    "Unknown2": -1453948276,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 946,
+    "Id": "hunter_conqueror_boss",
+    "Unknown2": -35729284,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 947,
+    "Id": "shaper_boss",
+    "Unknown2": 1390662711,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 948,
+    "Id": "betrayal_haku",
+    "Unknown2": 656792667,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 949,
+    "Id": "metamorph_boss",
+    "Unknown2": 82916833,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 950,
+    "Id": "nature_boss",
+    "Unknown2": 667718321,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 951,
+    "Id": "atziri_boss",
+    "Unknown2": 917790602,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 952,
+    "Id": "delve_protovaal_boss",
+    "Unknown2": -676938553,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 953,
+    "Id": "delve_vaal_boss",
+    "Unknown2": -1464571324,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 954,
+    "Id": "delve_lich_boss",
+    "Unknown2": 1442331698,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 955,
+    "Id": "heist_science_miniboss_monster",
+    "Unknown2": -1780558058,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 956,
+    "Id": "chaos_breachlord",
+    "Unknown2": -1638532274,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 957,
+    "Id": "elder_lightning_guardian",
+    "Unknown2": 2039587996,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 958,
+    "Id": "redeemer_conqueror_boss",
+    "Unknown2": 1827373815,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 959,
+    "Id": "incursion_architect_card_sharp",
+    "Unknown2": -1215824865,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 960,
+    "Id": "malachai_boss_map",
+    "Unknown2": -356427638,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 961,
+    "Id": "simulacrum_boss",
+    "Unknown2": 2083517072,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 962,
+    "Id": "incursion_temple_boss",
+    "Unknown2": 1920079897,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 963,
+    "Id": "oshabi_boss",
+    "Unknown2": -1293722170,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 964,
+    "Id": "exile_molten_shell",
+    "Unknown2": -101084414,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 965,
+    "Id": "rhoa_map_boss",
+    "Unknown2": -97642796,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 966,
+    "Id": "incursion_temple_area",
+    "Unknown2": 579314224,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 967,
+    "Id": "vaal_flesh_merchant",
+    "Unknown2": -688081978,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 968,
+    "Id": "primordial_map",
+    "Unknown2": 102078291,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 969,
+    "Id": "cleansing_fire_altar",
+    "Unknown2": 1076082036,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 970,
+    "Id": "tangle_altar",
+    "Unknown2": 1592557513,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 971,
+    "Id": "primordial_altar_upside",
+    "Unknown2": -1379277435,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 972,
+    "Id": "primordial_altar_downside",
+    "Unknown2": -1546764363,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 973,
+    "Id": "cannot_be_archnemesis",
+    "Unknown2": 1924648728,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 974,
+    "Id": "pinnacle_boss",
+    "Unknown2": -1818405425,
+    "DisplayString": "Pinnacle Atlas Boss",
+    "Name": ""
+  },
+  {
+    "_rid": 975,
+    "Id": "great_tangle_currency",
+    "Unknown2": -684496231,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 976,
+    "Id": "cleansing_fire_currency",
+    "Unknown2": -1796059166,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 977,
+    "Id": "all_eldritch_currency",
+    "Unknown2": -1915101967,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 978,
+    "Id": "cannot_be_map_archnemesis",
+    "Unknown2": 1605143406,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 979,
+    "Id": "drops_in_maps_only",
+    "Unknown2": -296532136,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 980,
+    "Id": "eldritch_ember",
+    "Unknown2": 905516297,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 981,
+    "Id": "eldritch_ichor",
+    "Unknown2": -335336845,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 982,
+    "Id": "not_part_of_pack",
+    "Unknown2": 469577040,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 983,
+    "Id": "no_strider_mod",
+    "Unknown2": 1208090830,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 984,
+    "Id": "trade_market_legacy_item",
+    "Unknown2": 1004965128,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 985,
+    "Id": "blight_monster",
+    "Unknown2": -2034997917,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 986,
+    "Id": "sentinel_drone",
+    "Unknown2": 618609298,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 987,
+    "Id": "sentinel_a",
+    "Unknown2": 1425188255,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 988,
+    "Id": "sentinel_b",
+    "Unknown2": -360417806,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 989,
+    "Id": "sentinel_c",
+    "Unknown2": -1471546673,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 990,
+    "Id": "cortex_boss",
+    "Unknown2": -409292942,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 991,
+    "Id": "vaalsidearea_boss",
+    "Unknown2": 797469195,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 992,
+    "Id": "special_sentinel_mod",
+    "Unknown2": -572960467,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 993,
+    "Id": "inventing_area",
+    "Unknown2": -845972562,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 994,
+    "Id": "elderslayer",
+    "Unknown2": 524098081,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 995,
+    "Id": "peaceful_map",
+    "Unknown2": 640791601,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 996,
+    "Id": "blood_mage_boss_map",
+    "Unknown2": 1595338818,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 997,
+    "Id": "city_home_map",
+    "Unknown2": -1274601690,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 998,
+    "Id": "karui_map",
+    "Unknown2": -336690928,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 999,
+    "Id": "sentinel_power_core",
+    "Unknown2": 1382786063,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 1000,
+    "Id": "cannot_possess_boss",
+    "Unknown2": -248123316,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 1001,
+    "Id": "delve_monster",
+    "Unknown2": -1261011263,
+    "DisplayString": "",
+    "Name": ""
+  },
+  {
+    "_rid": 1002,
+    "Id": "all_sentinels",
+    "Unknown2": 817043393,
+    "DisplayString": "",
+    "Name": ""
+  }
+]

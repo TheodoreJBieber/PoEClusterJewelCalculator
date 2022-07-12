@@ -1,0 +1,86 @@
+[
+  {
+    "_rid": 0,
+    "BaseItemTypesKey": 6113,
+    "PassiveTreeExpansionJewelSizesKey": 0,
+    "MinNodes": 2,
+    "MaxNodes": 3,
+    "SmallIndices": [
+      0,
+      4,
+      2
+    ],
+    "NotableIndices": [
+      4
+    ],
+    "SocketIndices": [
+      4
+    ],
+    "Art": "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltRed",
+    "TotalIndices": 6,
+    "SoundEffectsKey": 217
+  },
+  {
+    "_rid": 1,
+    "BaseItemTypesKey": 6112,
+    "PassiveTreeExpansionJewelSizesKey": 1,
+    "MinNodes": 4,
+    "MaxNodes": 6,
+    "SmallIndices": [
+      0,
+      6,
+      8,
+      4,
+      10,
+      2
+    ],
+    "NotableIndices": [
+      6,
+      10,
+      2,
+      0
+    ],
+    "SocketIndices": [
+      6
+    ],
+    "Art": "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltBlue",
+    "TotalIndices": 12,
+    "SoundEffectsKey": 218
+  },
+  {
+    "_rid": 2,
+    "BaseItemTypesKey": 6111,
+    "PassiveTreeExpansionJewelSizesKey": 2,
+    "MinNodes": 8,
+    "MaxNodes": 12,
+    "SmallIndices": [
+      0,
+      4,
+      6,
+      8,
+      10,
+      2,
+      7,
+      5,
+      9,
+      3,
+      11,
+      1
+    ],
+    "NotableIndices": [
+      6,
+      4,
+      8,
+      10,
+      2
+    ],
+    "SocketIndices": [
+      4,
+      8,
+      6
+    ],
+    "Art": "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltPurple",
+    "TotalIndices": 12,
+    "SoundEffectsKey": 219
+  }
+]

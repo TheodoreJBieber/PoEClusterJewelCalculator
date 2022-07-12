@@ -2,8 +2,9 @@ var sortOrderMap;
 var sortOrderReverseMap;
 var notablesList;
 var sizesList;
+var megaStruct;
 
-function initData(sortOrderPath, notablesPath, sizesPath) {
+function initData(sortOrderPath, notablesPath, sizesPath, megaPath) {
 	fetch(sortOrderPath)
 	.then(response => {
 		return response.json();
@@ -33,6 +34,14 @@ function initData(sortOrderPath, notablesPath, sizesPath) {
 		sizesList = jsondata;
 		fillInNotablesLegend();
 	})
+
+	fetch(megaPath)
+	.then(response => {
+		return response.json();
+	})
+	.then(jsondata => {
+		megaStruct = jsondata;
+	});
 }
 
 function fillindropdowns() {

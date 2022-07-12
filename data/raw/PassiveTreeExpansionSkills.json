@@ -1,0 +1,387 @@
+[
+  {
+    "_rid": 0,
+    "PassiveSkillsKey": 2613,
+    "Mastery_PassiveSkillsKey": 3054,
+    "TagsKey": 575,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 1,
+    "PassiveSkillsKey": 2614,
+    "Mastery_PassiveSkillsKey": 3055,
+    "TagsKey": 576,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 2,
+    "PassiveSkillsKey": 2615,
+    "Mastery_PassiveSkillsKey": 3056,
+    "TagsKey": 577,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 3,
+    "PassiveSkillsKey": 2616,
+    "Mastery_PassiveSkillsKey": 3057,
+    "TagsKey": 578,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 4,
+    "PassiveSkillsKey": 2617,
+    "Mastery_PassiveSkillsKey": 3058,
+    "TagsKey": 579,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 5,
+    "PassiveSkillsKey": 2618,
+    "Mastery_PassiveSkillsKey": 3059,
+    "TagsKey": 580,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 6,
+    "PassiveSkillsKey": 2619,
+    "Mastery_PassiveSkillsKey": 3060,
+    "TagsKey": 581,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 7,
+    "PassiveSkillsKey": 2620,
+    "Mastery_PassiveSkillsKey": 3061,
+    "TagsKey": 582,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 8,
+    "PassiveSkillsKey": 2621,
+    "Mastery_PassiveSkillsKey": 3062,
+    "TagsKey": 583,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 9,
+    "PassiveSkillsKey": 2622,
+    "Mastery_PassiveSkillsKey": 3063,
+    "TagsKey": 584,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 10,
+    "PassiveSkillsKey": 2623,
+    "Mastery_PassiveSkillsKey": 3064,
+    "TagsKey": 585,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 11,
+    "PassiveSkillsKey": 2624,
+    "Mastery_PassiveSkillsKey": 3065,
+    "TagsKey": 586,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 12,
+    "PassiveSkillsKey": 2625,
+    "Mastery_PassiveSkillsKey": 3066,
+    "TagsKey": 587,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 13,
+    "PassiveSkillsKey": 2626,
+    "Mastery_PassiveSkillsKey": 3067,
+    "TagsKey": 588,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 14,
+    "PassiveSkillsKey": 2627,
+    "Mastery_PassiveSkillsKey": 3068,
+    "TagsKey": 589,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 15,
+    "PassiveSkillsKey": 2628,
+    "Mastery_PassiveSkillsKey": 3069,
+    "TagsKey": 590,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 16,
+    "PassiveSkillsKey": 2629,
+    "Mastery_PassiveSkillsKey": 3070,
+    "TagsKey": 591,
+    "PassiveTreeExpansionJewelSizesKey": 2
+  },
+  {
+    "_rid": 17,
+    "PassiveSkillsKey": 2630,
+    "Mastery_PassiveSkillsKey": 3071,
+    "TagsKey": 592,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 18,
+    "PassiveSkillsKey": 2631,
+    "Mastery_PassiveSkillsKey": 3072,
+    "TagsKey": 593,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 19,
+    "PassiveSkillsKey": 2632,
+    "Mastery_PassiveSkillsKey": 3073,
+    "TagsKey": 594,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 20,
+    "PassiveSkillsKey": 2633,
+    "Mastery_PassiveSkillsKey": 3074,
+    "TagsKey": 595,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 21,
+    "PassiveSkillsKey": 2634,
+    "Mastery_PassiveSkillsKey": 3075,
+    "TagsKey": 596,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 22,
+    "PassiveSkillsKey": 2635,
+    "Mastery_PassiveSkillsKey": 3076,
+    "TagsKey": 597,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 23,
+    "PassiveSkillsKey": 2636,
+    "Mastery_PassiveSkillsKey": 3077,
+    "TagsKey": 598,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 24,
+    "PassiveSkillsKey": 2637,
+    "Mastery_PassiveSkillsKey": 3078,
+    "TagsKey": 599,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 25,
+    "PassiveSkillsKey": 2638,
+    "Mastery_PassiveSkillsKey": 3079,
+    "TagsKey": 600,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 26,
+    "PassiveSkillsKey": 2639,
+    "Mastery_PassiveSkillsKey": 3080,
+    "TagsKey": 601,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 27,
+    "PassiveSkillsKey": 2640,
+    "Mastery_PassiveSkillsKey": 3081,
+    "TagsKey": 602,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 28,
+    "PassiveSkillsKey": 2641,
+    "Mastery_PassiveSkillsKey": 3082,
+    "TagsKey": 603,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 29,
+    "PassiveSkillsKey": 2642,
+    "Mastery_PassiveSkillsKey": 3083,
+    "TagsKey": 604,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 30,
+    "PassiveSkillsKey": 2643,
+    "Mastery_PassiveSkillsKey": 3084,
+    "TagsKey": 605,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 31,
+    "PassiveSkillsKey": 2644,
+    "Mastery_PassiveSkillsKey": 3085,
+    "TagsKey": 606,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 32,
+    "PassiveSkillsKey": 2645,
+    "Mastery_PassiveSkillsKey": 3086,
+    "TagsKey": 607,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 33,
+    "PassiveSkillsKey": 2646,
+    "Mastery_PassiveSkillsKey": 3087,
+    "TagsKey": 608,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 34,
+    "PassiveSkillsKey": 2647,
+    "Mastery_PassiveSkillsKey": 3088,
+    "TagsKey": 609,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 35,
+    "PassiveSkillsKey": 2648,
+    "Mastery_PassiveSkillsKey": 3089,
+    "TagsKey": 610,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 36,
+    "PassiveSkillsKey": 2649,
+    "Mastery_PassiveSkillsKey": 3090,
+    "TagsKey": 611,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 37,
+    "PassiveSkillsKey": 2650,
+    "Mastery_PassiveSkillsKey": 3091,
+    "TagsKey": 612,
+    "PassiveTreeExpansionJewelSizesKey": 1
+  },
+  {
+    "_rid": 38,
+    "PassiveSkillsKey": 2651,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 613,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 39,
+    "PassiveSkillsKey": 2652,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 614,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 40,
+    "PassiveSkillsKey": 2653,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 615,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 41,
+    "PassiveSkillsKey": 2654,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 616,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 42,
+    "PassiveSkillsKey": 2655,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 617,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 43,
+    "PassiveSkillsKey": 2656,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 618,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 44,
+    "PassiveSkillsKey": 2657,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 618,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 45,
+    "PassiveSkillsKey": 2658,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 619,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 46,
+    "PassiveSkillsKey": 2659,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 620,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 47,
+    "PassiveSkillsKey": 2660,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 621,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 48,
+    "PassiveSkillsKey": 2661,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 622,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 49,
+    "PassiveSkillsKey": 2662,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 623,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 50,
+    "PassiveSkillsKey": 2663,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 624,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 51,
+    "PassiveSkillsKey": 2664,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 625,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 52,
+    "PassiveSkillsKey": 2665,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 626,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 53,
+    "PassiveSkillsKey": 2666,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 755,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  },
+  {
+    "_rid": 54,
+    "PassiveSkillsKey": 2667,
+    "Mastery_PassiveSkillsKey": null,
+    "TagsKey": 756,
+    "PassiveTreeExpansionJewelSizesKey": 0
+  }
+]

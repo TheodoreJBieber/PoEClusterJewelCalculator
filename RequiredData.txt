@@ -1,0 +1,11 @@
+https://snosme.github.io/poe-dat-viewer/
+Data files:
+PassiveSkills
+Mods
+Tags
+PassiveTreeExpansionJewels
+PassiveTreeExpansionJewelSizes
+PassiveTreeExpansionSkills
+PassiveTreeExpansionSpecialSkills
+Stats
+BaseItemTypes

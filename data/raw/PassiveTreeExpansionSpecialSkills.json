@@ -1,0 +1,1537 @@
+[
+  {
+    "_rid": 0,
+    "PassiveSkillsKey": 2668,
+    "StatsKey": 10931
+  },
+  {
+    "_rid": 1,
+    "PassiveSkillsKey": 2669,
+    "StatsKey": 11421
+  },
+  {
+    "_rid": 2,
+    "PassiveSkillsKey": 2670,
+    "StatsKey": 11422
+  },
+  {
+    "_rid": 3,
+    "PassiveSkillsKey": 2671,
+    "StatsKey": 11423
+  },
+  {
+    "_rid": 4,
+    "PassiveSkillsKey": 2672,
+    "StatsKey": 11424
+  },
+  {
+    "_rid": 5,
+    "PassiveSkillsKey": 2673,
+    "StatsKey": 11426
+  },
+  {
+    "_rid": 6,
+    "PassiveSkillsKey": 2674,
+    "StatsKey": 11427
+  },
+  {
+    "_rid": 7,
+    "PassiveSkillsKey": 2675,
+    "StatsKey": 11425
+  },
+  {
+    "_rid": 8,
+    "PassiveSkillsKey": 2676,
+    "StatsKey": 11118
+  },
+  {
+    "_rid": 9,
+    "PassiveSkillsKey": 2677,
+    "StatsKey": 11119
+  },
+  {
+    "_rid": 10,
+    "PassiveSkillsKey": 2678,
+    "StatsKey": 11120
+  },
+  {
+    "_rid": 11,
+    "PassiveSkillsKey": 2679,
+    "StatsKey": 11121
+  },
+  {
+    "_rid": 12,
+    "PassiveSkillsKey": 2680,
+    "StatsKey": 11122
+  },
+  {
+    "_rid": 13,
+    "PassiveSkillsKey": 2681,
+    "StatsKey": 11123
+  },
+  {
+    "_rid": 14,
+    "PassiveSkillsKey": 2682,
+    "StatsKey": 11124
+  },
+  {
+    "_rid": 15,
+    "PassiveSkillsKey": 2683,
+    "StatsKey": 11125
+  },
+  {
+    "_rid": 16,
+    "PassiveSkillsKey": 2684,
+    "StatsKey": 11126
+  },
+  {
+    "_rid": 17,
+    "PassiveSkillsKey": 2685,
+    "StatsKey": 11127
+  },
+  {
+    "_rid": 18,
+    "PassiveSkillsKey": 2686,
+    "StatsKey": 11128
+  },
+  {
+    "_rid": 19,
+    "PassiveSkillsKey": 2687,
+    "StatsKey": 11129
+  },
+  {
+    "_rid": 20,
+    "PassiveSkillsKey": 2688,
+    "StatsKey": 11130
+  },
+  {
+    "_rid": 21,
+    "PassiveSkillsKey": 2689,
+    "StatsKey": 11131
+  },
+  {
+    "_rid": 22,
+    "PassiveSkillsKey": 2690,
+    "StatsKey": 11132
+  },
+  {
+    "_rid": 23,
+    "PassiveSkillsKey": 2691,
+    "StatsKey": 11133
+  },
+  {
+    "_rid": 24,
+    "PassiveSkillsKey": 2692,
+    "StatsKey": 11134
+  },
+  {
+    "_rid": 25,
+    "PassiveSkillsKey": 2693,
+    "StatsKey": 11135
+  },
+  {
+    "_rid": 26,
+    "PassiveSkillsKey": 2694,
+    "StatsKey": 11136
+  },
+  {
+    "_rid": 27,
+    "PassiveSkillsKey": 2695,
+    "StatsKey": 11137
+  },
+  {
+    "_rid": 28,
+    "PassiveSkillsKey": 2696,
+    "StatsKey": 11138
+  },
+  {
+    "_rid": 29,
+    "PassiveSkillsKey": 2697,
+    "StatsKey": 11139
+  },
+  {
+    "_rid": 30,
+    "PassiveSkillsKey": 2698,
+    "StatsKey": 11140
+  },
+  {
+    "_rid": 31,
+    "PassiveSkillsKey": 2699,
+    "StatsKey": 11141
+  },
+  {
+    "_rid": 32,
+    "PassiveSkillsKey": 2700,
+    "StatsKey": 11142
+  },
+  {
+    "_rid": 33,
+    "PassiveSkillsKey": 2704,
+    "StatsKey": 11143
+  },
+  {
+    "_rid": 34,
+    "PassiveSkillsKey": 2705,
+    "StatsKey": 11144
+  },
+  {
+    "_rid": 35,
+    "PassiveSkillsKey": 2706,
+    "StatsKey": 11145
+  },
+  {
+    "_rid": 36,
+    "PassiveSkillsKey": 2707,
+    "StatsKey": 11146
+  },
+  {
+    "_rid": 37,
+    "PassiveSkillsKey": 2708,
+    "StatsKey": 11147
+  },
+  {
+    "_rid": 38,
+    "PassiveSkillsKey": 2709,
+    "StatsKey": 11148
+  },
+  {
+    "_rid": 39,
+    "PassiveSkillsKey": 2710,
+    "StatsKey": 11149
+  },
+  {
+    "_rid": 40,
+    "PassiveSkillsKey": 2711,
+    "StatsKey": 11150
+  },
+  {
+    "_rid": 41,
+    "PassiveSkillsKey": 2712,
+    "StatsKey": 11151
+  },
+  {
+    "_rid": 42,
+    "PassiveSkillsKey": 2713,
+    "StatsKey": 11152
+  },
+  {
+    "_rid": 43,
+    "PassiveSkillsKey": 2714,
+    "StatsKey": 11153
+  },
+  {
+    "_rid": 44,
+    "PassiveSkillsKey": 2715,
+    "StatsKey": 11154
+  },
+  {
+    "_rid": 45,
+    "PassiveSkillsKey": 2716,
+    "StatsKey": 11155
+  },
+  {
+    "_rid": 46,
+    "PassiveSkillsKey": 2717,
+    "StatsKey": 11156
+  },
+  {
+    "_rid": 47,
+    "PassiveSkillsKey": 2718,
+    "StatsKey": 11157
+  },
+  {
+    "_rid": 48,
+    "PassiveSkillsKey": 2719,
+    "StatsKey": 11158
+  },
+  {
+    "_rid": 49,
+    "PassiveSkillsKey": 2720,
+    "StatsKey": 11159
+  },
+  {
+    "_rid": 50,
+    "PassiveSkillsKey": 2721,
+    "StatsKey": 11160
+  },
+  {
+    "_rid": 51,
+    "PassiveSkillsKey": 2722,
+    "StatsKey": 11161
+  },
+  {
+    "_rid": 52,
+    "PassiveSkillsKey": 2723,
+    "StatsKey": 11162
+  },
+  {
+    "_rid": 53,
+    "PassiveSkillsKey": 2724,
+    "StatsKey": 11163
+  },
+  {
+    "_rid": 54,
+    "PassiveSkillsKey": 2725,
+    "StatsKey": 11164
+  },
+  {
+    "_rid": 55,
+    "PassiveSkillsKey": 2726,
+    "StatsKey": 11165
+  },
+  {
+    "_rid": 56,
+    "PassiveSkillsKey": 2727,
+    "StatsKey": 11166
+  },
+  {
+    "_rid": 57,
+    "PassiveSkillsKey": 2728,
+    "StatsKey": 11167
+  },
+  {
+    "_rid": 58,
+    "PassiveSkillsKey": 2729,
+    "StatsKey": 11168
+  },
+  {
+    "_rid": 59,
+    "PassiveSkillsKey": 2730,
+    "StatsKey": 11169
+  },
+  {
+    "_rid": 60,
+    "PassiveSkillsKey": 2731,
+    "StatsKey": 11170
+  },
+  {
+    "_rid": 61,
+    "PassiveSkillsKey": 2732,
+    "StatsKey": 11171
+  },
+  {
+    "_rid": 62,
+    "PassiveSkillsKey": 2733,
+    "StatsKey": 11172
+  },
+  {
+    "_rid": 63,
+    "PassiveSkillsKey": 2734,
+    "StatsKey": 11173
+  },
+  {
+    "_rid": 64,
+    "PassiveSkillsKey": 2735,
+    "StatsKey": 11174
+  },
+  {
+    "_rid": 65,
+    "PassiveSkillsKey": 2736,
+    "StatsKey": 11175
+  },
+  {
+    "_rid": 66,
+    "PassiveSkillsKey": 2737,
+    "StatsKey": 11176
+  },
+  {
+    "_rid": 67,
+    "PassiveSkillsKey": 2738,
+    "StatsKey": 11177
+  },
+  {
+    "_rid": 68,
+    "PassiveSkillsKey": 2739,
+    "StatsKey": 11178
+  },
+  {
+    "_rid": 69,
+    "PassiveSkillsKey": 2740,
+    "StatsKey": 11179
+  },
+  {
+    "_rid": 70,
+    "PassiveSkillsKey": 2741,
+    "StatsKey": 11180
+  },
+  {
+    "_rid": 71,
+    "PassiveSkillsKey": 2742,
+    "StatsKey": 11181
+  },
+  {
+    "_rid": 72,
+    "PassiveSkillsKey": 2743,
+    "StatsKey": 11182
+  },
+  {
+    "_rid": 73,
+    "PassiveSkillsKey": 2744,
+    "StatsKey": 11183
+  },
+  {
+    "_rid": 74,
+    "PassiveSkillsKey": 2745,
+    "StatsKey": 11184
+  },
+  {
+    "_rid": 75,
+    "PassiveSkillsKey": 2746,
+    "StatsKey": 11185
+  },
+  {
+    "_rid": 76,
+    "PassiveSkillsKey": 2747,
+    "StatsKey": 11186
+  },
+  {
+    "_rid": 77,
+    "PassiveSkillsKey": 2748,
+    "StatsKey": 11187
+  },
+  {
+    "_rid": 78,
+    "PassiveSkillsKey": 2749,
+    "StatsKey": 11188
+  },
+  {
+    "_rid": 79,
+    "PassiveSkillsKey": 2750,
+    "StatsKey": 11189
+  },
+  {
+    "_rid": 80,
+    "PassiveSkillsKey": 2751,
+    "StatsKey": 11190
+  },
+  {
+    "_rid": 81,
+    "PassiveSkillsKey": 2752,
+    "StatsKey": 11191
+  },
+  {
+    "_rid": 82,
+    "PassiveSkillsKey": 2753,
+    "StatsKey": 11192
+  },
+  {
+    "_rid": 83,
+    "PassiveSkillsKey": 2754,
+    "StatsKey": 11193
+  },
+  {
+    "_rid": 84,
+    "PassiveSkillsKey": 2755,
+    "StatsKey": 11194
+  },
+  {
+    "_rid": 85,
+    "PassiveSkillsKey": 2756,
+    "StatsKey": 11195
+  },
+  {
+    "_rid": 86,
+    "PassiveSkillsKey": 2757,
+    "StatsKey": 11196
+  },
+  {
+    "_rid": 87,
+    "PassiveSkillsKey": 2758,
+    "StatsKey": 11197
+  },
+  {
+    "_rid": 88,
+    "PassiveSkillsKey": 2759,
+    "StatsKey": 11198
+  },
+  {
+    "_rid": 89,
+    "PassiveSkillsKey": 2760,
+    "StatsKey": 11199
+  },
+  {
+    "_rid": 90,
+    "PassiveSkillsKey": 2761,
+    "StatsKey": 11200
+  },
+  {
+    "_rid": 91,
+    "PassiveSkillsKey": 2762,
+    "StatsKey": 11201
+  },
+  {
+    "_rid": 92,
+    "PassiveSkillsKey": 2763,
+    "StatsKey": 11202
+  },
+  {
+    "_rid": 93,
+    "PassiveSkillsKey": 2764,
+    "StatsKey": 11203
+  },
+  {
+    "_rid": 94,
+    "PassiveSkillsKey": 2765,
+    "StatsKey": 11204
+  },
+  {
+    "_rid": 95,
+    "PassiveSkillsKey": 2766,
+    "StatsKey": 11205
+  },
+  {
+    "_rid": 96,
+    "PassiveSkillsKey": 2767,
+    "StatsKey": 11206
+  },
+  {
+    "_rid": 97,
+    "PassiveSkillsKey": 2768,
+    "StatsKey": 11207
+  },
+  {
+    "_rid": 98,
+    "PassiveSkillsKey": 2769,
+    "StatsKey": 11208
+  },
+  {
+    "_rid": 99,
+    "PassiveSkillsKey": 2770,
+    "StatsKey": 11209
+  },
+  {
+    "_rid": 100,
+    "PassiveSkillsKey": 2771,
+    "StatsKey": 11210
+  },
+  {
+    "_rid": 101,
+    "PassiveSkillsKey": 2772,
+    "StatsKey": 11211
+  },
+  {
+    "_rid": 102,
+    "PassiveSkillsKey": 2773,
+    "StatsKey": 11212
+  },
+  {
+    "_rid": 103,
+    "PassiveSkillsKey": 2774,
+    "StatsKey": 11213
+  },
+  {
+    "_rid": 104,
+    "PassiveSkillsKey": 2775,
+    "StatsKey": 11214
+  },
+  {
+    "_rid": 105,
+    "PassiveSkillsKey": 2776,
+    "StatsKey": 11215
+  },
+  {
+    "_rid": 106,
+    "PassiveSkillsKey": 2777,
+    "StatsKey": 11216
+  },
+  {
+    "_rid": 107,
+    "PassiveSkillsKey": 2778,
+    "StatsKey": 11217
+  },
+  {
+    "_rid": 108,
+    "PassiveSkillsKey": 2779,
+    "StatsKey": 11218
+  },
+  {
+    "_rid": 109,
+    "PassiveSkillsKey": 2780,
+    "StatsKey": 11219
+  },
+  {
+    "_rid": 110,
+    "PassiveSkillsKey": 2781,
+    "StatsKey": 11220
+  },
+  {
+    "_rid": 111,
+    "PassiveSkillsKey": 2782,
+    "StatsKey": 11221
+  },
+  {
+    "_rid": 112,
+    "PassiveSkillsKey": 2784,
+    "StatsKey": 11222
+  },
+  {
+    "_rid": 113,
+    "PassiveSkillsKey": 2785,
+    "StatsKey": 11223
+  },
+  {
+    "_rid": 114,
+    "PassiveSkillsKey": 2786,
+    "StatsKey": 11224
+  },
+  {
+    "_rid": 115,
+    "PassiveSkillsKey": 2787,
+    "StatsKey": 11225
+  },
+  {
+    "_rid": 116,
+    "PassiveSkillsKey": 2788,
+    "StatsKey": 11226
+  },
+  {
+    "_rid": 117,
+    "PassiveSkillsKey": 2789,
+    "StatsKey": 11227
+  },
+  {
+    "_rid": 118,
+    "PassiveSkillsKey": 2790,
+    "StatsKey": 11228
+  },
+  {
+    "_rid": 119,
+    "PassiveSkillsKey": 2791,
+    "StatsKey": 11229
+  },
+  {
+    "_rid": 120,
+    "PassiveSkillsKey": 2792,
+    "StatsKey": 11230
+  },
+  {
+    "_rid": 121,
+    "PassiveSkillsKey": 2793,
+    "StatsKey": 11231
+  },
+  {
+    "_rid": 122,
+    "PassiveSkillsKey": 2794,
+    "StatsKey": 11232
+  },
+  {
+    "_rid": 123,
+    "PassiveSkillsKey": 2795,
+    "StatsKey": 11233
+  },
+  {
+    "_rid": 124,
+    "PassiveSkillsKey": 2796,
+    "StatsKey": 11234
+  },
+  {
+    "_rid": 125,
+    "PassiveSkillsKey": 2797,
+    "StatsKey": 11235
+  },
+  {
+    "_rid": 126,
+    "PassiveSkillsKey": 2798,
+    "StatsKey": 11236
+  },
+  {
+    "_rid": 127,
+    "PassiveSkillsKey": 2799,
+    "StatsKey": 11237
+  },
+  {
+    "_rid": 128,
+    "PassiveSkillsKey": 2800,
+    "StatsKey": 11238
+  },
+  {
+    "_rid": 129,
+    "PassiveSkillsKey": 2801,
+    "StatsKey": 11239
+  },
+  {
+    "_rid": 130,
+    "PassiveSkillsKey": 2802,
+    "StatsKey": 11240
+  },
+  {
+    "_rid": 131,
+    "PassiveSkillsKey": 2803,
+    "StatsKey": 11241
+  },
+  {
+    "_rid": 132,
+    "PassiveSkillsKey": 2804,
+    "StatsKey": 11242
+  },
+  {
+    "_rid": 133,
+    "PassiveSkillsKey": 2805,
+    "StatsKey": 11243
+  },
+  {
+    "_rid": 134,
+    "PassiveSkillsKey": 2806,
+    "StatsKey": 11244
+  },
+  {
+    "_rid": 135,
+    "PassiveSkillsKey": 2807,
+    "StatsKey": 11245
+  },
+  {
+    "_rid": 136,
+    "PassiveSkillsKey": 2808,
+    "StatsKey": 11246
+  },
+  {
+    "_rid": 137,
+    "PassiveSkillsKey": 2809,
+    "StatsKey": 11247
+  },
+  {
+    "_rid": 138,
+    "PassiveSkillsKey": 2810,
+    "StatsKey": 11248
+  },
+  {
+    "_rid": 139,
+    "PassiveSkillsKey": 2811,
+    "StatsKey": 11249
+  },
+  {
+    "_rid": 140,
+    "PassiveSkillsKey": 2812,
+    "StatsKey": 11250
+  },
+  {
+    "_rid": 141,
+    "PassiveSkillsKey": 2813,
+    "StatsKey": 11251
+  },
+  {
+    "_rid": 142,
+    "PassiveSkillsKey": 2814,
+    "StatsKey": 11252
+  },
+  {
+    "_rid": 143,
+    "PassiveSkillsKey": 2815,
+    "StatsKey": 11253
+  },
+  {
+    "_rid": 144,
+    "PassiveSkillsKey": 2816,
+    "StatsKey": 11254
+  },
+  {
+    "_rid": 145,
+    "PassiveSkillsKey": 2817,
+    "StatsKey": 11255
+  },
+  {
+    "_rid": 146,
+    "PassiveSkillsKey": 2818,
+    "StatsKey": 11543
+  },
+  {
+    "_rid": 147,
+    "PassiveSkillsKey": 2819,
+    "StatsKey": 11256
+  },
+  {
+    "_rid": 148,
+    "PassiveSkillsKey": 2820,
+    "StatsKey": 11257
+  },
+  {
+    "_rid": 149,
+    "PassiveSkillsKey": 2821,
+    "StatsKey": 11258
+  },
+  {
+    "_rid": 150,
+    "PassiveSkillsKey": 2822,
+    "StatsKey": 11259
+  },
+  {
+    "_rid": 151,
+    "PassiveSkillsKey": 2823,
+    "StatsKey": 11260
+  },
+  {
+    "_rid": 152,
+    "PassiveSkillsKey": 2824,
+    "StatsKey": 11261
+  },
+  {
+    "_rid": 153,
+    "PassiveSkillsKey": 2825,
+    "StatsKey": 11262
+  },
+  {
+    "_rid": 154,
+    "PassiveSkillsKey": 2826,
+    "StatsKey": 11263
+  },
+  {
+    "_rid": 155,
+    "PassiveSkillsKey": 2827,
+    "StatsKey": 11264
+  },
+  {
+    "_rid": 156,
+    "PassiveSkillsKey": 2828,
+    "StatsKey": 11265
+  },
+  {
+    "_rid": 157,
+    "PassiveSkillsKey": 2829,
+    "StatsKey": 11266
+  },
+  {
+    "_rid": 158,
+    "PassiveSkillsKey": 2830,
+    "StatsKey": 11267
+  },
+  {
+    "_rid": 159,
+    "PassiveSkillsKey": 2831,
+    "StatsKey": 13940
+  },
+  {
+    "_rid": 160,
+    "PassiveSkillsKey": 2832,
+    "StatsKey": 13941
+  },
+  {
+    "_rid": 161,
+    "PassiveSkillsKey": 2833,
+    "StatsKey": 11268
+  },
+  {
+    "_rid": 162,
+    "PassiveSkillsKey": 2834,
+    "StatsKey": 11269
+  },
+  {
+    "_rid": 163,
+    "PassiveSkillsKey": 2835,
+    "StatsKey": 11270
+  },
+  {
+    "_rid": 164,
+    "PassiveSkillsKey": 2836,
+    "StatsKey": 11271
+  },
+  {
+    "_rid": 165,
+    "PassiveSkillsKey": 2837,
+    "StatsKey": 11272
+  },
+  {
+    "_rid": 166,
+    "PassiveSkillsKey": 2838,
+    "StatsKey": 11273
+  },
+  {
+    "_rid": 167,
+    "PassiveSkillsKey": 2839,
+    "StatsKey": 11274
+  },
+  {
+    "_rid": 168,
+    "PassiveSkillsKey": 2840,
+    "StatsKey": 11275
+  },
+  {
+    "_rid": 169,
+    "PassiveSkillsKey": 2841,
+    "StatsKey": 11276
+  },
+  {
+    "_rid": 170,
+    "PassiveSkillsKey": 2842,
+    "StatsKey": 11277
+  },
+  {
+    "_rid": 171,
+    "PassiveSkillsKey": 2843,
+    "StatsKey": 11278
+  },
+  {
+    "_rid": 172,
+    "PassiveSkillsKey": 2844,
+    "StatsKey": 11279
+  },
+  {
+    "_rid": 173,
+    "PassiveSkillsKey": 2845,
+    "StatsKey": 11280
+  },
+  {
+    "_rid": 174,
+    "PassiveSkillsKey": 2846,
+    "StatsKey": 11281
+  },
+  {
+    "_rid": 175,
+    "PassiveSkillsKey": 2847,
+    "StatsKey": 11282
+  },
+  {
+    "_rid": 176,
+    "PassiveSkillsKey": 2848,
+    "StatsKey": 11283
+  },
+  {
+    "_rid": 177,
+    "PassiveSkillsKey": 2849,
+    "StatsKey": 11284
+  },
+  {
+    "_rid": 178,
+    "PassiveSkillsKey": 2850,
+    "StatsKey": 11285
+  },
+  {
+    "_rid": 179,
+    "PassiveSkillsKey": 2851,
+    "StatsKey": 11286
+  },
+  {
+    "_rid": 180,
+    "PassiveSkillsKey": 2852,
+    "StatsKey": 11287
+  },
+  {
+    "_rid": 181,
+    "PassiveSkillsKey": 2853,
+    "StatsKey": 11288
+  },
+  {
+    "_rid": 182,
+    "PassiveSkillsKey": 2854,
+    "StatsKey": 11289
+  },
+  {
+    "_rid": 183,
+    "PassiveSkillsKey": 2855,
+    "StatsKey": 11290
+  },
+  {
+    "_rid": 184,
+    "PassiveSkillsKey": 2856,
+    "StatsKey": 11291
+  },
+  {
+    "_rid": 185,
+    "PassiveSkillsKey": 2857,
+    "StatsKey": 11292
+  },
+  {
+    "_rid": 186,
+    "PassiveSkillsKey": 2858,
+    "StatsKey": 11293
+  },
+  {
+    "_rid": 187,
+    "PassiveSkillsKey": 2859,
+    "StatsKey": 11294
+  },
+  {
+    "_rid": 188,
+    "PassiveSkillsKey": 2860,
+    "StatsKey": 11295
+  },
+  {
+    "_rid": 189,
+    "PassiveSkillsKey": 2861,
+    "StatsKey": 11296
+  },
+  {
+    "_rid": 190,
+    "PassiveSkillsKey": 2871,
+    "StatsKey": 11297
+  },
+  {
+    "_rid": 191,
+    "PassiveSkillsKey": 2872,
+    "StatsKey": 11298
+  },
+  {
+    "_rid": 192,
+    "PassiveSkillsKey": 2873,
+    "StatsKey": 11299
+  },
+  {
+    "_rid": 193,
+    "PassiveSkillsKey": 2874,
+    "StatsKey": 11300
+  },
+  {
+    "_rid": 194,
+    "PassiveSkillsKey": 2875,
+    "StatsKey": 11301
+  },
+  {
+    "_rid": 195,
+    "PassiveSkillsKey": 2876,
+    "StatsKey": 11302
+  },
+  {
+    "_rid": 196,
+    "PassiveSkillsKey": 2877,
+    "StatsKey": 11303
+  },
+  {
+    "_rid": 197,
+    "PassiveSkillsKey": 2878,
+    "StatsKey": 11304
+  },
+  {
+    "_rid": 198,
+    "PassiveSkillsKey": 2879,
+    "StatsKey": 11305
+  },
+  {
+    "_rid": 199,
+    "PassiveSkillsKey": 2880,
+    "StatsKey": 11306
+  },
+  {
+    "_rid": 200,
+    "PassiveSkillsKey": 2881,
+    "StatsKey": 11307
+  },
+  {
+    "_rid": 201,
+    "PassiveSkillsKey": 2882,
+    "StatsKey": 11308
+  },
+  {
+    "_rid": 202,
+    "PassiveSkillsKey": 2883,
+    "StatsKey": 11309
+  },
+  {
+    "_rid": 203,
+    "PassiveSkillsKey": 2884,
+    "StatsKey": 11310
+  },
+  {
+    "_rid": 204,
+    "PassiveSkillsKey": 2885,
+    "StatsKey": 11311
+  },
+  {
+    "_rid": 205,
+    "PassiveSkillsKey": 2886,
+    "StatsKey": 11312
+  },
+  {
+    "_rid": 206,
+    "PassiveSkillsKey": 2887,
+    "StatsKey": 11313
+  },
+  {
+    "_rid": 207,
+    "PassiveSkillsKey": 2888,
+    "StatsKey": 11314
+  },
+  {
+    "_rid": 208,
+    "PassiveSkillsKey": 2889,
+    "StatsKey": 11315
+  },
+  {
+    "_rid": 209,
+    "PassiveSkillsKey": 2890,
+    "StatsKey": 11316
+  },
+  {
+    "_rid": 210,
+    "PassiveSkillsKey": 2891,
+    "StatsKey": 11317
+  },
+  {
+    "_rid": 211,
+    "PassiveSkillsKey": 2892,
+    "StatsKey": 11318
+  },
+  {
+    "_rid": 212,
+    "PassiveSkillsKey": 2893,
+    "StatsKey": 11319
+  },
+  {
+    "_rid": 213,
+    "PassiveSkillsKey": 2894,
+    "StatsKey": 11320
+  },
+  {
+    "_rid": 214,
+    "PassiveSkillsKey": 2895,
+    "StatsKey": 11321
+  },
+  {
+    "_rid": 215,
+    "PassiveSkillsKey": 2896,
+    "StatsKey": 11322
+  },
+  {
+    "_rid": 216,
+    "PassiveSkillsKey": 2897,
+    "StatsKey": 11323
+  },
+  {
+    "_rid": 217,
+    "PassiveSkillsKey": 2898,
+    "StatsKey": 11324
+  },
+  {
+    "_rid": 218,
+    "PassiveSkillsKey": 2899,
+    "StatsKey": 11325
+  },
+  {
+    "_rid": 219,
+    "PassiveSkillsKey": 2900,
+    "StatsKey": 11326
+  },
+  {
+    "_rid": 220,
+    "PassiveSkillsKey": 2901,
+    "StatsKey": 11327
+  },
+  {
+    "_rid": 221,
+    "PassiveSkillsKey": 2902,
+    "StatsKey": 11328
+  },
+  {
+    "_rid": 222,
+    "PassiveSkillsKey": 2903,
+    "StatsKey": 11329
+  },
+  {
+    "_rid": 223,
+    "PassiveSkillsKey": 2904,
+    "StatsKey": 11330
+  },
+  {
+    "_rid": 224,
+    "PassiveSkillsKey": 2905,
+    "StatsKey": 11331
+  },
+  {
+    "_rid": 225,
+    "PassiveSkillsKey": 2906,
+    "StatsKey": 11332
+  },
+  {
+    "_rid": 226,
+    "PassiveSkillsKey": 2907,
+    "StatsKey": 11333
+  },
+  {
+    "_rid": 227,
+    "PassiveSkillsKey": 2908,
+    "StatsKey": 11334
+  },
+  {
+    "_rid": 228,
+    "PassiveSkillsKey": 2909,
+    "StatsKey": 11335
+  },
+  {
+    "_rid": 229,
+    "PassiveSkillsKey": 2910,
+    "StatsKey": 11336
+  },
+  {
+    "_rid": 230,
+    "PassiveSkillsKey": 2911,
+    "StatsKey": 11337
+  },
+  {
+    "_rid": 231,
+    "PassiveSkillsKey": 2912,
+    "StatsKey": 11338
+  },
+  {
+    "_rid": 232,
+    "PassiveSkillsKey": 2913,
+    "StatsKey": 11339
+  },
+  {
+    "_rid": 233,
+    "PassiveSkillsKey": 2914,
+    "StatsKey": 11340
+  },
+  {
+    "_rid": 234,
+    "PassiveSkillsKey": 2915,
+    "StatsKey": 11341
+  },
+  {
+    "_rid": 235,
+    "PassiveSkillsKey": 2916,
+    "StatsKey": 11342
+  },
+  {
+    "_rid": 236,
+    "PassiveSkillsKey": 2917,
+    "StatsKey": 11343
+  },
+  {
+    "_rid": 237,
+    "PassiveSkillsKey": 2918,
+    "StatsKey": 11344
+  },
+  {
+    "_rid": 238,
+    "PassiveSkillsKey": 2919,
+    "StatsKey": 11345
+  },
+  {
+    "_rid": 239,
+    "PassiveSkillsKey": 2920,
+    "StatsKey": 11346
+  },
+  {
+    "_rid": 240,
+    "PassiveSkillsKey": 2921,
+    "StatsKey": 11347
+  },
+  {
+    "_rid": 241,
+    "PassiveSkillsKey": 2922,
+    "StatsKey": 11348
+  },
+  {
+    "_rid": 242,
+    "PassiveSkillsKey": 2923,
+    "StatsKey": 11349
+  },
+  {
+    "_rid": 243,
+    "PassiveSkillsKey": 2924,
+    "StatsKey": 11350
+  },
+  {
+    "_rid": 244,
+    "PassiveSkillsKey": 2925,
+    "StatsKey": 11351
+  },
+  {
+    "_rid": 245,
+    "PassiveSkillsKey": 2926,
+    "StatsKey": 11352
+  },
+  {
+    "_rid": 246,
+    "PassiveSkillsKey": 2927,
+    "StatsKey": 11353
+  },
+  {
+    "_rid": 247,
+    "PassiveSkillsKey": 2928,
+    "StatsKey": 11354
+  },
+  {
+    "_rid": 248,
+    "PassiveSkillsKey": 2930,
+    "StatsKey": 11355
+  },
+  {
+    "_rid": 249,
+    "PassiveSkillsKey": 2931,
+    "StatsKey": 11356
+  },
+  {
+    "_rid": 250,
+    "PassiveSkillsKey": 2932,
+    "StatsKey": 11357
+  },
+  {
+    "_rid": 251,
+    "PassiveSkillsKey": 2933,
+    "StatsKey": 11358
+  },
+  {
+    "_rid": 252,
+    "PassiveSkillsKey": 2934,
+    "StatsKey": 11359
+  },
+  {
+    "_rid": 253,
+    "PassiveSkillsKey": 2935,
+    "StatsKey": 11360
+  },
+  {
+    "_rid": 254,
+    "PassiveSkillsKey": 2937,
+    "StatsKey": 11361
+  },
+  {
+    "_rid": 255,
+    "PassiveSkillsKey": 2938,
+    "StatsKey": 11362
+  },
+  {
+    "_rid": 256,
+    "PassiveSkillsKey": 2939,
+    "StatsKey": 11363
+  },
+  {
+    "_rid": 257,
+    "PassiveSkillsKey": 2940,
+    "StatsKey": 11364
+  },
+  {
+    "_rid": 258,
+    "PassiveSkillsKey": 2941,
+    "StatsKey": 11365
+  },
+  {
+    "_rid": 259,
+    "PassiveSkillsKey": 2943,
+    "StatsKey": 11366
+  },
+  {
+    "_rid": 260,
+    "PassiveSkillsKey": 2944,
+    "StatsKey": 11367
+  },
+  {
+    "_rid": 261,
+    "PassiveSkillsKey": 2945,
+    "StatsKey": 11368
+  },
+  {
+    "_rid": 262,
+    "PassiveSkillsKey": 2946,
+    "StatsKey": 11369
+  },
+  {
+    "_rid": 263,
+    "PassiveSkillsKey": 2947,
+    "StatsKey": 11370
+  },
+  {
+    "_rid": 264,
+    "PassiveSkillsKey": 2948,
+    "StatsKey": 11371
+  },
+  {
+    "_rid": 265,
+    "PassiveSkillsKey": 2949,
+    "StatsKey": 11372
+  },
+  {
+    "_rid": 266,
+    "PassiveSkillsKey": 2950,
+    "StatsKey": 11373
+  },
+  {
+    "_rid": 267,
+    "PassiveSkillsKey": 2951,
+    "StatsKey": 11374
+  },
+  {
+    "_rid": 268,
+    "PassiveSkillsKey": 2952,
+    "StatsKey": 11375
+  },
+  {
+    "_rid": 269,
+    "PassiveSkillsKey": 2953,
+    "StatsKey": 11376
+  },
+  {
+    "_rid": 270,
+    "PassiveSkillsKey": 2954,
+    "StatsKey": 11377
+  },
+  {
+    "_rid": 271,
+    "PassiveSkillsKey": 2955,
+    "StatsKey": 11378
+  },
+  {
+    "_rid": 272,
+    "PassiveSkillsKey": 2956,
+    "StatsKey": 11379
+  },
+  {
+    "_rid": 273,
+    "PassiveSkillsKey": 2957,
+    "StatsKey": 11380
+  },
+  {
+    "_rid": 274,
+    "PassiveSkillsKey": 2958,
+    "StatsKey": 11381
+  },
+  {
+    "_rid": 275,
+    "PassiveSkillsKey": 2959,
+    "StatsKey": 11382
+  },
+  {
+    "_rid": 276,
+    "PassiveSkillsKey": 2960,
+    "StatsKey": 11383
+  },
+  {
+    "_rid": 277,
+    "PassiveSkillsKey": 2961,
+    "StatsKey": 11384
+  },
+  {
+    "_rid": 278,
+    "PassiveSkillsKey": 2962,
+    "StatsKey": 11385
+  },
+  {
+    "_rid": 279,
+    "PassiveSkillsKey": 2963,
+    "StatsKey": 11386
+  },
+  {
+    "_rid": 280,
+    "PassiveSkillsKey": 2964,
+    "StatsKey": 11387
+  },
+  {
+    "_rid": 281,
+    "PassiveSkillsKey": 2965,
+    "StatsKey": 11388
+  },
+  {
+    "_rid": 282,
+    "PassiveSkillsKey": 2966,
+    "StatsKey": 11389
+  },
+  {
+    "_rid": 283,
+    "PassiveSkillsKey": 2967,
+    "StatsKey": 11390
+  },
+  {
+    "_rid": 284,
+    "PassiveSkillsKey": 2968,
+    "StatsKey": 11391
+  },
+  {
+    "_rid": 285,
+    "PassiveSkillsKey": 2969,
+    "StatsKey": 11392
+  },
+  {
+    "_rid": 286,
+    "PassiveSkillsKey": 2970,
+    "StatsKey": 11393
+  },
+  {
+    "_rid": 287,
+    "PassiveSkillsKey": 2971,
+    "StatsKey": 11394
+  },
+  {
+    "_rid": 288,
+    "PassiveSkillsKey": 2972,
+    "StatsKey": 11395
+  },
+  {
+    "_rid": 289,
+    "PassiveSkillsKey": 2973,
+    "StatsKey": 11396
+  },
+  {
+    "_rid": 290,
+    "PassiveSkillsKey": 2974,
+    "StatsKey": 11397
+  },
+  {
+    "_rid": 291,
+    "PassiveSkillsKey": 2862,
+    "StatsKey": 12242
+  },
+  {
+    "_rid": 292,
+    "PassiveSkillsKey": 2863,
+    "StatsKey": 12243
+  },
+  {
+    "_rid": 293,
+    "PassiveSkillsKey": 2864,
+    "StatsKey": 12244
+  },
+  {
+    "_rid": 294,
+    "PassiveSkillsKey": 2865,
+    "StatsKey": 12245
+  },
+  {
+    "_rid": 295,
+    "PassiveSkillsKey": 2866,
+    "StatsKey": 12246
+  },
+  {
+    "_rid": 296,
+    "PassiveSkillsKey": 2929,
+    "StatsKey": 12251
+  },
+  {
+    "_rid": 297,
+    "PassiveSkillsKey": 2936,
+    "StatsKey": 12252
+  },
+  {
+    "_rid": 298,
+    "PassiveSkillsKey": 2942,
+    "StatsKey": 12253
+  },
+  {
+    "_rid": 299,
+    "PassiveSkillsKey": 2701,
+    "StatsKey": 12309
+  },
+  {
+    "_rid": 300,
+    "PassiveSkillsKey": 2702,
+    "StatsKey": 12310
+  },
+  {
+    "_rid": 301,
+    "PassiveSkillsKey": 2703,
+    "StatsKey": 12311
+  },
+  {
+    "_rid": 302,
+    "PassiveSkillsKey": 2867,
+    "StatsKey": 12247
+  },
+  {
+    "_rid": 303,
+    "PassiveSkillsKey": 2868,
+    "StatsKey": 12248
+  },
+  {
+    "_rid": 304,
+    "PassiveSkillsKey": 2869,
+    "StatsKey": 12249
+  },
+  {
+    "_rid": 305,
+    "PassiveSkillsKey": 2870,
+    "StatsKey": 12250
+  },
+  {
+    "_rid": 306,
+    "PassiveSkillsKey": 2783,
+    "StatsKey": 15405
+  }
+]
