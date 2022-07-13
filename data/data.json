@@ -14,6 +14,7 @@
             "Feed the Fury": "explicit.stat_3944525413",
             "Brewed for Potency": "explicit.stat_3250272113",
             "Magnifier": "explicit.stat_2886441936",
+            "Disorienting Display": "explicit.stat_3206911230",
             "Circling Oblivion": "explicit.stat_2129392647",
             "Practiced Caster": "explicit.stat_3435403756",
             "Deep Chill": "explicit.stat_1703766309",
@@ -25,7 +26,6 @@
             "Renewal": "explicit.stat_3607300552",
             "Streamlined": "explicit.stat_1397498432",
             "Vile Reinvigoration": "explicit.stat_647201233",
-            "Disorienting Display": "explicit.stat_3206911230",
             "Vicious Skewering": "explicit.stat_567971948",
             "Iron Breaker": "explicit.stat_3258653591",
             "Quick Getaway": "explicit.stat_1626818279",
@@ -41,6 +41,7 @@
             "Spiteful Presence": "explicit.stat_1134501245",
             "Burden Projection": "explicit.stat_2008682345",
             "Burning Bright": "explicit.stat_4199056048",
+            "Distilled Perfection": "explicit.stat_3652138990",
             "Eye of the Storm": "explicit.stat_3818661553",
             "Conjured Wall": "explicit.stat_4105031548",
             "Touch of Cruelty": "explicit.stat_2780712583",
@@ -50,13 +51,12 @@
             "Wicked Pall": "explicit.stat_1616734644",
             "Replenishing Presence": "explicit.stat_1496043857",
             "Essence Rush": "explicit.stat_1096136223",
-            "Distilled Perfection": "explicit.stat_3652138990",
             "Dread March": "explicit.stat_3087667389",
             "Overshock": "explicit.stat_3777170562",
             "Sage": "explicit.stat_478147593",
             "Cremator": "explicit.stat_1153801980",
-            "Eye to Eye": "explicit.stat_392942015",
             "Special Reserve": "explicit.stat_4235300427",
+            "Eye to Eye": "explicit.stat_392942015",
             "Furious Assault": "explicit.stat_3415827027",
             "Endbringer": "explicit.stat_2150878631",
             "Second Skin": "explicit.stat_2773515950",
@@ -108,15 +108,18 @@
             "Vicious Guard": "explicit.stat_4054656914",
             "Paralysis": "explicit.stat_4272503233",
             "Life from Death": "explicit.stat_2337273077",
+            "Broadside": "explicit.stat_2205982416",
             "Sublime Form": "explicit.stat_2251304016",
             "Blanketed Snow": "explicit.stat_1085167979",
             "Savour the Moment": "explicit.stat_3539175001",
             "Sublime Sensation": "explicit.stat_1364858171",
-            "Holy Conquest": "explicit.stat_3898572660",
             "Master the Fundamentals": "explicit.stat_3585232432",
+            "Holy Conquest": "explicit.stat_3898572660",
             "Set and Forget": "explicit.stat_1101250813",
             "Battlefield Dominator": "explicit.stat_1499057234",
             "Graceful Execution": "explicit.stat_1903496649",
+            "Opportunistic Fusilade": "explicit.stat_4281625943",
+            "Raze and Pillage": "explicit.stat_1038897629",
             "Evil Eye": "explicit.stat_4291066912",
             "Spring Back": "explicit.stat_3603695769",
             "Hulking Corpses": "explicit.stat_3467711950",
@@ -130,16 +133,15 @@
             "Natural Vigour": "explicit.stat_510654792",
             "Lasting Impression": "explicit.stat_426715778",
             "Overwhelming Malice": "explicit.stat_770408103",
-            "Opportunistic Fusilade": "explicit.stat_4281625943",
             "Destructive Aspect": "explicit.stat_3860179422",
             "Bodyguards": "explicit.stat_791125124",
+            "Introspection": "explicit.stat_1309218394",
             "Pure Might": "explicit.stat_2372915005",
             "Lead By Example": "explicit.stat_2195406641",
             "Expansive Might": "explicit.stat_394918362",
             "Doedre's Spite": "explicit.stat_462115791",
             "Aerodynamics": "explicit.stat_4120556534",
             "Pure Guile": "explicit.stat_1621496909",
-            "Broadside": "explicit.stat_2205982416",
             "Precise Focus": "explicit.stat_2913581789",
             "Deadly Repartee": "explicit.stat_1013470938",
             "Dragon Hunter": "explicit.stat_1038955006",
@@ -186,9 +188,9 @@
             "Combat Rhythm": "explicit.stat_3122505794",
             "Eternal Suffering": "explicit.stat_2144634814",
             "Rattling Bellow": "explicit.stat_4288473380",
+            "Deep Cuts": "explicit.stat_410939404",
             "Ancestral Guidance": "explicit.stat_2387747995",
             "Ancestral Reach": "explicit.stat_3294884567",
-            "Deep Cuts": "explicit.stat_410939404",
             "Martial Mastery": "explicit.stat_1015189426",
             "Tempt the Storm": "explicit.stat_348883745",
             "Tempered Arrowheads": "explicit.stat_2631806437",
@@ -204,6 +206,7 @@
             "Shifting Shadow": "explicit.stat_1476913894",
             "Disease Vector": "explicit.stat_183591019",
             "Insulated": "explicit.stat_212648555",
+            "Compound Injury": "explicit.stat_4018305528",
             "Chip Away": "explicit.stat_968069586",
             "Disciples": "explicit.stat_3177526694",
             "Steady Torment": "explicit.stat_3500334379",
@@ -212,10 +215,10 @@
             "Master of Fire": "explicit.stat_1462135249",
             "Skullbreaker": "explicit.stat_315697256",
             "Arcane Pyrotechnics": "explicit.stat_2043503530",
-            "Compound Injury": "explicit.stat_4018305528",
             "Pure Agony": "explicit.stat_1507409483",
             "Non-Flammable": "explicit.stat_731840035",
             "Rapid Infusion": "explicit.stat_1570474940",
+            "Prismatic Carapace": "explicit.stat_3492924480",
             "Brutal Infamy": "explicit.stat_2068574831",
             "Remarkable": "explicit.stat_691431951",
             "Antifreeze": "explicit.stat_2622946553",
@@ -225,17 +228,19 @@
             "Mender's Wellspring": "explicit.stat_4291434923",
             "Warning Call": "explicit.stat_578355556",
             "Fan the Flames": "explicit.stat_2918755450",
-            "Introspection": "explicit.stat_1309218394",
             "Wrapped in Flame": "explicit.stat_241783558",
             "Holistic Health": "explicit.stat_3667965781",
             "Prismatic Dance": "explicit.stat_1149662934",
             "Hibernator": "explicit.stat_2294919888",
+            "Wizardry": "explicit.stat_3078065247",
             "Forbidden Words": "explicit.stat_2454339320",
+            "Seal Mender": "explicit.stat_876846990",
             "Ancestral Preservation": "explicit.stat_3746703776",
             "Mindfulness": "explicit.stat_2595115995",
             "Arcane Adept": "explicit.stat_393565679",
             "Cold to the Core": "explicit.stat_744783843",
             "Explosive Force": "explicit.stat_2017927451",
+            "Rote Reinforcement": "explicit.stat_2478282326",
             "Unspeakable Gifts": "explicit.stat_729163974",
             "Blacksmith": "explicit.stat_1127706436",
             "Feast of Flesh": "explicit.stat_2396755365",
@@ -246,24 +251,20 @@
             "Born of Chaos": "explicit.stat_2449392400",
             "Eldritch Inspiration": "explicit.stat_3737604164",
             "Rot-Resistant": "explicit.stat_713945233",
+            "Mob Mentality": "explicit.stat_1048879642",
             "Primordial Bond": "explicit.stat_622362787",
-            "Rote Reinforcement": "explicit.stat_2478282326",
             "One with the Shield": "explicit.stat_1976069869",
             "Frantic Aspect": "explicit.stat_792262925",
             "Hex Breaker": "explicit.stat_2341828832",
             "Clarity of Purpose": "explicit.stat_684087686",
             "Mage Bane": "explicit.stat_684155617",
             "Run Through": "explicit.stat_1488030420",
-            "Raze and Pillage": "explicit.stat_1038897629",
-            "Mob Mentality": "explicit.stat_1048879642",
-            "Prismatic Carapace": "explicit.stat_3492924480",
             "Quick and Deadly": "explicit.stat_2169345147",
             "Stubborn Student": "explicit.stat_2383914651",
             "Master of Fear": "explicit.stat_2771217016",
+            "Low Tolerance": "explicit.stat_3989400244",
             "Sleepless Sentries": "explicit.stat_3993957711",
             "Ancestral Might": "explicit.stat_3998316",
-            "Wizardry": "explicit.stat_3078065247",
-            "Low Tolerance": "explicit.stat_3989400244",
             "Wind-up": "explicit.stat_1938661964",
             "Daring Ideas": "explicit.stat_2534405517",
             "Mortifying Aspect": "explicit.stat_3881737087",
@@ -281,7 +282,6 @@
             "Winter Prowler": "explicit.stat_755881431",
             "Master of the Maelstrom": "explicit.stat_185592058",
             "Chilling Presence": "explicit.stat_2834490860",
-            "Seal Mender": "explicit.stat_876846990",
             "Fearsome Warrior": "explicit.stat_3134222965",
             "Molten One's Mark": "explicit.stat_3875792669",
             "Powerful Ward": "explicit.stat_164032122",
@@ -584,7 +584,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableProdigiousDefense"
+                }
             },
             "Advance Guard": {
                 "PassiveSkill": {
@@ -630,7 +633,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAdvanceGuard"
+                }
             },
             "Strike Leader": {
                 "PassiveSkill": {
@@ -676,7 +682,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStrikeLeader"
+                }
             },
             "Gladiator's Fortitude": {
                 "PassiveSkill": {
@@ -714,7 +723,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude"
+                }
             },
             "Precise Retaliation": {
                 "PassiveSkill": {
@@ -752,7 +764,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePreciseRetaliation"
+                }
             },
             "Veteran Defender": {
                 "PassiveSkill": {
@@ -798,7 +813,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVeteranDefender"
+                }
             },
             "Iron Breaker": {
                 "PassiveSkill": {
@@ -836,7 +854,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableIronBreaker"
+                }
             },
             "Master the Fundamentals": {
                 "PassiveSkill": {
@@ -882,7 +903,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMastertheFundamentals"
+                }
             },
             "Force Multiplier": {
                 "PassiveSkill": {
@@ -920,7 +944,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Furious Assault": {
                 "PassiveSkill": {
@@ -958,7 +985,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Vicious Skewering": {
                 "PassiveSkill": {
@@ -1068,7 +1098,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableViciousSkewering"
+                }
             },
             "Grim Oath": {
                 "PassiveSkill": {
@@ -1104,7 +1137,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Battle-Hardened": {
                 "PassiveSkill": {
@@ -1142,7 +1178,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBattleHardened"
+                }
             },
             "Righteous Path": {
                 "PassiveSkill": {
@@ -1198,7 +1237,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                }
             },
             "Overwhelming Malice": {
                 "PassiveSkill": {
@@ -1228,7 +1270,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice"
+                }
             },
             "Titanic Swings": {
                 "PassiveSkill": {
@@ -1266,7 +1311,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTitanicSwings"
+                }
             },
             "Ancestral Inspiration": {
                 "PassiveSkill": {
@@ -1304,7 +1352,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralInspiration"
+                }
             },
             "Arcane Adept": {
                 "PassiveSkill": {
@@ -1350,7 +1401,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableArcaneAdept"
+                }
             },
             "Bloodscent": {
                 "PassiveSkill": {
@@ -1384,7 +1438,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBloodscent"
+                }
             },
             "Run Through": {
                 "PassiveSkill": {
@@ -1442,7 +1499,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRunThrough"
+                }
             },
             "Wound Aggravation": {
                 "PassiveSkill": {
@@ -1492,7 +1552,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWoundAggravation"
+                }
             },
             "Overlord": {
                 "PassiveSkill": {
@@ -1534,7 +1597,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOverlord"
+                }
             },
             "Expansive Might": {
                 "PassiveSkill": {
@@ -1576,7 +1642,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExpansiveMight"
+                }
             },
             "Weight Advantage": {
                 "PassiveSkill": {
@@ -1626,7 +1695,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWeightAdvantage"
+                }
             },
             "Wind-up": {
                 "PassiveSkill": {
@@ -1668,7 +1740,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWindup"
+                }
             },
             "Fan of Blades": {
                 "PassiveSkill": {
@@ -1710,7 +1785,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFanofBlades"
+                }
             },
             "Disease Vector": {
                 "PassiveSkill": {
@@ -1752,7 +1830,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDiseaseVector"
+                }
             },
             "Arcing Shot": {
                 "PassiveSkill": {
@@ -1794,7 +1875,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableArcingShot"
+                }
             },
             "Tempered Arrowheads": {
                 "PassiveSkill": {
@@ -1844,7 +1928,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTemperedArrowheads"
+                }
             },
             "Broadside": {
                 "PassiveSkill": {
@@ -1878,7 +1965,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBroadside"
+                }
             },
             "Explosive Force": {
                 "PassiveSkill": {
@@ -1916,7 +2006,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExplosiveForce"
+                }
             },
             "Opportunistic Fusilade": {
                 "PassiveSkill": {
@@ -1954,7 +2047,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOpportunisticFusilade"
+                }
             },
             "Storm's Hand": {
                 "PassiveSkill": {
@@ -1992,7 +2088,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStormsHand"
+                }
             },
             "Battlefield Dominator": {
                 "PassiveSkill": {
@@ -2038,7 +2137,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBattlefieldDominator"
+                }
             },
             "Martial Mastery": {
                 "PassiveSkill": {
@@ -2084,7 +2186,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMartialMastery"
+                }
             },
             "Surefooted Striker": {
                 "PassiveSkill": {
@@ -2122,7 +2227,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSurefootedStriker"
+                }
             },
             "Graceful Execution": {
                 "PassiveSkill": {
@@ -2176,7 +2284,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGracefulExecution"
+                }
             },
             "Brutal Infamy": {
                 "PassiveSkill": {
@@ -2214,7 +2325,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBrutalInfamy"
+                }
             },
             "Fearsome Warrior": {
                 "PassiveSkill": {
@@ -2260,7 +2374,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFearsomeWarrior"
+                }
             },
             "Combat Rhythm": {
                 "PassiveSkill": {
@@ -2298,7 +2415,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCombatRhythm"
+                }
             },
             "Hit and Run": {
                 "PassiveSkill": {
@@ -2336,7 +2456,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHitandRun"
+                }
             },
             "Insatiable Killer": {
                 "PassiveSkill": {
@@ -2382,7 +2505,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableInsatiableKiller"
+                }
             },
             "Mage Bane": {
                 "PassiveSkill": {
@@ -2428,7 +2554,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMageBane"
+                }
             },
             "Martial Momentum": {
                 "PassiveSkill": {
@@ -2474,7 +2603,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMartialMomentum"
+                }
             },
             "Deadly Repartee": {
                 "PassiveSkill": {
@@ -2520,7 +2652,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDeadlyRepartee"
+                }
             },
             "Quick and Deadly": {
                 "PassiveSkill": {
@@ -2558,7 +2693,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableQuickandDeadly"
+                }
             },
             "Smite the Weak": {
                 "PassiveSkill": {
@@ -2660,7 +2798,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Heavy Hitter": {
                 "PassiveSkill": {
@@ -2778,7 +2919,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Martial Prowess": {
                 "PassiveSkill": {
@@ -2896,7 +3040,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Calamitous": {
                 "PassiveSkill": {
@@ -3006,7 +3153,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCalamitous"
+                }
             },
             "Devastator": {
                 "PassiveSkill": {
@@ -3116,7 +3266,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDevastator"
+                }
             },
             "Fuel the Fight": {
                 "PassiveSkill": {
@@ -3226,7 +3379,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFueltheFight"
+                }
             },
             "Drive the Destruction": {
                 "PassiveSkill": {
@@ -3336,7 +3492,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDrivetheDestruction"
+                }
             },
             "Feed the Fury": {
                 "PassiveSkill": {
@@ -3446,7 +3605,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFeedtheFury"
+                }
             },
             "Seal Mender": {
                 "PassiveSkill": {
@@ -3476,7 +3638,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSealMender"
+                }
             },
             "Conjured Wall": {
                 "PassiveSkill": {
@@ -3514,7 +3679,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableConjuredWall"
+                }
             },
             "Arcane Heroism": {
                 "PassiveSkill": {
@@ -3552,7 +3720,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableArcaneHeroism"
+                }
             },
             "Practiced Caster": {
                 "PassiveSkill": {
@@ -3598,7 +3769,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePracticedCaster"
+                }
             },
             "Burden Projection": {
                 "PassiveSkill": {
@@ -3636,7 +3810,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBurdenProjection"
+                }
             },
             "Thaumophage": {
                 "PassiveSkill": {
@@ -3682,7 +3859,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Essence Rush": {
                 "PassiveSkill": {
@@ -3728,7 +3908,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Sap Psyche": {
                 "PassiveSkill": {
@@ -3774,7 +3957,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Sadist": {
                 "PassiveSkill": {
@@ -3838,7 +4024,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSadist"
+                }
             },
             "Corrosive Elements": {
                 "PassiveSkill": {
@@ -3910,7 +4099,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCorrosiveElements"
+                }
             },
             "Doryani's Lesson": {
                 "PassiveSkill": {
@@ -3966,7 +4158,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Disorienting Display": {
                 "PassiveSkill": {
@@ -4022,7 +4217,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Prismatic Heart": {
                 "PassiveSkill": {
@@ -4078,7 +4276,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePrismaticHeart"
+                }
             },
             "Widespread Destruction": {
                 "PassiveSkill": {
@@ -4134,7 +4335,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Master of Fire": {
                 "PassiveSkill": {
@@ -4164,7 +4368,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofFire"
+                }
             },
             "Smoking Remains": {
                 "PassiveSkill": {
@@ -4202,7 +4409,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSmokingRemains"
+                }
             },
             "Cremator": {
                 "PassiveSkill": {
@@ -4240,7 +4450,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCremator"
+                }
             },
             "Snowstorm": {
                 "PassiveSkill": {
@@ -4276,7 +4489,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSnowstorm"
+                }
             },
             "Storm Drinker": {
                 "PassiveSkill": {
@@ -4314,7 +4530,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStormDrinker"
+                }
             },
             "Paralysis": {
                 "PassiveSkill": {
@@ -4360,7 +4579,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableParalysis"
+                }
             },
             "Blanketed Snow": {
                 "PassiveSkill": {
@@ -4390,7 +4612,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlanketedSnow"
+                }
             },
             "Cold to the Core": {
                 "PassiveSkill": {
@@ -4436,7 +4661,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableColdtotheCore"
+                }
             },
             "Cold-Blooded Killer": {
                 "PassiveSkill": {
@@ -4474,7 +4702,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableColdBloodedKiller"
+                }
             },
             "Touch of Cruelty": {
                 "PassiveSkill": {
@@ -4512,7 +4743,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTouchofCruelty"
+                }
             },
             "Unwaveringly Evil": {
                 "PassiveSkill": {
@@ -4550,7 +4784,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil"
+                }
             },
             "Unspeakable Gifts": {
                 "PassiveSkill": {
@@ -4580,7 +4817,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Dark Ideation": {
                 "PassiveSkill": {
@@ -4610,7 +4850,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDarkIdeation"
+                }
             },
             "Unholy Grace": {
                 "PassiveSkill": {
@@ -4648,7 +4891,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Wicked Pall": {
                 "PassiveSkill": {
@@ -4686,7 +4932,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWickedPall"
+                }
             },
             "Renewal": {
                 "PassiveSkill": {
@@ -4724,7 +4973,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRenewal"
+                }
             },
             "Raze and Pillage": {
                 "PassiveSkill": {
@@ -4770,7 +5022,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRazeandPillage"
+                }
             },
             "Rotten Claws": {
                 "PassiveSkill": {
@@ -4800,7 +5055,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRottenClaws"
+                }
             },
             "Call to the Slaughter": {
                 "PassiveSkill": {
@@ -4846,7 +5104,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Skeletal Atrophy": {
                 "PassiveSkill": {
@@ -4884,7 +5145,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSkeletalAtrophy"
+                }
             },
             "Vicious Bite": {
                 "PassiveSkill": {
@@ -4922,7 +5186,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Primordial Bond": {
                 "PassiveSkill": {
@@ -4968,7 +5235,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                }
             },
             "Burning Bright": {
                 "PassiveSkill": {
@@ -5006,7 +5276,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBurningBright"
+                }
             },
             "Inspired Oppression": {
                 "PassiveSkill": {
@@ -5072,7 +5345,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableInspiredOppression"
+                }
             },
             "Deep Chill": {
                 "PassiveSkill": {
@@ -5110,7 +5386,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDeepChill"
+                }
             },
             "Blast-Freeze": {
                 "PassiveSkill": {
@@ -5148,7 +5427,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlastFreeze"
+                }
             },
             "Thunderstruck": {
                 "PassiveSkill": {
@@ -5194,7 +5476,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableThunderstruck"
+                }
             },
             "Stormrider": {
                 "PassiveSkill": {
@@ -5246,7 +5531,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStormrider"
+                }
             },
             "Overshock": {
                 "PassiveSkill": {
@@ -5284,7 +5572,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOvershock"
+                }
             },
             "Feasting Fiends": {
                 "PassiveSkill": {
@@ -5330,7 +5621,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFeastingFiends"
+                }
             },
             "Scintillating Idea": {
                 "PassiveSkill": {
@@ -5368,7 +5662,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableScintillatingIdea"
+                }
             },
             "Mage Hunter": {
                 "PassiveSkill": {
@@ -5414,7 +5711,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMageHunter"
+                }
             },
             "Riot Queller": {
                 "PassiveSkill": {
@@ -5452,7 +5752,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRiotQueller"
+                }
             },
             "Lord of Drought": {
                 "PassiveSkill": {
@@ -5490,7 +5793,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                }
             },
             "Blizzard Caller": {
                 "PassiveSkill": {
@@ -5528,7 +5834,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                }
             },
             "Tempt the Storm": {
                 "PassiveSkill": {
@@ -5566,7 +5875,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                }
             },
             "Misery Everlasting": {
                 "PassiveSkill": {
@@ -5604,7 +5916,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                }
             },
             "Exploit Weakness": {
                 "PassiveSkill": {
@@ -5642,7 +5957,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                }
             },
             "Aggressive Defence": {
                 "PassiveSkill": {
@@ -5712,7 +6030,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAggressiveDefence"
+                }
             }
         },
         "Small": {
@@ -5764,7 +6085,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableProdigiousDefense"
+                }
             },
             "Strike Leader": {
                 "PassiveSkill": {
@@ -5814,7 +6138,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStrikeLeader"
+                }
             },
             "Powerful Ward": {
                 "PassiveSkill": {
@@ -5856,7 +6183,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePowerfulWard"
+                }
             },
             "Enduring Ward": {
                 "PassiveSkill": {
@@ -5898,7 +6228,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEnduringWard"
+                }
             },
             "Gladiator's Fortitude": {
                 "PassiveSkill": {
@@ -5936,7 +6269,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude"
+                }
             },
             "Battle-Hardened": {
                 "PassiveSkill": {
@@ -5980,7 +6316,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBattleHardened"
+                }
             },
             "Replenishing Presence": {
                 "PassiveSkill": {
@@ -6010,7 +6349,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableReplenishingPresence"
+                }
             },
             "Master of Command": {
                 "PassiveSkill": {
@@ -6048,7 +6390,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofCommand"
+                }
             },
             "Spiteful Presence": {
                 "PassiveSkill": {
@@ -6086,7 +6431,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFirstAmongEquals"
+                }
             },
             "Purposeful Harbinger": {
                 "PassiveSkill": {
@@ -6116,7 +6464,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger"
+                }
             },
             "Destructive Aspect": {
                 "PassiveSkill": {
@@ -6154,7 +6505,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePreciseCommander"
+                }
             },
             "Electric Presence": {
                 "PassiveSkill": {
@@ -6210,7 +6564,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureCommander"
+                }
             },
             "Volatile Presence": {
                 "PassiveSkill": {
@@ -6266,7 +6623,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStalwartCommander"
+                }
             },
             "Righteous Path": {
                 "PassiveSkill": {
@@ -6304,7 +6664,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                }
             },
             "Towering Threat": {
                 "PassiveSkill": {
@@ -6342,7 +6705,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableToweringThreat"
+                }
             },
             "Stoic Focus": {
                 "PassiveSkill": {
@@ -6392,7 +6758,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStoicFocus"
+                }
             },
             "Hit and Run": {
                 "PassiveSkill": {
@@ -6430,7 +6799,10 @@
                             "Value": 2
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHitandRun"
+                }
             },
             "Mage Bane": {
                 "PassiveSkill": {
@@ -6480,7 +6852,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMageBane"
+                }
             },
             "Prismatic Heart": {
                 "PassiveSkill": {
@@ -6530,7 +6905,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePrismaticHeart"
+                }
             },
             "Eldritch Inspiration": {
                 "PassiveSkill": {
@@ -6576,7 +6954,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEldritchInspiration"
+                }
             },
             "Flow of Life": {
                 "PassiveSkill": {
@@ -6622,7 +7003,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFlowofLife"
+                }
             },
             "Exposure Therapy": {
                 "PassiveSkill": {
@@ -6660,7 +7044,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExposureTherapy"
+                }
             },
             "Brush with Death": {
                 "PassiveSkill": {
@@ -6712,7 +7099,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBrushwithDeath"
+                }
             },
             "Vile Reinvigoration": {
                 "PassiveSkill": {
@@ -6758,7 +7148,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVileReinvigoration"
+                }
             },
             "Evil Eye": {
                 "PassiveSkill": {
@@ -6788,7 +7181,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEvilEye"
+                }
             },
             "Inevitable Doom": {
                 "PassiveSkill": {
@@ -6826,7 +7222,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWhispersofDeath"
+                }
             },
             "Forbidden Words": {
                 "PassiveSkill": {
@@ -6864,7 +7263,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWardbreaker"
+                }
             },
             "Doedre's Spite": {
                 "PassiveSkill": {
@@ -6902,7 +7304,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDarkDiscourse"
+                }
             },
             "Victim Maker": {
                 "PassiveSkill": {
@@ -6940,7 +7345,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVictimMaker"
+                }
             },
             "Master of Fear": {
                 "PassiveSkill": {
@@ -6970,7 +7378,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofFear"
+                }
             },
             "Wish for Death": {
                 "PassiveSkill": {
@@ -7000,7 +7411,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWishforDeath"
+                }
             },
             "Careful Handling": {
                 "PassiveSkill": {
@@ -7060,7 +7474,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCarefulHandling"
+                }
             },
             "Peak Vigour": {
                 "PassiveSkill": {
@@ -7098,7 +7515,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePeakVigour"
+                }
             },
             "Fettle": {
                 "PassiveSkill": {
@@ -7136,7 +7556,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFettle"
+                }
             },
             "Feast of Flesh": {
                 "PassiveSkill": {
@@ -7182,7 +7605,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFeastofFlesh"
+                }
             },
             "Sublime Sensation": {
                 "PassiveSkill": {
@@ -7226,7 +7652,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSublimeSensation"
+                }
             },
             "Surging Vitality": {
                 "PassiveSkill": {
@@ -7264,7 +7693,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSurgingVitality"
+                }
             },
             "Peace Amidst Chaos": {
                 "PassiveSkill": {
@@ -7310,7 +7742,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePeaceAmidstChaos"
+                }
             },
             "Adrenaline": {
                 "PassiveSkill": {
@@ -7348,7 +7783,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAdrenaline"
+                }
             },
             "Wall of Muscle": {
                 "PassiveSkill": {
@@ -7386,7 +7824,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWallofMuscle"
+                }
             },
             "Mindfulness": {
                 "PassiveSkill": {
@@ -7424,7 +7865,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMindfulness"
+                }
             },
             "Liquid Inspiration": {
                 "PassiveSkill": {
@@ -7470,7 +7914,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLiquidInspiration"
+                }
             },
             "Openness": {
                 "PassiveSkill": {
@@ -7508,7 +7955,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOpenness"
+                }
             },
             "Daring Ideas": {
                 "PassiveSkill": {
@@ -7546,7 +7996,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDaringIdeas"
+                }
             },
             "Clarity of Purpose": {
                 "PassiveSkill": {
@@ -7584,7 +8037,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableClarityofPurpose"
+                }
             },
             "Scintillating Idea": {
                 "PassiveSkill": {
@@ -7622,7 +8078,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableScintillatingIdea"
+                }
             },
             "Holistic Health": {
                 "PassiveSkill": {
@@ -7666,7 +8125,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHolisticHealth"
+                }
             },
             "Genius": {
                 "PassiveSkill": {
@@ -7704,7 +8166,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGenius"
+                }
             },
             "Improvisor": {
                 "PassiveSkill": {
@@ -7750,7 +8215,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableImprovisor"
+                }
             },
             "Stubborn Student": {
                 "PassiveSkill": {
@@ -7802,7 +8270,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStubbornStudent"
+                }
             },
             "Savour the Moment": {
                 "PassiveSkill": {
@@ -7840,7 +8311,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSavourtheMoment"
+                }
             },
             "Energy From Naught": {
                 "PassiveSkill": {
@@ -7878,7 +8352,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEnergyFromNaught"
+                }
             },
             "Will Shaper": {
                 "PassiveSkill": {
@@ -7914,7 +8391,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWillShaper"
+                }
             },
             "Spring Back": {
                 "PassiveSkill": {
@@ -7952,7 +8432,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSpringBack"
+                }
             },
             "Conservation of Energy": {
                 "PassiveSkill": {
@@ -7990,7 +8473,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableConservationofEnergy"
+                }
             },
             "Heart of Iron": {
                 "PassiveSkill": {
@@ -8026,7 +8512,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHeartofIron"
+                }
             },
             "Prismatic Carapace": {
                 "PassiveSkill": {
@@ -8082,7 +8571,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePrismaticCarapace"
+                }
             },
             "Militarism": {
                 "PassiveSkill": {
@@ -8120,7 +8612,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMilitarism"
+                }
             },
             "Second Skin": {
                 "PassiveSkill": {
@@ -8176,7 +8671,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSecondSkin"
+                }
             },
             "Dragon Hunter": {
                 "PassiveSkill": {
@@ -8228,7 +8726,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDragonHunter"
+                }
             },
             "Enduring Composure": {
                 "PassiveSkill": {
@@ -8266,7 +8767,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEnduringComposure"
+                }
             },
             "Prismatic Dance": {
                 "PassiveSkill": {
@@ -8322,7 +8826,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePrismaticDance"
+                }
             },
             "Natural Vigour": {
                 "PassiveSkill": {
@@ -8366,7 +8873,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableNaturalVigour"
+                }
             },
             "Untouchable": {
                 "PassiveSkill": {
@@ -8410,7 +8920,10 @@
                             "Value": 2
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUntouchable"
+                }
             },
             "Shifting Shadow": {
                 "PassiveSkill": {
@@ -8456,7 +8969,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableShiftingShadow"
+                }
             },
             "Readiness": {
                 "PassiveSkill": {
@@ -8502,7 +9018,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableReadiness"
+                }
             },
             "Flexible Sentry": {
                 "PassiveSkill": {
@@ -8578,7 +9097,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFlexibleSentry"
+                }
             },
             "Vicious Guard": {
                 "PassiveSkill": {
@@ -8634,7 +9156,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableViciousGuard"
+                }
             },
             "Mystical Ward": {
                 "PassiveSkill": {
@@ -8690,7 +9215,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMysticalWard"
+                }
             },
             "Rote Reinforcement": {
                 "PassiveSkill": {
@@ -8746,7 +9274,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRoteReinforcement"
+                }
             },
             "Mage Hunter": {
                 "PassiveSkill": {
@@ -8796,7 +9327,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMageHunter"
+                }
             },
             "Riot Queller": {
                 "PassiveSkill": {
@@ -8838,7 +9372,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRiotQueller"
+                }
             },
             "One with the Shield": {
                 "PassiveSkill": {
@@ -8888,7 +9425,10 @@
                             "Value": 1
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOnewiththeShield"
+                }
             },
             "Aerialist": {
                 "PassiveSkill": {
@@ -8926,7 +9466,10 @@
                             "Value": 2
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAerialist"
+                }
             },
             "Elegant Form": {
                 "PassiveSkill": {
@@ -8964,7 +9507,10 @@
                             "Value": 2
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableElegantForm"
+                }
             },
             "Darting Movements": {
                 "PassiveSkill": {
@@ -9002,7 +9548,10 @@
                             "Value": 2
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDartingMovements"
+                }
             },
             "Molten One's Mark": {
                 "PassiveSkill": {
@@ -9040,7 +9589,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMoltenOnesMark"
+                }
             },
             "Fire Attunement": {
                 "PassiveSkill": {
@@ -9086,7 +9638,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFireAttunement"
+                }
             },
             "Pure Might": {
                 "PassiveSkill": {
@@ -9138,7 +9693,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureMight"
+                }
             },
             "Blacksmith": {
                 "PassiveSkill": {
@@ -9190,7 +9748,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlacksmith"
+                }
             },
             "Non-Flammable": {
                 "PassiveSkill": {
@@ -9236,7 +9797,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableNonFlammable"
+                }
             },
             "Winter Prowler": {
                 "PassiveSkill": {
@@ -9274,7 +9838,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWinterProwler"
+                }
             },
             "Hibernator": {
                 "PassiveSkill": {
@@ -9328,7 +9895,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHibernator"
+                }
             },
             "Pure Guile": {
                 "PassiveSkill": {
@@ -9380,7 +9950,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureGuile"
+                }
             },
             "Alchemist": {
                 "PassiveSkill": {
@@ -9426,7 +9999,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAlchemist"
+                }
             },
             "Antifreeze": {
                 "PassiveSkill": {
@@ -9472,7 +10048,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAntifreeze"
+                }
             },
             "Wizardry": {
                 "PassiveSkill": {
@@ -9516,7 +10095,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWizardry"
+                }
             },
             "Capacitor": {
                 "PassiveSkill": {
@@ -9562,7 +10144,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCapacitor"
+                }
             },
             "Pure Aptitude": {
                 "PassiveSkill": {
@@ -9614,7 +10199,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureAptitude"
+                }
             },
             "Sage": {
                 "PassiveSkill": {
@@ -9672,7 +10260,10 @@
                             "Value": 4
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSage"
+                }
             },
             "Insulated": {
                 "PassiveSkill": {
@@ -9718,7 +10309,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableInsulated"
+                }
             },
             "Born of Chaos": {
                 "PassiveSkill": {
@@ -9748,7 +10342,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBornofChaos"
+                }
             },
             "Antivenom": {
                 "PassiveSkill": {
@@ -9794,7 +10391,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAntivenom"
+                }
             },
             "Rot-Resistant": {
                 "PassiveSkill": {
@@ -9848,7 +10448,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRotResistant"
+                }
             },
             "Blessed": {
                 "PassiveSkill": {
@@ -9906,7 +10509,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlessed"
+                }
             },
             "Student of Decay": {
                 "PassiveSkill": {
@@ -9944,7 +10550,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStudentofDecay"
+                }
             },
             "Lord of Drought": {
                 "PassiveSkill": {
@@ -9982,7 +10591,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                }
             },
             "Blizzard Caller": {
                 "PassiveSkill": {
@@ -10020,7 +10632,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                }
             },
             "Tempt the Storm": {
                 "PassiveSkill": {
@@ -10058,7 +10673,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                }
             },
             "Misery Everlasting": {
                 "PassiveSkill": {
@@ -10096,7 +10714,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                }
             },
             "Exploit Weakness": {
                 "PassiveSkill": {
@@ -10134,7 +10755,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                }
             },
             "Self-Control": {
                 "PassiveSkill": {
@@ -10178,7 +10802,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSelfControl"
+                }
             },
             "Uncompromising": {
                 "PassiveSkill": {
@@ -10222,7 +10849,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUncompromising"
+                }
             },
             "Sublime Form": {
                 "PassiveSkill": {
@@ -10266,7 +10896,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSublimeForm"
+                }
             },
             "Mortifying Aspect": {
                 "PassiveSkill": {
@@ -10310,7 +10943,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSummerCommander"
+                }
             },
             "Frantic Aspect": {
                 "PassiveSkill": {
@@ -10354,7 +10990,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWinterCommander"
+                }
             },
             "Introspection": {
                 "PassiveSkill": {
@@ -10390,7 +11029,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGroundedCommander"
+                }
             },
             "Hound's Mark": {
                 "PassiveSkill": {
@@ -10428,7 +11070,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHoundsMark"
+                }
             },
             "Doedre's Gluttony": {
                 "PassiveSkill": {
@@ -10466,7 +11111,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDoedresGluttony"
+                }
             },
             "Doedre's Apathy": {
                 "PassiveSkill": {
@@ -10504,7 +11152,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDoedresApathy"
+                }
             },
             "Master of the Maelstrom": {
                 "PassiveSkill": {
@@ -10542,7 +11193,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom"
+                }
             }
         },
         "Medium": {
@@ -10582,7 +11236,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePreciseRetaliation"
+                }
             },
             "Replenishing Presence": {
                 "PassiveSkill": {
@@ -10612,7 +11269,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableReplenishingPresence"
+                }
             },
             "Master of Command": {
                 "PassiveSkill": {
@@ -10650,7 +11310,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofCommand"
+                }
             },
             "Spiteful Presence": {
                 "PassiveSkill": {
@@ -10688,7 +11351,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFirstAmongEquals"
+                }
             },
             "Purposeful Harbinger": {
                 "PassiveSkill": {
@@ -10730,7 +11396,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger"
+                }
             },
             "Destructive Aspect": {
                 "PassiveSkill": {
@@ -10774,7 +11443,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePreciseCommander"
+                }
             },
             "Electric Presence": {
                 "PassiveSkill": {
@@ -10812,7 +11484,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureCommander"
+                }
             },
             "Volatile Presence": {
                 "PassiveSkill": {
@@ -10850,7 +11525,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStalwartCommander"
+                }
             },
             "Righteous Path": {
                 "PassiveSkill": {
@@ -10888,7 +11566,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                }
             },
             "Skullbreaker": {
                 "PassiveSkill": {
@@ -10926,7 +11607,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSkullbreaker"
+                }
             },
             "Pressure Points": {
                 "PassiveSkill": {
@@ -10964,7 +11648,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePressurePoints"
+                }
             },
             "Overwhelming Malice": {
                 "PassiveSkill": {
@@ -10994,7 +11681,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice"
+                }
             },
             "Magnifier": {
                 "PassiveSkill": {
@@ -11038,7 +11728,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMagnifier"
+                }
             },
             "Savage Response": {
                 "PassiveSkill": {
@@ -11076,7 +11769,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSavageResponse"
+                }
             },
             "Eye of the Storm": {
                 "PassiveSkill": {
@@ -11134,7 +11830,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEyeoftheStorm"
+                }
             },
             "Basics of Pain": {
                 "PassiveSkill": {
@@ -11172,7 +11871,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBasicsofPain"
+                }
             },
             "Quick Getaway": {
                 "PassiveSkill": {
@@ -11218,7 +11920,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableQuickGetaway"
+                }
             },
             "Assert Dominance": {
                 "PassiveSkill": {
@@ -11248,7 +11953,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAssertDominance"
+                }
             },
             "Vast Power": {
                 "PassiveSkill": {
@@ -11286,7 +11994,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVastPower"
+                }
             },
             "Powerful Assault": {
                 "PassiveSkill": {
@@ -11324,7 +12035,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePowerfulAssault"
+                }
             },
             "Titanic Swings": {
                 "PassiveSkill": {
@@ -11362,7 +12076,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTitanicSwings"
+                }
             },
             "Towering Threat": {
                 "PassiveSkill": {
@@ -11400,7 +12117,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableToweringThreat"
+                }
             },
             "Ancestral Echo": {
                 "PassiveSkill": {
@@ -11438,7 +12158,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralEcho"
+                }
             },
             "Ancestral Reach": {
                 "PassiveSkill": {
@@ -11484,7 +12207,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralReach"
+                }
             },
             "Ancestral Might": {
                 "PassiveSkill": {
@@ -11530,7 +12256,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralMight"
+                }
             },
             "Ancestral Preservation": {
                 "PassiveSkill": {
@@ -11576,7 +12305,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralPreservation"
+                }
             },
             "Snaring Spirits": {
                 "PassiveSkill": {
@@ -11614,7 +12346,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSnaringSpirits"
+                }
             },
             "Sleepless Sentries": {
                 "PassiveSkill": {
@@ -11652,7 +12387,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSleeplessSentries"
+                }
             },
             "Ancestral Guidance": {
                 "PassiveSkill": {
@@ -11690,7 +12428,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralGuidance"
+                }
             },
             "Ancestral Inspiration": {
                 "PassiveSkill": {
@@ -11728,7 +12469,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAncestralInspiration"
+                }
             },
             "Vital Focus": {
                 "PassiveSkill": {
@@ -11766,7 +12510,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVitalFocus"
+                }
             },
             "Rapid Infusion": {
                 "PassiveSkill": {
@@ -11804,7 +12551,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRapidInfusion"
+                }
             },
             "Unwavering Focus": {
                 "PassiveSkill": {
@@ -11842,7 +12592,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUnwaveringFocus"
+                }
             },
             "Enduring Focus": {
                 "PassiveSkill": {
@@ -11880,7 +12633,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEnduringFocus"
+                }
             },
             "Precise Focus": {
                 "PassiveSkill": {
@@ -11918,7 +12674,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePreciseFocus"
+                }
             },
             "Stoic Focus": {
                 "PassiveSkill": {
@@ -11964,7 +12723,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStoicFocus"
+                }
             },
             "Hex Breaker": {
                 "PassiveSkill": {
@@ -12002,7 +12764,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHexBreaker"
+                }
             },
             "Distilled Perfection": {
                 "PassiveSkill": {
@@ -12058,7 +12823,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDistilledPerfection"
+                }
             },
             "Spiked Concoction": {
                 "PassiveSkill": {
@@ -12106,7 +12874,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSpikedConcoction"
+                }
             },
             "Fasting": {
                 "PassiveSkill": {
@@ -12154,7 +12925,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFasting"
+                }
             },
             "Mender's Wellspring": {
                 "PassiveSkill": {
@@ -12210,7 +12984,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMendersWellspring"
+                }
             },
             "Special Reserve": {
                 "PassiveSkill": {
@@ -12258,7 +13035,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSpecialReserve"
+                }
             },
             "Numbing Elixir": {
                 "PassiveSkill": {
@@ -12306,7 +13086,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableNumbingElixir"
+                }
             },
             "Mob Mentality": {
                 "PassiveSkill": {
@@ -12344,7 +13127,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMobMentality"
+                }
             },
             "Cry Wolf": {
                 "PassiveSkill": {
@@ -12382,7 +13168,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCryWolf"
+                }
             },
             "Haunting Shout": {
                 "PassiveSkill": {
@@ -12412,7 +13201,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHauntingShout"
+                }
             },
             "Lead By Example": {
                 "PassiveSkill": {
@@ -12450,7 +13242,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLeadByExample"
+                }
             },
             "Provocateur": {
                 "PassiveSkill": {
@@ -12494,7 +13289,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableProvocateur"
+                }
             },
             "Warning Call": {
                 "PassiveSkill": {
@@ -12524,7 +13322,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWarningCall"
+                }
             },
             "Rattling Bellow": {
                 "PassiveSkill": {
@@ -12562,7 +13363,10 @@
                             "Value": 20
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRattlingBellow"
+                }
             },
             "Wound Aggravation": {
                 "PassiveSkill": {
@@ -12608,7 +13412,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWoundAggravation"
+                }
             },
             "Expansive Might": {
                 "PassiveSkill": {
@@ -12646,7 +13453,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExpansiveMight"
+                }
             },
             "Master of Fire": {
                 "PassiveSkill": {
@@ -12676,7 +13486,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofFire"
+                }
             },
             "Smoking Remains": {
                 "PassiveSkill": {
@@ -12714,7 +13527,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSmokingRemains"
+                }
             },
             "Cremator": {
                 "PassiveSkill": {
@@ -12752,7 +13568,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCremator"
+                }
             },
             "Cold-Blooded Killer": {
                 "PassiveSkill": {
@@ -12790,7 +13609,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableColdBloodedKiller"
+                }
             },
             "Unwaveringly Evil": {
                 "PassiveSkill": {
@@ -12828,7 +13650,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil"
+                }
             },
             "Dark Ideation": {
                 "PassiveSkill": {
@@ -12858,7 +13683,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDarkIdeation"
+                }
             },
             "Wicked Pall": {
                 "PassiveSkill": {
@@ -12896,7 +13724,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWickedPall"
+                }
             },
             "Renewal": {
                 "PassiveSkill": {
@@ -12934,7 +13765,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRenewal"
+                }
             },
             "Hulking Corpses": {
                 "PassiveSkill": {
@@ -12972,7 +13806,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHulkingCorpses"
+                }
             },
             "Blowback": {
                 "PassiveSkill": {
@@ -13010,7 +13847,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlowback"
+                }
             },
             "Fan the Flames": {
                 "PassiveSkill": {
@@ -13040,7 +13880,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFantheFlames"
+                }
             },
             "Cooked Alive": {
                 "PassiveSkill": {
@@ -13078,7 +13921,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCookedAlive"
+                }
             },
             "Burning Bright": {
                 "PassiveSkill": {
@@ -13116,7 +13962,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBurningBright"
+                }
             },
             "Wrapped in Flame": {
                 "PassiveSkill": {
@@ -13162,7 +14011,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWrappedinFlame"
+                }
             },
             "Vivid Hues": {
                 "PassiveSkill": {
@@ -13208,7 +14060,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVividHues"
+                }
             },
             "Rend": {
                 "PassiveSkill": {
@@ -13246,7 +14101,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRend"
+                }
             },
             "Disorienting Wounds": {
                 "PassiveSkill": {
@@ -13284,7 +14142,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDisorientingWounds"
+                }
             },
             "Compound Injury": {
                 "PassiveSkill": {
@@ -13314,7 +14175,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCompoundInjury"
+                }
             },
             "Blood Artist": {
                 "PassiveSkill": {
@@ -13352,7 +14216,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBloodArtist"
+                }
             },
             "Phlebotomist": {
                 "PassiveSkill": {
@@ -13390,7 +14257,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePhlebotomist"
+                }
             },
             "Septic Spells": {
                 "PassiveSkill": {
@@ -13436,7 +14306,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSepticSpells"
+                }
             },
             "Low Tolerance": {
                 "PassiveSkill": {
@@ -13466,7 +14339,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLowTolerance"
+                }
             },
             "Steady Torment": {
                 "PassiveSkill": {
@@ -13526,7 +14402,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSteadyTorment"
+                }
             },
             "Eternal Suffering": {
                 "PassiveSkill": {
@@ -13564,7 +14443,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEternalSuffering"
+                }
             },
             "Eldritch Inspiration": {
                 "PassiveSkill": {
@@ -13610,7 +14492,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEldritchInspiration"
+                }
             },
             "Wasting Affliction": {
                 "PassiveSkill": {
@@ -13672,7 +14557,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWastingAffliction"
+                }
             },
             "Haemorrhage": {
                 "PassiveSkill": {
@@ -13740,7 +14628,10 @@
                             "Value": 15
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHaemorrhage"
+                }
             },
             "Flow of Life": {
                 "PassiveSkill": {
@@ -13810,7 +14701,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFlowofLife"
+                }
             },
             "Exposure Therapy": {
                 "PassiveSkill": {
@@ -13872,7 +14766,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExposureTherapy"
+                }
             },
             "Brush with Death": {
                 "PassiveSkill": {
@@ -13942,7 +14839,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBrushwithDeath"
+                }
             },
             "Vile Reinvigoration": {
                 "PassiveSkill": {
@@ -14012,7 +14912,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVileReinvigoration"
+                }
             },
             "Circling Oblivion": {
                 "PassiveSkill": {
@@ -14074,7 +14977,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCirclingOblivion"
+                }
             },
             "Brewed for Potency": {
                 "PassiveSkill": {
@@ -14150,7 +15056,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBrewedforPotency"
+                }
             },
             "Astonishing Affliction": {
                 "PassiveSkill": {
@@ -14196,7 +15105,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAstonishingAffliction"
+                }
             },
             "Cold Conduction": {
                 "PassiveSkill": {
@@ -14234,7 +15146,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableColdConduction"
+                }
             },
             "Inspired Oppression": {
                 "PassiveSkill": {
@@ -14288,7 +15203,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableInspiredOppression"
+                }
             },
             "Chilling Presence": {
                 "PassiveSkill": {
@@ -14324,7 +15242,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableChillingPresence"
+                }
             },
             "Deep Chill": {
                 "PassiveSkill": {
@@ -14368,7 +15289,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDeepChill"
+                }
             },
             "Blast-Freeze": {
                 "PassiveSkill": {
@@ -14412,7 +15336,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlastFreeze"
+                }
             },
             "Stormrider": {
                 "PassiveSkill": {
@@ -14458,7 +15385,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStormrider"
+                }
             },
             "Overshock": {
                 "PassiveSkill": {
@@ -14496,7 +15426,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableOvershock"
+                }
             },
             "Evil Eye": {
                 "PassiveSkill": {
@@ -14526,7 +15459,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEvilEye"
+                }
             },
             "Inevitable Doom": {
                 "PassiveSkill": {
@@ -14564,7 +15500,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWhispersofDeath"
+                }
             },
             "Forbidden Words": {
                 "PassiveSkill": {
@@ -14602,7 +15541,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWardbreaker"
+                }
             },
             "Doedre's Spite": {
                 "PassiveSkill": {
@@ -14640,7 +15582,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDarkDiscourse"
+                }
             },
             "Victim Maker": {
                 "PassiveSkill": {
@@ -14678,7 +15623,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableVictimMaker"
+                }
             },
             "Master of Fear": {
                 "PassiveSkill": {
@@ -14708,7 +15656,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterofFear"
+                }
             },
             "Wish for Death": {
                 "PassiveSkill": {
@@ -14738,7 +15689,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWishforDeath"
+                }
             },
             "Heraldry": {
                 "PassiveSkill": {
@@ -14790,7 +15744,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHeraldry"
+                }
             },
             "Endbringer": {
                 "PassiveSkill": {
@@ -14834,7 +15791,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEndbringer"
+                }
             },
             "Cult-Leader": {
                 "PassiveSkill": {
@@ -14864,7 +15824,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCultLeader"
+                }
             },
             "Empowered Envoy": {
                 "PassiveSkill": {
@@ -14902,7 +15865,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEmpoweredEnvoy"
+                }
             },
             "Dark Messenger": {
                 "PassiveSkill": {
@@ -14940,7 +15906,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDarkMessenger"
+                }
             },
             "Agent of Destruction": {
                 "PassiveSkill": {
@@ -14978,7 +15947,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAgentofDestruction"
+                }
             },
             "Lasting Impression": {
                 "PassiveSkill": {
@@ -15022,7 +15994,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLastingImpression"
+                }
             },
             "Self-Fulfilling Prophecy": {
                 "PassiveSkill": {
@@ -15060,7 +16035,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSelfFulfillingProphecy"
+                }
             },
             "Invigorating Portents": {
                 "PassiveSkill": {
@@ -15098,7 +16076,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableInvigoratingPortents"
+                }
             },
             "Pure Agony": {
                 "PassiveSkill": {
@@ -15136,7 +16117,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureAgony"
+                }
             },
             "Disciples": {
                 "PassiveSkill": {
@@ -15174,7 +16158,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDisciples"
+                }
             },
             "Dread March": {
                 "PassiveSkill": {
@@ -15228,7 +16215,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDreadMarch"
+                }
             },
             "Blessed Rebirth": {
                 "PassiveSkill": {
@@ -15266,7 +16256,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlessedRebirth"
+                }
             },
             "Life from Death": {
                 "PassiveSkill": {
@@ -15312,7 +16305,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLifefromDeath"
+                }
             },
             "Feasting Fiends": {
                 "PassiveSkill": {
@@ -15358,7 +16354,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFeastingFiends"
+                }
             },
             "Bodyguards": {
                 "PassiveSkill": {
@@ -15396,7 +16395,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBodyguards"
+                }
             },
             "Follow-Through": {
                 "PassiveSkill": {
@@ -15426,7 +16428,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableFollowThrough"
+                }
             },
             "Streamlined": {
                 "PassiveSkill": {
@@ -15464,7 +16469,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStreamlined"
+                }
             },
             "Shrieking Bolts": {
                 "PassiveSkill": {
@@ -15502,7 +16510,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableShriekingBolts"
+                }
             },
             "Eye to Eye": {
                 "PassiveSkill": {
@@ -15540,7 +16551,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableEyetoEye"
+                }
             },
             "Repeater": {
                 "PassiveSkill": {
@@ -15578,7 +16592,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRepeater"
+                }
             },
             "Aerodynamics": {
                 "PassiveSkill": {
@@ -15624,7 +16641,10 @@
                             "Value": 10
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableAerodynamics"
+                }
             },
             "Chip Away": {
                 "PassiveSkill": {
@@ -15662,7 +16682,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableChipAway"
+                }
             },
             "Seeker Runes": {
                 "PassiveSkill": {
@@ -15700,7 +16723,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSeekerRunes"
+                }
             },
             "Remarkable": {
                 "PassiveSkill": {
@@ -15738,7 +16764,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableRemarkable"
+                }
             },
             "Brand Loyalty": {
                 "PassiveSkill": {
@@ -15768,7 +16797,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBrandLoyalty"
+                }
             },
             "Holy Conquest": {
                 "PassiveSkill": {
@@ -15806,7 +16838,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHolyConquest"
+                }
             },
             "Grand Design": {
                 "PassiveSkill": {
@@ -15852,7 +16887,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGrandDesign"
+                }
             },
             "Set and Forget": {
                 "PassiveSkill": {
@@ -15910,7 +16948,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSetandForget"
+                }
             },
             "Expert Sabotage": {
                 "PassiveSkill": {
@@ -15952,7 +16993,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExpertSabotage"
+                }
             },
             "Guerilla Tactics": {
                 "PassiveSkill": {
@@ -16018,7 +17062,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGuerillaTactics"
+                }
             },
             "Expendability": {
                 "PassiveSkill": {
@@ -16052,7 +17099,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExpendability"
+                }
             },
             "Arcane Pyrotechnics": {
                 "PassiveSkill": {
@@ -16110,7 +17160,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableArcanePyrotechnics"
+                }
             },
             "Surprise Sabotage": {
                 "PassiveSkill": {
@@ -16168,7 +17221,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSurpriseSabotage"
+                }
             },
             "Careful Handling": {
                 "PassiveSkill": {
@@ -16226,7 +17282,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableCarefulHandling"
+                }
             },
             "Peak Vigour": {
                 "PassiveSkill": {
@@ -16264,7 +17323,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePeakVigour"
+                }
             },
             "Liquid Inspiration": {
                 "PassiveSkill": {
@@ -16310,7 +17372,10 @@
                             "Value": 6
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLiquidInspiration"
+                }
             },
             "Pure Might": {
                 "PassiveSkill": {
@@ -16356,7 +17421,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureMight"
+                }
             },
             "Pure Guile": {
                 "PassiveSkill": {
@@ -16402,7 +17470,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureGuile"
+                }
             },
             "Pure Aptitude": {
                 "PassiveSkill": {
@@ -16448,7 +17519,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotablePureAptitude"
+                }
             },
             "Student of Decay": {
                 "PassiveSkill": {
@@ -16504,7 +17578,10 @@
                             "Value": 12
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableStudentofDecay"
+                }
             },
             "Lord of Drought": {
                 "PassiveSkill": {
@@ -16542,7 +17619,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                }
             },
             "Blizzard Caller": {
                 "PassiveSkill": {
@@ -16580,7 +17660,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                }
             },
             "Tempt the Storm": {
                 "PassiveSkill": {
@@ -16618,7 +17701,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                }
             },
             "Misery Everlasting": {
                 "PassiveSkill": {
@@ -16656,7 +17742,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                }
             },
             "Exploit Weakness": {
                 "PassiveSkill": {
@@ -16694,7 +17783,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                }
             },
             "Self-Control": {
                 "PassiveSkill": {
@@ -16732,7 +17824,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSelfControl"
+                }
             },
             "Uncompromising": {
                 "PassiveSkill": {
@@ -16770,7 +17865,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableUncompromising"
+                }
             },
             "Sublime Form": {
                 "PassiveSkill": {
@@ -16808,7 +17906,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSublimeForm"
+                }
             },
             "Mortifying Aspect": {
                 "PassiveSkill": {
@@ -16846,7 +17947,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableSummerCommander"
+                }
             },
             "Frantic Aspect": {
                 "PassiveSkill": {
@@ -16884,7 +17988,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableWinterCommander"
+                }
             },
             "Introspection": {
                 "PassiveSkill": {
@@ -16914,7 +18021,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableGroundedCommander"
+                }
             },
             "Hound's Mark": {
                 "PassiveSkill": {
@@ -16952,7 +18062,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableHoundsMark"
+                }
             },
             "Doedre's Gluttony": {
                 "PassiveSkill": {
@@ -16990,7 +18103,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDoedresGluttony"
+                }
             },
             "Doedre's Apathy": {
                 "PassiveSkill": {
@@ -17028,7 +18144,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableDoedresApathy"
+                }
             },
             "Master of the Maelstrom": {
                 "PassiveSkill": {
@@ -17066,7 +18185,10 @@
                             "Value": 3
                         }
                     ]
-                ]
+                ],
+                "Mod": {
+                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom"
+                }
             }
         }
     }

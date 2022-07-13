@@ -6,6 +6,20 @@ function calculate3n2d(event, inid1, inid3) {
 	var notable1 = sortOrderMap[in1];
 	var notable3 = sortOrderMap[in3];
 
+	if (notable1.Mod.CorrectGroup == notable3.Mod.CorrectGroup) {
+		writeToOutput(output, "Notables cannot be in the same group: " + notable3.Mod.CorrectGroup + ".");
+		return;
+	}
+
+	var numPrefixes = 0;
+	if (!isSuffix(notable1)) {
+		numPrefixes++;
+	}
+
+	if (!isSuffix(notable3)) {
+		numPrefixes++;
+	}
+
 	let allEnchants = [];
 	let enchants = [];
 
@@ -36,6 +50,8 @@ function calculate3n2d(event, inid1, inid3) {
 	// TODO: rules:
 	// prefixes/suffixes
 	// can only have 1 suffix
+	// 		Figured out that suffixes have "CorrectGroup": "AfflictionNotableLargeSuffix"
+	// 		so the 2 rules described above are basically the same - notables cannot be in the same group
 	var text = "";
 	var notablesBetween = [];
 	var betweenNames = [];
@@ -46,10 +62,21 @@ function calculate3n2d(event, inid1, inid3) {
 		let sObj = megaStruct.Notables[s];
 		for (const notableName in sObj) {
 			let nObj = sObj[notableName];
+			let adjPrefixes = numPrefixes;
+			if (!isSuffix(nObj)) {
+				adjPrefixes++;
+			}
+			// TODO merge to and
 			if (isNotableBetween(notable1, notable3, nObj)) {
 				if (isEnchantsValid(enchants, nObj.Enchantments)) {
-					notablesBetween.push(nObj);
-					betweenNames.push(notableName);
+					if (nObj.Mod.CorrectGroup != notable1.Mod.CorrectGroup) {
+						if (nObj.Mod.CorrectGroup != notable3.Mod.CorrectGroup) {
+							if (adjPrefixes < 3) {
+								notablesBetween.push(nObj);
+								betweenNames.push(notableName);
+							}
+						}
+					}
 				}
 			}
 		}
@@ -87,6 +114,10 @@ function calculate3n2d(event, inid1, inid3) {
 	}
 
 	writeToOutput(output, text);
+}
+
+function isSuffix(notable) {
+	return notable.Mod.CorrectGroup.includes("Suffix");
 }
 
 function includesEnchant(l1, l2) {

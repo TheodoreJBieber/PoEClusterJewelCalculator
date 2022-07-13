@@ -94,7 +94,7 @@ def add_notables_data(skill, passive_skill, stat, mod, tag, expansion_skills, si
         size_notables[ps_name]["Stat"] = extract_stat(stat)
         size_notables[ps_name]["Enchantments"] = []
     notable = size_notables[ps_name]
-    # notable["Mod"] = extract_mod(mod)
+    notable["Mod"] = extract_mod(mod)
     notable["Enchantments"].append(extract_enchantments(expansion_skills))
     
 
@@ -150,7 +150,9 @@ def extract_stat(stat, value = None):
     return out
 
 def extract_mod(mod):
-    pass
+    carryover = ["CorrectGroup"]
+    out = extract_as_is(mod, carryover)
+    return out
 
 def extract_enchantments(expansion_skills):
     ench_lines = []
