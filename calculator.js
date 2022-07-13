@@ -1,4 +1,5 @@
 function calculate3n2d(event, inid1, inid3) {
+	var output = getElement("output3n2d");
 	var in1 = getElement(inid1).value;
 	var in3 = getElement(inid3).value;
 
@@ -27,6 +28,11 @@ function calculate3n2d(event, inid1, inid3) {
 		}
 	}
 
+	if (enchants.length == 0) {
+		writeToOutput(output, "Those notables cannot roll on any of the same cluster jewel types.");
+		return;
+	}
+
 	// TODO: rules:
 	// prefixes/suffixes
 	// can only have 1 suffix
@@ -49,33 +55,37 @@ function calculate3n2d(event, inid1, inid3) {
 		}
 	}
 
-	// OUTPUT
-	let desired = [in1, in3];
-	// LINK FOR ANY ENCHANT
-	if (enchants.length > 1) {
-		var url = getSearchUrl(generateBody3n2d(desired, betweenNames));
-		text = text + createSearchLink(url);
+	if (notablesBetween.length == 0) {
+		writeToOutput(output, "There are no notables that can appear in position 2 with the current selection.");
+		return;
 	}
 
-	console.log(notablesBetween);
+	// OUTPUT
+	let desired = [in1, in3];
 
+	text = text + "<b>Enchantments</b>"
 	// LINK FOR A SPECIFIC ENCHANT
 	for (let i = 0; i < enchants.length; i++) {
 		let ench = enchants[i];
-		console.log("----");
-		console.log(ench);
 		let notablesNames = notablesBetween.filter(nObj => {
 			return includesEnchant(nObj.Enchantments, ench);
 		})
 		.map(nObj => nObj.PassiveSkill.Name);
 		// Should always be true, but may as well check
 		if (notablesNames.length > 0) {
+			let enchantKey = getEnchantKey(ench);
+			let enchantDescription = enchantMap[enchantKey].text;
 			var url = getSearchUrl(generateBody3n2d(desired, notablesNames, ench));
-			text = text + createSearchLink(url);
+			text = text + "<div>" + enchantDescription + ": "  + createSearchLink(url) + "</div>";
 		}
 	}
 
-	var output = getElement("output3n2d");
+	// LINK FOR ANY ENCHANT
+	if (enchants.length > 1) {
+		var url = getSearchUrl(generateBody3n2d(desired, betweenNames));
+		text = text + "<div>Any Enchant: " + createSearchLink(url) + "</div>";
+	}
+
 	writeToOutput(output, text);
 }
 
