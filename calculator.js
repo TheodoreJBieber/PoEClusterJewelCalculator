@@ -1,37 +1,127 @@
-
 function calculate3n2d(event, inid1, inid3) {
 	var in1 = getElement(inid1).value;
 	var in3 = getElement(inid3).value;
-	console.log(in1);
-	console.log(in3);
-	var text = "";
-	var between = [];
-	for (const num in sortOrderReverseMap) {
-		if (isBetween(in1, in3, num)) {
-			console.log(num);
-			between.push(sortOrderReverseMap[num]);
-			text = text + sortOrderReverseMap[num] + ", ";
+
+	var notable1 = sortOrderMap[in1];
+	var notable3 = sortOrderMap[in3];
+
+	let allEnchants = [];
+	let enchants = [];
+
+	// enchants contains values which occur in notable1.Enchantments and notable3.Enchantments
+	for (const index in notable1.Enchantments) {
+		let ench = notable1.Enchantments[index];
+		allEnchants.push(ench);
+	}
+	for (const index in notable3.Enchantments) {
+		let ench = notable3.Enchantments[index];
+		if (!includesEnchant(allEnchants, ench)) {
+			allEnchants.push(ench);
 		}
-	} 
+	}
 
-	desired = [sortOrderReverseMap[in1], sortOrderReverseMap[in3]]
-	var url = getSearchUrl(generateBody3n2d(desired, between));
+	for (const index in allEnchants) {
+		let ench = allEnchants[index];
+		if (includesEnchant(notable1.Enchantments, ench) && includesEnchant(notable3.Enchantments, ench)) {
+			enchants.push(ench);
+		}
+	}
 
-	text = text + createSearchLink(url);
+	// TODO: rules:
+	// prefixes/suffixes
+	// can only have 1 suffix
+	var text = "";
+	var notablesBetween = [];
+	var betweenNames = [];
+	for (const s in megaStruct.Notables) {
+		if (s != "Large") {
+			continue;
+		}
+		let sObj = megaStruct.Notables[s];
+		for (const notableName in sObj) {
+			let nObj = sObj[notableName];
+			if (isNotableBetween(notable1, notable3, nObj)) {
+				if (isEnchantsValid(enchants, nObj.Enchantments)) {
+					notablesBetween.push(nObj);
+					betweenNames.push(notableName);
+				}
+			}
+		}
+	}
+
+	// OUTPUT
+	let desired = [in1, in3];
+	// LINK FOR ANY ENCHANT
+	if (enchants.length > 1) {
+		var url = getSearchUrl(generateBody3n2d(desired, betweenNames));
+		text = text + createSearchLink(url);
+	}
+
+	console.log(notablesBetween);
+
+	// LINK FOR A SPECIFIC ENCHANT
+	for (let i = 0; i < enchants.length; i++) {
+		let ench = enchants[i];
+		console.log("----");
+		console.log(ench);
+		let notablesNames = notablesBetween.filter(nObj => {
+			return includesEnchant(nObj.Enchantments, ench);
+		})
+		.map(nObj => nObj.PassiveSkill.Name);
+		// Should always be true, but may as well check
+		if (notablesNames.length > 0) {
+			var url = getSearchUrl(generateBody3n2d(desired, notablesNames, ench));
+			text = text + createSearchLink(url);
+		}
+	}
 
 	var output = getElement("output3n2d");
 	writeToOutput(output, text);
 }
 
+function includesEnchant(l1, l2) {
+	return l1.filter(lv => enchantEquals(lv, l2)).length > 0;
+}
 
+function enchantEquals(e1, e2) {
+	if (e1.length != e2.length) {
+		return false;
+	}
+	for (var i = 0; i < e1.length; i++) {
+		if (!enchLineEquals(e1[i], e2[i])) {
+			return false;
+		}
+	}
+	return true;
+}
 
-// returns true if between is between val1 and val3. there cannot be overlap in notables, so no equals comparison
+function enchLineEquals(l1, l2) {
+	return (l1.Description == l2.Description) && (l1.Value == l2.Value);
+}
+
+function isNotableBetween(not1, not3, between) {
+	let num1 = not1.Stat._rid;
+	let num3 = not3.Stat._rid;
+	let numb = between.Stat._rid;
+	return isBetween(num1, num3, numb);
+}
+
 function isBetween(val1, val3, between) {
 	if (val1 < val3) {
 		return (val1 < between) && (val3 > between);
 	} else {
 		return (val3 < between) && (val1 > between);
 	}
+}
+
+function isEnchantsValid(allowed, enchs) {
+	for (let i = 0; i < enchs.length; i++) {
+		let ench = enchs[i];
+		if (includesEnchant(allowed, ench)) {
+			return true;
+		}
+	}
+	return false;
 }
 
 function getElement(id) {

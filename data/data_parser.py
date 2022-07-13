@@ -1,6 +1,6 @@
 import json
 
-# Script to parse data from ./raw directory and write it to a nice format
+# Script to parse data from ./raw directory and write it to a nicer format
 input_path = "data/raw/"
 ext = ".json"
 files = ["BaseItemTypes", # 0
@@ -37,12 +37,16 @@ def load_data():
             file_json[name] = data
 
 def parse_data():
+    trade_stats = file_json["trade_stats"]
+    wanted = ["Explicit", "Enchant"]
+    for trade_stat in trade_stats["result"]:
+        if (trade_stat["label"] in wanted):
+            add_trade_stats_data(trade_stat)
     special_skills = file_json["PassiveTreeExpansionSpecialSkills"]
     passive_skills = file_json["PassiveSkills"]
     stats = file_json["Stats"]
     tags = file_json["Tags"]
     sizes = file_json["PassiveTreeExpansionJewelSizes"]
-    trade_stats = file_json["trade_stats"]
     for skill in special_skills:
         passive_skill_key = skill["PassiveSkillsKey"]
         passive_skill = get(passive_skills, passive_skill_key)
@@ -69,11 +73,6 @@ def parse_data():
                 add_notables_data(skill, passive_skill, stat, mod, tag, expansion_skills, size)
             else:
                 print("Could not find expansion skill for tag:" + str(spawn_tag_id))
-    
-    wanted = ["Explicit", "Enchant"]
-    for trade_stat in trade_stats["result"]:
-        if (trade_stat["label"] in wanted):
-            add_trade_stats_data(trade_stat)
 
 def write_data():
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -85,14 +84,19 @@ def add_notables_data(skill, passive_skill, stat, mod, tag, expansion_skills, si
     notables = out_json["Notables"]
     size_name = size["Name"]
     if size_name not in notables:
-        notables[size_name] = []
-    size_list = notables[size_name]
-    notable = {}
-    notable["PassiveSkill"] = extract_passive_skill(passive_skill)
-    notable["Stat"] = extract_stat(stat)
+        notables[size_name] = {}
+    size_notables = notables[size_name]
+    ps = extract_passive_skill(passive_skill)
+    ps_name = ps["Name"]
+    if ps_name not in size_notables:
+        size_notables[ps_name] = {}
+        size_notables[ps_name]["PassiveSkill"] = ps
+        size_notables[ps_name]["Stat"] = extract_stat(stat)
+        size_notables[ps_name]["Enchantments"] = []
+    notable = size_notables[ps_name]
     # notable["Mod"] = extract_mod(mod)
-    notable["Enchantments"] = extract_enchantments(expansion_skills)
-    size_list.append(notable)
+    notable["Enchantments"].append(extract_enchantments(expansion_skills))
+    
 
 def add_trade_stats_data(trade_stat):
     if "TradeStats" not in out_json:
@@ -116,8 +120,6 @@ def add_trade_stats_data(trade_stat):
             if text in wanted:
                 enchant[text] = entry
         trade_stats[label] = enchant
-    
-    
 
 def extract_passive_skill(passive_skill):
     carryover = ["Name"]
@@ -134,30 +136,32 @@ def extract_passive_skill(passive_skill):
     return out
 
 def extract_stat(stat, value = None):
-    out = {}
+    carryover = ["_rid", "Text"]
+    out = extract_as_is(stat, carryover)
     if (value == None):
-        out["Description"] = stat["Id"]
+        desc = {}
+        desc["Description"] = stat["Id"]
+        out["Description"] = desc
     else:
-        out["Description"] = stat["Id"].replace("%", str(value))
-    out["Enchant"] = "PLACEHOLDER ENCHANT"
+        desc = {}
+        desc["Description"] = stat["Id"]
+        desc["Value"] = value
+        out["Description"] = desc
     return out
 
 def extract_mod(mod):
     pass
 
 def extract_enchantments(expansion_skills):
-    out = []
+    ench_lines = []
 
     for es in expansion_skills:
-        desc = ""
         ps_key = es["PassiveSkillsKey"]
         ps = extract_passive_skill(get(file_json["PassiveSkills"], ps_key))
         for stat in ps["Stats"]:
-            if len(desc) > 0:
-                desc = desc + "\n"
-            desc = desc + stat["Description"]
+            ench_lines.append(stat["Description"])
 
-    return out
+    return ench_lines
 
 def extract_as_is(original, keys):
     out = {}

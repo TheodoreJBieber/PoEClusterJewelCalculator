@@ -39,6 +39,25 @@ function generateBody3n2d(desired = [], others = [], enchant = null) {
         "filters":[]
     }
 
+    let numPassives = {
+        value: {max: 8, min: 8},
+        id: megaStruct.TradeStats.Enchant["Adds # Passive Skills"]["id"]
+    };
+
+    and_body.filters.push(numPassives);
+
+    if (enchant != null) {
+        let enchantKey = getEnchantKey(enchant);
+        enchants = {
+            id: megaStruct.TradeStats.Enchant["Added Small Passive Skills grant: #"]["id"],
+            value: {
+                option: enchantMap[enchantKey].id
+            }
+        };
+        
+        and_body.filters.push(enchants);
+    }
+
     for (const de of desired) {
         let id = getNotableTradeId(de);
         let filter = {"id": id};
