@@ -11,18 +11,8 @@ function calculate3n2d(event, inid1, inid3) {
 		return;
 	}
 
-	var numPrefixes = 0;
-	if (!isSuffix(notable1)) {
-		numPrefixes++;
-	}
-
-	if (!isSuffix(notable3)) {
-		numPrefixes++;
-	}
 
 	let allEnchants = [];
-	let enchants = [];
-
 	// enchants contains values which occur in notable1.Enchantments and notable3.Enchantments
 	for (const index in notable1.Enchantments) {
 		let ench = notable1.Enchantments[index];
@@ -35,23 +25,19 @@ function calculate3n2d(event, inid1, inid3) {
 		}
 	}
 
+	let validEnchants = [];
 	for (const index in allEnchants) {
 		let ench = allEnchants[index];
 		if (includesEnchant(notable1.Enchantments, ench) && includesEnchant(notable3.Enchantments, ench)) {
-			enchants.push(ench);
+			validEnchants.push(ench);
 		}
 	}
 
-	if (enchants.length == 0) {
+	if (validEnchants.length == 0) {
 		writeToOutput(output, "Those notables cannot roll on any of the same cluster jewel types.");
 		return;
 	}
 
-	// TODO: rules:
-	// prefixes/suffixes
-	// can only have 1 suffix
-	// 		Figured out that suffixes have "CorrectGroup": "AfflictionNotableLargeSuffix"
-	// 		so the 2 rules described above are basically the same - notables cannot be in the same group
 	var text = "";
 	var notablesBetween = [];
 	var betweenNames = [];
@@ -62,22 +48,10 @@ function calculate3n2d(event, inid1, inid3) {
 		let sObj = megaStruct.Notables[s];
 		for (const notableName in sObj) {
 			let nObj = sObj[notableName];
-			let adjPrefixes = numPrefixes;
-			if (!isSuffix(nObj)) {
-				adjPrefixes++;
-			}
-			// TODO merge to and
-			if (isNotableBetween(notable1, notable3, nObj)) {
-				if (isEnchantsValid(enchants, nObj.Enchantments)) {
-					if (nObj.Mod.CorrectGroup != notable1.Mod.CorrectGroup) {
-						if (nObj.Mod.CorrectGroup != notable3.Mod.CorrectGroup) {
-							if (adjPrefixes < 3) {
-								notablesBetween.push(nObj);
-								betweenNames.push(notableName);
-							}
-						}
-					}
-				}
+
+			if (areNotablesCompatible(notable1, notable3, nObj, validEnchants)) {
+				notablesBetween.push(nObj);
+				betweenNames.push(notableName);
 			}
 		}
 	}
@@ -92,8 +66,8 @@ function calculate3n2d(event, inid1, inid3) {
 
 	text = text + "<b>Enchantments</b>"
 	// LINK FOR A SPECIFIC ENCHANT
-	for (let i = 0; i < enchants.length; i++) {
-		let ench = enchants[i];
+	for (let i = 0; i < validEnchants.length; i++) {
+		let ench = validEnchants[i];
 		let notablesNames = notablesBetween.filter(nObj => {
 			return includesEnchant(nObj.Enchantments, ench);
 		})
@@ -108,12 +82,33 @@ function calculate3n2d(event, inid1, inid3) {
 	}
 
 	// LINK FOR ANY ENCHANT
-	if (enchants.length > 1) {
+	if (validEnchants.length > 1) {
 		var url = getSearchUrl(generateBody3n2d(desired, betweenNames));
 		text = text + "<div>Any Enchant: " + createSearchLink(url) + "</div>";
 	}
 
 	writeToOutput(output, text);
+}
+
+// not2 is proposed 'middle' notable
+function areNotablesCompatible(not1, not3, not2, validEnchants) {
+	var numPrefixes = 0;
+	if (!isSuffix(not1)) {
+		numPrefixes++;
+	}
+	if (!isSuffix(not2)) {
+		numPrefixes++;
+	}
+	if (!isSuffix(not3)) {
+		numPrefixes++;
+	}
+
+	return numPrefixes < 3
+		&& isNotableBetween(not1, not3, not2) 
+		&& isEnchantsValid(validEnchants, not2.Enchantments) 
+		&& not2.Mod.CorrectGroup != not1.Mod.CorrectGroup 
+		&& not2.Mod.CorrectGroup != not3.Mod.CorrectGroup;
+	
 }
 
 function isSuffix(notable) {
