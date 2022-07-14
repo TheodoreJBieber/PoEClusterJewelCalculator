@@ -1,5 +1,6 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<!-- <link rel="stylesheet" type="text/css" href="copied.css"> -->
 	<script type="text/javascript" src="tabcode.js"></script>
 	<script type="text/javascript" src="calculator.js"></script>
 	<script type="text/javascript" src="datahandler.js"></script>
@@ -8,15 +9,14 @@
 <body>
 	<h1>PoE Cluster Jewel Calculator</h1>
 	<div class="tab">
-	  <button class="tablinks" onclick="openCity(event, '3n2d')" id="defaultOpen">3 Notables, 2 Desired</button>
-	  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-	  <button class="tablinks" onclick="openCity(event, 'notables')">Notables Legend</button>
+	  <button class="tablinks" onclick="openTab(event, '3n2d')" id="defaultOpen">3 Notables, 2 Desired</button>
+	  <button class="tablinks" onclick="openTab(event, 'help')">Help</button>
 	</div>
 	<div id="3n2d" class="tabcontent">
 	  	<h3>3 Notables, 2 Desired</h3>
-	  	<p>Description of "3 Notables, 2 Desired"</p>
+	  	<p>Calculator for possible 'middle' notables on Large Cluster jewels for when you want to allocate 2 desired notables, but don't want to allocate the 3rd. In the diagram, positions 1 and 3 are the desired notables, and position 2 is the undesired 3rd.</p>
 	  	<div class="img">
-			<img src="img/3not_2desired.png">
+			<img src="img/3not_2desired_marked.png">
 	  	</div>
 		<div class="dropdowns">
 			<div>
@@ -36,17 +36,71 @@
 			</div>
 			<div id="output3n2d"></div>
 		</div>
+		
+		<span class="filter-body">
+			<div class="filter-title">Eater of Worlds Item<!----></div> 
+			<!----> 
+			<span class="sep"></span>
+			<div tabindex="-1" class="multiselect filter-select modified" style="width: 131px;">
+				<div class="multiselect__select"></div>
+				<div class="multiselect__tags">
+					<div class="multiselect__tags-wrap" style="display: none;"></div> 
+					<!----> 
+					<div class="multiselect__spinner" style="display: none;"></div> 
+					<input name="" type="text" autocomplete="off" placeholder="Yes" class="multiselect__input"> <!----></div> 
+					<div class="multiselect__content-wrapper" style="max-height: 300px; display: none;">
+						<ul class="multiselect__content" style="display: inline-block;"> <!----> 
+							<li class="multiselect__element">
+								<span data-select="" data-selected="" data-deselect="" class="multiselect__option">
+									<span>Any</span><br>
+								</span> <!---->
+							</li>
+							<li class="multiselect__element">
+								<span data-select="" data-selected="" data-deselect="" class="multiselect__option multiselect__option--highlight multiselect__option--selected">
+									<span>Yes</span><br>
+								</span> <!---->
+							</li>
+							<li class="multiselect__element">
+								<span data-select="" data-selected="" data-deselect="" class="multiselect__option">
+									<span>No</span><br>
+								</span> <!---->
+							</li> 
+							<li style="display: none;">
+								<span class="multiselect__option">
+									<span>No elements found. Consider changing the search query.</span>
+								</span>
+							</li> 
+						</ul>
+					</div>
+				</div> <!----> <!----> <!---->
+			</span>
+	</div>
+	<div class="list-group">
+		<label class="list-group-item">
+			<input class="form-check-input me-1" type="checkbox" value="">
+			First checkbox
+		</label>
+		<label class="list-group-item">
+			<input class="form-check-input me-1" type="checkbox" value="">
+			Second checkbox
+		</label>
+		<label class="list-group-item">
+			<input class="form-check-input me-1" type="checkbox" value="">
+			Third checkbox
+		</label>
+		<label class="list-group-item">
+			<input class="form-check-input me-1" type="checkbox" value="">
+			Fourth checkbox
+		</label>
+		<label class="list-group-item">
+			<input class="form-check-input me-1" type="checkbox" value="">
+			Fifth checkbox
+		</label>
 	</div>
 
-
-	<div id="Paris" class="tabcontent">
-	  <h3>Paris</h3>
-	  <p>Paris is the capital of France.</p>
-	</div>
-
-	<div id="notables" class="tabcontent">
-	  <h3>Tokyo</h3>
-	  <p>Tokyo is the capital of Japan.</p>
+	<div id="help" class="tabcontent">
+	  <h3>Help</h3>
+	  <p>todo</p>
 	</div>
 
 
