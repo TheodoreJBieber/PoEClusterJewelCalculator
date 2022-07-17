@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PoEClusterJewelCalculator/static/css/main.323c306f.css",
+    "main.js": "/PoEClusterJewelCalculator/static/js/main.21051229.js",
+    "static/media/3not_2desired_marked.png": "/PoEClusterJewelCalculator/static/media/3not_2desired_marked.ddba537172281a70aa94.png",
+    "index.html": "/PoEClusterJewelCalculator/index.html",
+    "main.323c306f.css.map": "/PoEClusterJewelCalculator/static/css/main.323c306f.css.map",
+    "main.21051229.js.map": "/PoEClusterJewelCalculator/static/js/main.21051229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323c306f.css",
+    "static/js/main.21051229.js"
+  ]
+}
