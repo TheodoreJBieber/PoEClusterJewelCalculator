@@ -7,39 +7,23 @@ import { enchantMap } from './Calculator';
 const tradePathBase = "https://www.pathofexile.com/trade/search/Sentinel?q=";
 
 class TradeUrl extends React.Component {
-    constructor(props) {
-        super(props);
-
-        let tempState = this.defaultState();
-
+    render() {
+        let enchantDescription = "Any Enchant: ";
+        let url = null;
+        let body = null;
         if (this.props.ench) {
             let enchantKey = getEnchantKey(this.props.ench);
-            let enchantDescription = enchantMap[enchantKey].text;
-            let body = this.generateBody3n2d(this.props.desired, this.props.notableNames, this.props.ench);
-            let url = this.getSearchUrl(body);
-            tempState.enchantDescription = enchantDescription;
-            tempState.url = url;
+            enchantDescription = enchantMap[enchantKey].text;
+            body = this.generateBody3n2d(this.props.desired, this.props.notableNames, this.props.ench);
+            url = this.getSearchUrl(body);
         } else {
-            let body = this.generateBody3n2d(this.props.desired, this.props.notableNames);
-            let url = this.getSearchUrl(body);
-            tempState.url = url;
+            body = this.generateBody3n2d(this.props.desired, this.props.notableNames);
+            url = this.getSearchUrl(body);
         }
-
-        this.state = tempState;
-    }
-
-    defaultState() {
-        return {
-            url: null,
-            enchantDescription: "Any Enchant: "
-        };
-    }
-
-    render() {
         return (
             <div>
-                <div>{this.state.enchantDescription}</div>
-                <a href={this.state.url} target={"_blank"}>Go to trade</a>
+                <div>{enchantDescription}</div>
+                <a href={url} target={"_blank"}>Go to trade</a>
             </div>
         );
     }
@@ -104,6 +88,8 @@ class TradeUrl extends React.Component {
     
         base_request.query.stats.push(and_body);
         base_request.query.stats.push(count_body);
+
+        console.log(base_request);
 
         return base_request;
     }

@@ -1,8 +1,8 @@
 import React from 'react';
 import diagram from '../img/3not_2desired_marked.png';
-import NotableSelect from './NotableSelect.js';
 import megaStruct from '../data/data.json';
 import CalculatorOutput from './CalculatorOutput';
+import CalculatorInput from './CalculatorInput';
 
 class Calculator extends React.Component {
 
@@ -32,11 +32,26 @@ class Calculator extends React.Component {
 
         const {notableName1, notableName3} = this.state || null;
         if (notableName1 !== null && notableName3 !== null) {
-            this.calculateCompatibility(notableName1, notableName3);
+            this.calculate3n2d(notableName1, notableName3);
         }
     }
 
-    calculateCompatibility(notableName1, notableName3) {
+	calculateCallback(selected) {
+		console.log(selected);
+		if (selected.length == 2) {
+			let tempState  = this.state;
+			let notableName1 = selected[0];
+			let notableName3 = selected[1];
+			tempState.notableName1 = notableName1;
+			tempState.notableName3 = notableName3;
+			this.setState(tempState);
+            this.calculate3n2d(notableName1, notableName3);
+		} else {
+			this.setError("Please select exactly 2 notables. Currently selected " + selected.length + " notables: " + selected.join(", "))
+		}
+	}
+
+    calculate3n2d(notableName1, notableName3) {
         var notable1 = sortOrderMap[notableName1];
         var notable3 = sortOrderMap[notableName3];
 
@@ -116,27 +131,23 @@ class Calculator extends React.Component {
         return (
             <div>
                 <h2>3 Notables, 2 Desired</h2>
-                <p>Calculator for possible 'middle' notables on Large Cluster jewels for when you want to allocate 2 desired notables, but don't want to allocate the 3rd. In the diagram, positions 1 and 3 are the desired notables, and position 2 is the undesired 3rd.</p>
-                <img src={diagram} alt=""/>
-                <NotableSelect 
-                    sortOrderMap={sortOrderMap} 
-                    name={"notableName1"}
-                    onChange={this.selectNotable.bind(this)}
-                />
-                <NotableSelect 
-                    sortOrderMap={sortOrderMap} 
-                    name={"notableName3"}
-                    onChange={this.selectNotable.bind(this)}
-                />
-                {/* <button className="calculator"
-                    onClick={this.calculate3n2d.bind(this)}>Calculate</button> */}
-                <CalculatorOutput 
-                    error={this.state.error}
-                    validEnchants={this.state.validEnchants}
-                    notablesBetween={this.state.notablesBetween}
-                    notableName1={this.state.notableName1}
-                    notableName3={this.state.notableName3}
-                />
+                <div>Calculator for possible 'middle' notables on Large Cluster jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
+				<div>In the diagram, positions 1 and 3 correspond to the two selected desirable notables, and position 2 is the undesired third.</div>
+				<div style={{"marginBottom": "10px"}}>If you don't fully understand the purpose of only using only two out of three notables, I recommend watching a guide on youtube about Large Cluster Jewels.</div>
+                <img style={{display: "inline-block"}} src={diagram} alt=""/>
+				<div style={{"verticalAlign": "top", display: "inline-block", "marginLeft": "3px"}} >
+					<CalculatorInput sortOrderMap={sortOrderMap} calculateCallback={this.calculateCallback.bind(this)}/>
+					<CalculatorOutput 
+						error={this.state.error}
+						validEnchants={this.state.validEnchants}
+						notablesBetween={this.state.notablesBetween}
+						notableName1={this.state.notableName1}
+						notableName3={this.state.notableName3}
+					/>
+				</div>
+				<div style={{"position": "absolute", "bottom": "5px", color:"#222"}}>
+				**This is a 3rd party tool with no affiliation to Grinding Gear Games or Path of Exile.
+				</div>
             </div>
         );
     }
