@@ -23,7 +23,23 @@ The notables you want in the desired spots would be in the first and third posit
 The position of notables on your cluster jewel is determined based on the numbers: the first position is the lowest, second is the middle, and third is the highest.
 So, going back to the example... If you want to have Prodigious Defence and Feed the Fury as your desired notables, the notables that can appear in the second position are:
 Smite the Weak, Heavy Hitter, and Martial Prowess.
-The outcome if this example is real, but the numbers are not. In reality, these numbers are large and somewhat arbitrary (ie 11135). This is discussed in the next section.
+The outcome if this example is real, but the numbers are not. In reality, these numbers are large and somewhat arbitrary (ie 11135). This is discussed in the Notables Data section.
+
+### Notable compatibility
+In addition to the number associated to notables, there are the typical rules for rolling jewels or items that are in play. The relevant ones are: 
+- You are limited to 2 prefixes and 2 suffixes
+- You can't have multiple mods in the same group
+    - In the case of large cluster jewels, this manifests as a limit of 1 notable in the suffix, since the suffix notables all share the same mod group.
+- Some notables can only roll on certain jewel base types
+    - For example, Prodigious Defence can roll on 1 large cluster jewel types:
+        - 12% increased Attack Damage while holding a Shield
+    - And Sadist can roll on 4:
+        - 10% increased Elemental Damage
+        - 12% increased Fire Damage
+        - 12% increased Lightning Damage
+        - 12% increased Cold Damage
+    - Since there's no common base type that both Sadist and Prodigious Defence can roll on, these cannot be rolled with each other
+- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination).
 
 ### Notables Data
 The data needed for calculating and displaying notables was taken from PoE Dat Viewer (https://snosme.github.io/poe-dat-viewer/)
