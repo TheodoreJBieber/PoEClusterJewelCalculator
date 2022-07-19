@@ -39,7 +39,7 @@ In addition to the number associated to notables, there are the typical rules fo
         - 12% increased Lightning Damage
         - 12% increased Cold Damage
     - Since there's no common base type that both Sadist and Prodigious Defence can roll on, these cannot be rolled with each other
-- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible to have the two notables in optimal positions. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination).
+- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible to have the two notables in optimal positions. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination. A real example is with Snowstorm and Blanketed Snow).
 
 ### Notables Data
 The data needed for calculating and displaying notables was taken from PoE Dat Viewer (https://snosme.github.io/poe-dat-viewer/)
