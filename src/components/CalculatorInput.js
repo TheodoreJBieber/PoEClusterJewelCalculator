@@ -78,8 +78,6 @@ class CalculatorInput extends React.Component {
         this.setState(tempState);
     }
 
-    // TODO:
-    // Filter out currently selected inputs from the selection
     render() {
         return (
             <div>

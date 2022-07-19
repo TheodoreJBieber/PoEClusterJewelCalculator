@@ -2,7 +2,7 @@
 PoE Cluser Jewel Calculator is a utility aimed at determining the possible notables you can roll on an optimal Large Cluster Jewel.
 The scenario this is useful for is when you know you want 2 notables, but aren't sure what the third one can be so that your jewel is still optimal.
 Typically, there are a few ways of testing this manually (such as using the trade site, or checking in PoB). 
-But as you can imagine, checking manually can take a decent amount of time, but mostly it's just tedious.
+But as you can imagine, checking manually can take a decent amount of time and gets pretty tedious.
 Well, after about 16 hours of development, you no longer need to check manually. Just use this tool.
 
 ## Site

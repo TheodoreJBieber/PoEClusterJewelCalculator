@@ -28,10 +28,6 @@ class RemovableListItem extends React.Component {
         }
     }
 
-
-    // TODO need to restrict size
-    // Toggle needs to be same x pos
-    // X needs to be same x pos
     render() {
         return (
             <li className={"standardli"}>
