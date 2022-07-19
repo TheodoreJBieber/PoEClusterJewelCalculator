@@ -34,14 +34,14 @@ class RemovableListItem extends React.Component {
     // X needs to be same x pos
     render() {
         return (
-            <li>
+            <li className={"standardli"}>
                 {/* <span onMouseDown={this.handleToggleEnabled.bind(this)}>[{this.props.enabled ? "D":"E"}]</span> */}
                 <span onMouseDown={this.handleToggleEnabled.bind(this)}>
-                    <img className={"checksvg"} src={check} hidden={!this.props.enabled}/>
-                    <img className={"checksvg"} src={uncheck} hidden={this.props.enabled}/>
+                    <img className={"checksvg"} src={check} hidden={!this.props.enabled} alt={""}/>
+                    <img className={"checksvg"} src={uncheck} hidden={this.props.enabled} alt={""}/>
                 </span>
-                <span className={"solid_block"}>{this.props.notableName}</span>
-                <span onMouseDown={this.handleRemove.bind(this)}><img className={"xsvg"} src={x}/></span>
+                <span style={{cursor: "default"}} className={"solid_block"}>{this.props.notableName}</span>
+                <span onMouseDown={this.handleRemove.bind(this)}><img className={"xsvg"} src={x} alt={""}/></span>
             </li>
         );
     }

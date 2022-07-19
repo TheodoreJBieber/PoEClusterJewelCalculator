@@ -78,12 +78,14 @@ class CalculatorInput extends React.Component {
         this.setState(tempState);
     }
 
+    // TODO:
+    // Filter out currently selected inputs from the selection
     render() {
         return (
             <div>
                 <SelectedList selected={this.state.selected} disabled={this.state.disabled} removeCallback={this.removeSelectedNotable.bind(this)} 
                     disableCallback={this.disableSelectedNotable.bind(this)} enableCallback={this.enableSelectedNotable.bind(this)}/>
-                <SelectableList options={this.props.sortOrderMap} addCallback={this.addSelectedNotable.bind(this)}/>
+                <SelectableList options={this.props.sortOrderMap} addCallback={this.addSelectedNotable.bind(this)} currentlySelected={this.state.selected}/>
                 <button className="calculateButton"
                     onClick={this.handleCalculate.bind(this)}><span className="calculateButton">Calculate</span></button>
             </div>

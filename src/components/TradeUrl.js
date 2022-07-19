@@ -1,14 +1,14 @@
 import React from 'react';
-import { getEnchantKey, includesEnchant } from './Calculator';
+import { getEnchantKey } from './Calculator';
 import megaStruct from '../data/data.json';
 import { enchantMap } from './Calculator';
-
 
 const tradePathBase = "https://www.pathofexile.com/trade/search/Sentinel?q=";
 
 class TradeUrl extends React.Component {
+
     render() {
-        let enchantDescription = "Any Enchant: ";
+        let enchantDescription = "Any Enchant";
         let url = null;
         let body = null;
         if (this.props.ench) {
@@ -22,8 +22,8 @@ class TradeUrl extends React.Component {
         }
         return (
             <div>
-                <div>{enchantDescription}</div>
-                <a href={url} target={"_blank"}>Go to trade</a>
+                <span style={{textDecoration: "underline"}}>{enchantDescription + ":"}</span><span> </span>
+                <a href={url} target={"_blank"}  rel={"noreferrer"}>Go to trade</a>
             </div>
         );
     }
@@ -88,8 +88,6 @@ class TradeUrl extends React.Component {
     
         base_request.query.stats.push(and_body);
         base_request.query.stats.push(count_body);
-
-        console.log(base_request);
 
         return base_request;
     }

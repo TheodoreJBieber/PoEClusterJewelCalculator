@@ -42,15 +42,15 @@ class SelectableList extends React.Component {
     }
 
     shouldHideListItem(option) {
-        return !option.toLowerCase().includes(this.state.filter.toLowerCase());
+        return !option.toLowerCase().includes(this.state.filter.toLowerCase()) || this.props.currentlySelected.map(n => n.toLowerCase()).includes(option.toLowerCase());
     }
 
     render() {
         return (
-            <div onFocus={this.expandDropDown.bind(this)} onBlur={this.hideDropDown.bind(this)}>
+            <div onFocus={this.expandDropDown.bind(this)} onBlur={this.hideDropDown.bind(this)} style={{marginTop: "5px"}}>
                 <input className={this.state.hidden ? "filter_unselected" : "filter_selected"} 
                     placeholder="+ Add Notable" onChange={this.handleFilterUpdate.bind(this)} value={this.state.filter}/>
-                <ul hidden={this.state.hidden} className={"selectable_ul"}>
+                <ul hidden={this.state.hidden} className={"selectable_ul hoverpanel"}>
                     {Object.keys(this.props.options).map(option => 
                     <AddableListItem notableName={option} key={option} callback={this.addSelectedItem.bind(this)}
                         hidden={this.shouldHideListItem(option)}/>

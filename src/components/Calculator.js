@@ -38,8 +38,8 @@ class Calculator extends React.Component {
 
 	calculateCallback(selected) {
 		console.log(selected);
-		if (selected.length == 2) {
-			let tempState  = this.state;
+		if (selected.length === 2) {
+			let tempState = this.state;
 			let notableName1 = selected[0];
 			let notableName3 = selected[1];
 			tempState.notableName1 = notableName1;
@@ -55,13 +55,13 @@ class Calculator extends React.Component {
         var notable1 = sortOrderMap[notableName1];
         var notable3 = sortOrderMap[notableName3];
 
-        if (notable1.Mod.CorrectGroup == notable3.Mod.CorrectGroup) {
+        if (notable1.Mod.CorrectGroup === notable3.Mod.CorrectGroup) {
             this.setError("Notables cannot be in the same group: " + notable3.Mod.CorrectGroup + ".");
             return;
         }
     
         var validEnchants = this.getValidEnchants(notable1, notable3);
-        if (validEnchants.length == 0) {
+        if (validEnchants.length === 0) {
             this.setError("Those notables cannot roll on any of the same cluster jewel types.");
             return;
         }
@@ -69,7 +69,7 @@ class Calculator extends React.Component {
         var notablesBetween = [];
         var betweenNames = [];
         for (const s in megaStruct.Notables) {
-            if (s != "Large") {
+            if (s !== "Large") {
                 continue;
             }
             let sObj = megaStruct.Notables[s];
@@ -83,7 +83,7 @@ class Calculator extends React.Component {
             }
         }
     
-        if (notablesBetween.length == 0) {
+        if (notablesBetween.length === 0) {
             this.setError("There are no notables that can appear in position 2 with the current selection.");
             return;
         }
@@ -131,7 +131,7 @@ class Calculator extends React.Component {
         return (
             <div>
                 <h2>3 Notables, 2 Desired</h2>
-                <div>Calculator for possible 'middle' notables on Large Cluster jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
+                <div>Calculator for possible 'middle' notables on Large Cluster Jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
 				<div>In the diagram, positions 1 and 3 correspond to the two selected desirable notables, and position 2 is the undesired third.</div>
 				<div style={{"marginBottom": "10px"}}>If you don't fully understand the purpose of only using only two out of three notables, I recommend watching a guide on youtube about Large Cluster Jewels.</div>
                 <img style={{display: "inline-block"}} src={diagram} alt=""/>
@@ -145,7 +145,7 @@ class Calculator extends React.Component {
 						notableName3={this.state.notableName3}
 					/>
 				</div>
-				<div style={{"position": "absolute", "bottom": "5px", color:"#222"}}>
+				<div style={{"position": "absolute", top: "5px", right: "5px", color:"#222"}}>
 				**This is a 3rd party tool with no affiliation to Grinding Gear Games or Path of Exile.
 				</div>
             </div>
@@ -323,8 +323,8 @@ function areNotablesCompatible(not1, not3, not2, validEnchants) {
 	return numPrefixes < 3
 		&& isNotableBetween(not1, not3, not2) 
 		&& isEnchantsValid(validEnchants, not2.Enchantments) 
-		&& not2.Mod.CorrectGroup != not1.Mod.CorrectGroup 
-		&& not2.Mod.CorrectGroup != not3.Mod.CorrectGroup;
+		&& not2.Mod.CorrectGroup !== not1.Mod.CorrectGroup 
+		&& not2.Mod.CorrectGroup !== not3.Mod.CorrectGroup;
 	
 }
 
@@ -337,7 +337,7 @@ export function includesEnchant(l1, l2) {
 }
 
 function enchantEquals(e1, e2) {
-	if (e1.length != e2.length) {
+	if (e1.length !== e2.length) {
 		return false;
 	}
 	for (var i = 0; i < e1.length; i++) {
@@ -349,7 +349,7 @@ function enchantEquals(e1, e2) {
 }
 
 function enchLineEquals(l1, l2) {
-	return (l1.Description == l2.Description) && (l1.Value == l2.Value);
+	return (l1.Description === l2.Description) && (l1.Value === l2.Value);
 }
 
 function isNotableBetween(not1, not3, between) {

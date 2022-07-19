@@ -36,7 +36,7 @@ class CalculatorOutput extends React.Component {
 
     renderAnyEnchant() {
         if (this.props.validEnchants.length > 1) {
-            return this.renderTradeUrl(this.props.notablesBetween);
+            return this.renderTradeUrl(this.props.notablesBetween.map(nObj => nObj.PassiveSkill.Name));
         }
         return "";
     }
@@ -47,7 +47,14 @@ class CalculatorOutput extends React.Component {
             key = getEnchantKey(ench);
         }
         let desired = [this.props.notableName1, this.props.notableName3];
-        return <TradeUrl desired={desired} notableNames={notableNames} ench={ench} key={key}/>;
+        return (
+            <ul>
+            <li>
+                <TradeUrl desired={desired} notableNames={notableNames} ench={ench} key={key}/>
+                <ul>Position 2 Notable Options: <span>{notableNames.join(", ")}</span></ul>
+            </li>
+            </ul>
+        );
     }
 }
 

@@ -8,8 +8,8 @@ class AddableListItem extends React.Component {
 
     render() {
         return (
-            <li className={"pointable"} onMouseDown={this.handleClick.bind(this)} hidden={this.props.hidden}>
-                <span className={"solid_block"}>{this.props.notableName}</span>
+            <li className={"pointable standardli"} onMouseDown={this.handleClick.bind(this)} hidden={this.props.hidden}>
+                <span className={"solid_block"}>+ {this.props.notableName}</span>
             </li>
         );
     }
