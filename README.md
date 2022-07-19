@@ -31,7 +31,7 @@ In addition to the number associated to notables, there are the typical rules fo
 - You can't have multiple mods in the same group
     - In the case of large cluster jewels, this manifests as a limit of 1 notable in the suffix, since the suffix notables all share the same mod group.
 - Some notables can only roll on certain jewel base types
-    - For example, Prodigious Defence can roll on 1 large cluster jewel types:
+    - For example, Prodigious Defence can roll on 1 large cluster jewel type:
         - 12% increased Attack Damage while holding a Shield
     - And Sadist can roll on 4:
         - 10% increased Elemental Damage
@@ -39,7 +39,7 @@ In addition to the number associated to notables, there are the typical rules fo
         - 12% increased Lightning Damage
         - 12% increased Cold Damage
     - Since there's no common base type that both Sadist and Prodigious Defence can roll on, these cannot be rolled with each other
-- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination).
+- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible to have the two notables in optimal positions. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination).
 
 ### Notables Data
 The data needed for calculating and displaying notables was taken from PoE Dat Viewer (https://snosme.github.io/poe-dat-viewer/)
