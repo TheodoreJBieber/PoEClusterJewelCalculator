@@ -130,11 +130,16 @@ class Calculator extends React.Component {
     render() {
         return (
             <div>
+				<div style={{color:"#222", textAlign: "right"}}>
+				**This is a 3rd party tool with no affiliation to Grinding Gear Games or Path of Exile.
+				</div>
                 <h2>3 Notables, 2 Desired</h2>
-                <div>Calculator for possible 'middle' notables on Large Cluster Jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
-				<div>In the diagram, positions 1 and 3 correspond to the two selected desirable notables, and position 2 is the undesired third.</div>
-				<div style={{"marginBottom": "10px"}}>If you don't fully understand the purpose of only using only two out of three notables, I recommend watching a guide on youtube about Large Cluster Jewels.</div>
-                <img style={{display: "inline-block"}} src={diagram} alt=""/>
+				<div>
+					<div>Calculator for possible 'middle' notables on Large Cluster Jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
+					<div>In the diagram, positions 1 and 3 correspond to the two selected desirable notables, and position 2 is the undesired third.</div>
+					<div style={{"marginBottom": "10px"}}>If you don't fully understand the purpose of only using only two out of three notables, I recommend watching a guide on youtube about Large Cluster Jewels.</div>
+                </div>
+				<img style={{display: "inline-block"}} src={diagram} alt=""/>
 				<div style={{"verticalAlign": "top", display: "inline-block", "marginLeft": "3px"}} >
 					<CalculatorInput sortOrderMap={sortOrderMap} calculateCallback={this.calculateCallback.bind(this)}/>
 					<CalculatorOutput 
@@ -144,9 +149,6 @@ class Calculator extends React.Component {
 						notableName1={this.state.notableName1}
 						notableName3={this.state.notableName3}
 					/>
-				</div>
-				<div style={{"position": "absolute", top: "5px", right: "5px", color:"#222"}}>
-				**This is a 3rd party tool with no affiliation to Grinding Gear Games or Path of Exile.
 				</div>
             </div>
         );
