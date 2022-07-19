@@ -65,8 +65,8 @@ But I brainstormed quite a bit before my brother figured this out, so here are s
 
 As for the request body, you need to generate filters based on what notables are selected, cluster jewel enchants, # of passives (always 8), and possible 2nd position notables.
 But you can't just use the normal descriptions like "1 Added Passive Skill is Prodigious Defence" - there are ids behind the scenes you need to use. All this data is available at the stats endpoint: https://www.pathofexile.com/api/trade/data/stats
-For mapping notable names to the trade id, it's fairly simple. The descriptions are all "1 Added Passive Skill is " + the notable name. So I map out the notable name to the description ez pz.
+For mapping notable names to the trade id, it's fairly simple. The descriptions are all "1 Added Passive Skill is " + the notable name. So I map out the notable name to the description easy peasy.
 For mapping enchants (like "Added small passives also grant: 10% increased elemental damage") - I had to map the descriptions out with trial and error based on stat ids. It's not super reliable but it works for now.
 
 ## Feel free to take any code you want
-Feel free to take anything from this project that you want to use. I don't mind.
+Feel free to take anything from this project that you want to use. I don't mind. Source code is in master, github pages build is in gh-pages
