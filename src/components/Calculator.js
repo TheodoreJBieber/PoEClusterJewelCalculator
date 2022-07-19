@@ -133,7 +133,7 @@ class Calculator extends React.Component {
 				<div style={{color:"#222", textAlign: "right"}}>
 				**This is a 3rd party tool with no affiliation to Grinding Gear Games or Path of Exile.
 				</div>
-                <h2>3 Notables, 2 Desired</h2>
+                <h2>Path of Exile Cluster Jewel Calculator</h2>
 				<div>
 					<div>Calculator for possible 'middle' notables on Large Cluster Jewels for when you want to allocate two desirable notables, but don't want to allocate the third. </div>
 					<div>In the diagram, positions 1 and 3 correspond to the two selected desirable notables, and position 2 is the undesired third.</div>
