@@ -39,17 +39,17 @@ In addition to the number associated to notables, there are the typical rules fo
         - 12% increased Lightning Damage
         - 12% increased Cold Damage
     - Since there's no common base type that both Sadist and Prodigious Defence can roll on, these cannot be rolled with each other
-- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible to have the two notables in optimal positions. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not actually a valid example in reality because this would be a possible combination. A real example is with Snowstorm and Blanketed Snow).
+- Lastly, going back to the number associated with the notables; if there's no value between the desired notables, then it's impossible to have the two notables in optimal positions. An example of this from the example in the previous section is if you wanted Prodigious Defence and Smite the Weak. (Note: this is not really a valid example in reality because this would be a possible combination. A real example is with Snowstorm and Blanketed Snow).
 
 ### Notables Data
 The data needed for calculating and displaying notables was taken from PoE Dat Viewer (https://snosme.github.io/poe-dat-viewer/)
 
 I actually really don't want to go into much detail as to how all the data relates, so if you are curious check out my crappy python script ./src/data/data_parser.py or my picture ./src/data/data_relations.png
 
-The numbers associated with each notable that are used to determine the position of them on the cluster jewel are actually IDs of the Stat used on the notable.
+The numbers associated with each notable that are used to determine the position of them on the cluster jewel are IDs of the Stat used on the notable.
 
 Currently, I don't know of a good way to get the enchantment descriptions for a given notable. 
-I am actually mapping these out in the front end code in Calculator.js - using trial and error based on keywords in the descriptions from the official stats endpoint. This is barely better than doing it manually, and I wouldn't be surprised if it needs fixing at some point in the distant future.
+I am mapping these out in the front end code in Calculator.js - using trial and error based on keywords in the descriptions from the official stats endpoint. This is barely better than doing it manually, and I wouldn't be surprised if it needs fixing at some point in the distant future.
 
 ### Trade Data
 In order to generate the links to the official trade website, there are a few steps.
@@ -65,7 +65,7 @@ But I brainstormed quite a bit before my brother figured this out, so here are s
 
 As for the request body, you need to generate filters based on what notables are selected, cluster jewel enchants, # of passives (always 8), and possible 2nd position notables.
 But you can't just use the normal descriptions like "1 Added Passive Skill is Prodigious Defence" - there are ids behind the scenes you need to use. All this data is available at the stats endpoint: https://www.pathofexile.com/api/trade/data/stats
-For mapping notable names to the trade id, it's actually pretty simple. The descriptions are all "1 Added Passive Skill is " + the notable name. So I map out the notable name to the description ez pz.
+For mapping notable names to the trade id, it's fairly simple. The descriptions are all "1 Added Passive Skill is " + the notable name. So I map out the notable name to the description ez pz.
 For mapping enchants (like "Added small passives also grant: 10% increased elemental damage") - I had to map the descriptions out with trial and error based on stat ids. It's not super reliable but it works for now.
 
 ## Feel free to take any code you want
