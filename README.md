@@ -44,7 +44,7 @@ In addition to the number associated to notables, there are the typical rules fo
 ### Notables Data
 The data needed for calculating and displaying notables was taken from PoE Dat Viewer (https://snosme.github.io/poe-dat-viewer/)
 
-I actually really don't want to go into much detail as to how all the data relates, so if you are curious check out my crappy python script ./src/data/data_parser.py or my picture ./src/data/data_relations.png
+I actually really don't want to go into much detail as to how all the data relates, so if you are curious check out my crappy python script https://github.com/TheodoreJBieber/PoEClusterJewelCalculator/blob/master/src/data/data_parser.py or my picture https://github.com/TheodoreJBieber/PoEClusterJewelCalculator/blob/master/src/data/data_relations.png
 
 The numbers associated with each notable that are used to determine the position of them on the cluster jewel are IDs of the Stat used on the notable.
 
