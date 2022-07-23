@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PoEClusterJewelCalculator/static/css/main.f84574c3.css",
-    "main.js": "/PoEClusterJewelCalculator/static/js/main.d02fcd8c.js",
+    "main.js": "/PoEClusterJewelCalculator/static/js/main.33548d21.js",
     "static/media/3not_2desired_marked.png": "/PoEClusterJewelCalculator/static/media/3not_2desired_marked.ddba537172281a70aa94.png",
     "index.html": "/PoEClusterJewelCalculator/index.html",
     "static/media/check.svg": "/PoEClusterJewelCalculator/static/media/check.da4c41d20e679196be2232288664f443.svg",
     "static/media/uncheck.svg": "/PoEClusterJewelCalculator/static/media/uncheck.628feca4c18dbe0cd4ac00f58e77766c.svg",
     "static/media/x.svg": "/PoEClusterJewelCalculator/static/media/x.be5ee0525b5d0924e42bc387bf5d417e.svg",
     "main.f84574c3.css.map": "/PoEClusterJewelCalculator/static/css/main.f84574c3.css.map",
-    "main.d02fcd8c.js.map": "/PoEClusterJewelCalculator/static/js/main.d02fcd8c.js.map"
+    "main.33548d21.js.map": "/PoEClusterJewelCalculator/static/js/main.33548d21.js.map"
   },
   "entrypoints": [
     "static/css/main.f84574c3.css",
-    "static/js/main.d02fcd8c.js"
+    "static/js/main.33548d21.js"
   ]
 }
