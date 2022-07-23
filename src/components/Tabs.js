@@ -22,11 +22,16 @@ class Tabs extends React.Component {
   };
 
   render() {
+    if (!this.props.children.map(ch => ch.props.label).includes(this.state.activeTab)) {
+        this.state.activeTab = this.props.children[0].props.label;
+    }
+    
     const {
       onClickTabItem,
       props: { children },
       state: { activeTab },
     } = this;
+
 
     return (
       <div className="tabs">

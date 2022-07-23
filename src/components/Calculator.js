@@ -208,7 +208,7 @@ class Calculator extends React.Component {
 			return <div>
 			</div>;
 		}
-
+		let first = true;
 		return (
 			<div>
 			<b>Output</b>
@@ -216,7 +216,7 @@ class Calculator extends React.Component {
 			{/* <CalculatorOutput 
 				megaOutput={this.state.output.filter(out=>out.success)}
 			/> */}
-			<Tabs>
+			<Tabs o={this.state.output}>
 				{this.state.output.filter(out => out.success)
 				.map(out => {
 					let l = out.name;
