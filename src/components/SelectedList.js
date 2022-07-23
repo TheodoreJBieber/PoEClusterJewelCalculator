@@ -1,5 +1,4 @@
 import React from 'react';
-import LinkToSelf from './LinkToSelf';
 import RemovableListItem from './RemovableListItem';
 
 class SelectedList extends React.Component {

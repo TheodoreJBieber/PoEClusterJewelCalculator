@@ -29,8 +29,12 @@ class Calculator extends React.Component {
 					results.push(this.calculate3n2dCompatibility(notableName1, notableName3));
 				}
 			}
-			console.log("Found " + results.filter(out => out.success).length + " valid combinations.");
+			let numValid = results.filter(out => out.success).length;
+			console.log("Found " + numValid + " valid combinations.");
 			console.log(results);
+			if (numValid === 0) {
+				this.setError("There are no valid combinations with the currently selected notables.")
+			}
 			let tempState = this.state;
 			tempState.output = results;
 			this.setState(tempState);
@@ -44,8 +48,12 @@ class Calculator extends React.Component {
         var notable3 = sortOrderMap[notableName3];
 
 		var out = {
-			name: "",
-			success: false
+			name: notableName1 + " (ilvl: " + notable1.Mod.Level + ") + " + notableName3 + " (ilvl: " + notable3.Mod.Level + ")",
+			success: false,
+			notableName1: notableName1,
+			notableName3: notableName3,
+			notable1: notable1,
+			notable3: notable3
 		};
 
 		
@@ -99,15 +107,12 @@ class Calculator extends React.Component {
 			return out;
 		}
 
-		out.name = notableName1 + " (ilvl: " + notable1.Mod.Level + ") + " + notableName3 + " (ilvl: " + notable3.Mod.Level + ")";
 		out.success = true;
 		out.betweenNames = betweenNames;
         out.notablesBetween = notablesBetween;
         out.validEnchants = validEnchants;
         out.notable1 = notable1;
         out.notable3 = notable3;
-		out.notableName1 = notableName1;
-		out.notableName3 = notableName3;
 		out.minLvl = min;
 		out.maxLvl = max;
 
@@ -191,8 +196,17 @@ class Calculator extends React.Component {
     }
 
 	renderOutput() {
-		if (this.state.output.filter(out => out.success).length == 0) {
-			return <div></div>;
+		if (this.state.output.length !== 0 && this.state.output.filter(out => out.success).length === 0) {
+			return <div>
+				<b>Error Output</b>
+                <div style={{maxWidth: "400px"}}>{this.state.error}</div>
+				<ul style={{maxWidth: "400px"}}>{this.state.output.map(o=> <li key={"lierror" + o.name}>{o.notableName1 + " + " + o.notableName3 + ": " + o.error}</li>)}</ul>
+			</div>;
+		}
+
+		if (this.state.output.length === 0) {
+			return <div>
+			</div>;
 		}
 
 		return (
