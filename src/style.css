@@ -2,6 +2,8 @@ body {
     background-color: #111;
     color:#fff8e3;
     font-family: sans-serif;
+    overflow-y: scroll;
+    height: 300px;
 }
 
 .calculateButton {
@@ -61,6 +63,7 @@ body {
     margin-block-end: 0;
     max-width: 260px;
     margin-left: 3px;
+    background-color: #35495f;
 }
 
 .selected_ul {
@@ -106,7 +109,27 @@ body {
 .hoverpanel {
     z-index: 99999;
     position: fixed;
+    /* top: 275px; */
     overflow-y: scroll;
     max-height: 300px;
-    background-color: #35495f;
+}
+
+.tab-list {
+    /* border: 1px solid #ccc; */
+    padding-left: 0;
+}
+
+.tab-list-item {
+    border: 1px solid #ccc;
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+    cursor: default;
+}
+
+.tab-list-active {
+    background-color: #333;
+    border: solid #ccc;
+    border-width: 1px 1px 0 1px;
 }

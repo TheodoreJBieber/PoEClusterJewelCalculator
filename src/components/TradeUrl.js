@@ -8,6 +8,19 @@ const tradePathBase = "https://www.pathofexile.com/trade/search/Sentinel?q=";
 class TradeUrl extends React.Component {
 
     render() {
+        if (this.props.allDesired != null) {
+            let enchantDescription = "Any selected notables";
+            let body = this.generateBodyAnySelected(this.props.allDesired, this.props.allUndesired);
+            let url = this.getSearchUrl(body);
+            return (
+                <div>
+                    <span style={{textDecoration: "underline"}}>{enchantDescription + ":"}</span><span> </span>
+                    <a href={url} target={"_blank"}  rel={"noreferrer"}>Go to trade</a>
+                </div>
+            );
+        }
+
+
         let enchantDescription = "Any Enchant";
         let url = null;
         let body = null;
@@ -90,6 +103,58 @@ class TradeUrl extends React.Component {
         base_request.query.stats.push(count_body);
 
         return base_request;
+    }
+
+    generateBodyAnySelected(allDesired, allUndesired) {let base_request = {
+        "sort":{"price":"asc"},
+        "query":{
+            "status":{"option":"onlineleague"},
+            "stats": []
+        }
+    };
+
+    let and_body = {
+        "type":"and",
+        "filters":[]
+    };
+
+    let count_body_desired = {
+        "type":"count",
+        "value":{"min":2},
+        "filters":[]
+    };
+
+    let count_body_undesired = {
+        "type":"count",
+        "value":{"min":1},
+        "filters":[]
+    }
+
+    let numPassives = {
+        value: {max: 8, min: 8},
+        id: megaStruct.TradeStats.Enchant["Adds # Passive Skills"]["id"]
+    };
+
+    and_body.filters.push(numPassives);
+
+    for (const de of allDesired) {
+        let id = this.getNotableTradeId(de);
+        let filter = {"id": id};
+        count_body_desired.filters.push(filter);
+    }
+
+    for (const oth of allUndesired) {
+        let id = this.getNotableTradeId(oth);
+        let filter = {"id": id};
+        count_body_undesired.filters.push(filter);
+    }
+
+    base_request.query.stats.push(and_body);
+    base_request.query.stats.push(count_body_desired);
+    base_request.query.stats.push(count_body_undesired);
+
+    return base_request;
+        
     }
     
     getNotableTradeId(notable) {

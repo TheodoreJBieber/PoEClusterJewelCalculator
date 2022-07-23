@@ -1,4 +1,5 @@
 import React from 'react';
+import LinkToSelf from './LinkToSelf';
 import RemovableListItem from './RemovableListItem';
 
 class SelectedList extends React.Component {
@@ -18,7 +19,7 @@ class SelectedList extends React.Component {
     render() {
         return (
             <div>
-                <div>Selected Notables:</div>
+                <div>Selected Notables: </div>
                 <ul className={"selected_ul"}>
                     {this.props.selected.map(notableName => <RemovableListItem notableName={notableName} key={notableName} 
                         callbackRemove={this.removeSelectedItem.bind(this)}

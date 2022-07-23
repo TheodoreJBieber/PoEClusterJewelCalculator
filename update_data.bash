@@ -1,2 +1,2 @@
-./data/trade_stats.bash
-py ./data/data_parser.py
+./src/data/trade_stats.bash
+py ./src/data/data_parser.py

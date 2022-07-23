@@ -7,6 +7,26 @@ class CalculatorInput extends React.Component {
     constructor(props) {
         super(props);
         this.state = this.defaultState();
+        if (this.props.selected != null) {
+            let decoded = decodeURIComponent(this.props.selected);
+            console.log(decoded);
+            decoded.split(",").forEach(selectedNotable => 
+                this.addNotableIfValid(this.state.selected, selectedNotable)
+            );
+        }
+        if (this.props.disabled != null) {
+            let decoded = decodeURIComponent(this.props.disabled);
+            console.log(decoded);
+            decoded.split(",").forEach(disabledNotable => 
+                this.addNotableIfValid(this.state.disabled, disabledNotable)
+            );
+        }
+    }
+
+    addNotableIfValid(store, notableName) {
+        if (notableName.length != 0) {
+            store.push(notableName);
+        }
     }
 
     defaultState() {

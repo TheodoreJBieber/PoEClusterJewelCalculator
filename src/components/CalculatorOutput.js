@@ -7,7 +7,7 @@ class CalculatorOutput extends React.Component {
     render() {
         if (this.props.error != null) {
             return (
-                <div>{this.props.error}</div>
+                <div style={{maxWidth: "400px"}}>{this.props.error}</div>
             );
         } 
         if (this.props.validEnchants != null) {
@@ -18,6 +18,18 @@ class CalculatorOutput extends React.Component {
                     {this.renderAnyEnchant()}
                 </div>
             );
+        }
+        if (this.props.megaOutput != null) {
+            const allDesired = new Set();
+            const allUndesired = new Set();
+            this.props.megaOutput.forEach(out => {
+                allDesired.add(out.notableName1);
+                allDesired.add(out.notableName3);
+                out.betweenNames.forEach(not => {
+                    allUndesired.add(not);
+                })
+            });
+            return this.renderMegaSearch(allDesired, allUndesired);
         }
         return "";
     }
@@ -41,6 +53,10 @@ class CalculatorOutput extends React.Component {
         return "";
     }
 
+    renderMegaSearch(allDesired, allUndesired) {
+        return <TradeUrl allDesired={allDesired} allUndesired={allUndesired}/>
+    }
+
     renderTradeUrl(notableNames, ench = null) {
         let key = "any";
         if (ench != null) {
@@ -48,10 +64,12 @@ class CalculatorOutput extends React.Component {
         }
         let desired = [this.props.notableName1, this.props.notableName3];
         return (
-            <ul>
-            <li>
+            <ul key={key + "ul"}>
+            <li key={key + "li"}>
                 <TradeUrl desired={desired} notableNames={notableNames} ench={ench} key={key}/>
-                <ul>Position 2 Notable Options: <span>{notableNames.join(", ")}</span></ul>
+                <ul key={key + "ul2"}>Position 2 Notable Options: <span key={key + "span"}>
+                    {this.props.notablesBetween.map(nObj => nObj.PassiveSkill.Name + " (ilvl: " + nObj.Mod.Level + ")").join(", ")}
+                </span></ul>
             </li>
             </ul>
         );

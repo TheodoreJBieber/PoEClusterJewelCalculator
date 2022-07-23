@@ -16,8 +16,6 @@ class SelectableList extends React.Component {
     }
 
     addSelectedItem(itemName) {
-        let tempState = this.state;
-        this.setState(tempState);
         this.props.addCallback(itemName);
     }
 
@@ -41,6 +39,23 @@ class SelectableList extends React.Component {
         this.setState(tempState);
     }
 
+    handleKeyPress(event) {
+        if(event.key === 'Enter'){
+            this.handleEnterPressed();
+        }
+    }
+
+    handleEnterPressed() {
+        let unhidden = Object.keys(this.props.options).filter(option => !this.shouldHideListItem(option));
+        if (unhidden.length >= 1) {
+            let itemName = unhidden[0];
+            this.addSelectedItem(itemName);
+            let tempState = this.state;
+            tempState.filter = "";
+            this.setState(tempState);
+        }
+    }
+
     shouldHideListItem(option) {
         return !option.toLowerCase().includes(this.state.filter.toLowerCase()) || this.props.currentlySelected.map(n => n.toLowerCase()).includes(option.toLowerCase());
     }
@@ -49,7 +64,9 @@ class SelectableList extends React.Component {
         return (
             <div onFocus={this.expandDropDown.bind(this)} onBlur={this.hideDropDown.bind(this)} style={{marginTop: "5px"}}>
                 <input className={this.state.hidden ? "filter_unselected" : "filter_selected"} 
-                    placeholder="+ Add Notable" onChange={this.handleFilterUpdate.bind(this)} value={this.state.filter}/>
+                    placeholder="+ Add Notable" onChange={this.handleFilterUpdate.bind(this)} value={this.state.filter}
+                    onKeyPress={this.handleKeyPress.bind(this)}
+                    />
                 <ul hidden={this.state.hidden} className={"selectable_ul hoverpanel"}>
                     {Object.keys(this.props.options).map(option => 
                     <AddableListItem notableName={option} key={option} callback={this.addSelectedItem.bind(this)}

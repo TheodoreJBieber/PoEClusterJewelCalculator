@@ -3,6 +3,7 @@ import diagram from '../img/3not_2desired_marked.png';
 import megaStruct from '../data/data.json';
 import CalculatorOutput from './CalculatorOutput';
 import CalculatorInput from './CalculatorInput';
+import Tabs from "./Tabs";
 
 class Calculator extends React.Component {
 
@@ -14,41 +15,103 @@ class Calculator extends React.Component {
 
     defaultState() {
         return {
-            error: null,
-            betweenNames: null,
-            notablesBetween: null,
-            validEnchants: null,
-            notable1: null,
-            notable3: null,
-            notableName1: null,
-            notableName3: null
+            output: []
         };
     }
 
-    selectNotable(componentName, notableName) {
-        let tempState = this.state || this.defaultState();
-        tempState[componentName] = notableName;
-        this.setState(tempState);
-
-        const {notableName1, notableName3} = this.state || null;
-        if (notableName1 !== null && notableName3 !== null) {
-            this.calculate3n2d(notableName1, notableName3);
-        }
-    }
-
 	calculateCallback(selected) {
-		console.log(selected);
-		if (selected.length === 2) {
+		if (selected.length >= 2) {
+			let results = [];
+			for (var first = 0; first < selected.length; first++) {
+				let notableName1 = selected[first];
+				for (var second = first + 1; second < selected.length; second++) {
+					let notableName3 = selected[second];
+					results.push(this.calculate3n2dCompatibility(notableName1, notableName3));
+				}
+			}
+			console.log("Found " + results.filter(out => out.success).length + " valid combinations.");
+			console.log(results);
 			let tempState = this.state;
-			let notableName1 = selected[0];
-			let notableName3 = selected[1];
-			tempState.notableName1 = notableName1;
-			tempState.notableName3 = notableName3;
+			tempState.output = results;
 			this.setState(tempState);
-            this.calculate3n2d(notableName1, notableName3);
 		} else {
-			this.setError("Please select exactly 2 notables. Currently selected " + selected.length + " notables: " + selected.join(", "))
+			this.setError("Please select at least 2 notables. Currently selected " + selected.length + " notables: " + selected.join(", "))
 		}
+	}
+
+	calculate3n2dCompatibility(notableName1, notableName3) {
+        var notable1 = sortOrderMap[notableName1];
+        var notable3 = sortOrderMap[notableName3];
+
+		var out = {
+			name: "",
+			success: false
+		};
+
+		
+        if (notable1.Mod.CorrectGroup === notable3.Mod.CorrectGroup) {
+			out.error = "Notables cannot be in the same group: ";
+			return out;
+		}
+
+		var validEnchants = this.getValidEnchants(notable1, notable3);
+        if (validEnchants.length === 0) {
+			out.error = "Those notables cannot roll on any of the same cluster jewel types.";
+			return out;
+		}
+
+		let min = 1;
+		let max = 1;
+		if (notable1.Mod.Level < notable3.Mod.Level) {
+			min = notable1.Mod.Level;
+			max = notable3.Mod.Level;
+		} else {
+			min = notable3.Mod.Level;
+			max = notable1.Mod.Level;
+		}
+
+		var notablesBetween = [];
+        var betweenNames = [];
+        for (const s in megaStruct.Notables) {
+            if (s !== "Large") {
+                continue;
+            }
+            let sObj = megaStruct.Notables[s];
+            for (const notableName in sObj) {
+                let nObj = sObj[notableName];
+    
+                if (areNotablesCompatible(notable1, notable3, nObj, validEnchants)) {
+                    notablesBetween.push(nObj);
+                    betweenNames.push(notableName);
+					let lvl = nObj.Mod.Level;
+					if (lvl > max) {
+						max = lvl;
+					}
+					if (lvl < min) {
+						min = lvl;
+					}
+                }
+            }
+        }
+    
+        if (notablesBetween.length === 0) {
+			out.error = "There are no notables that can appear in position 2 with the current selection.";
+			return out;
+		}
+
+		out.name = notableName1 + " (ilvl: " + notable1.Mod.Level + ") + " + notableName3 + " (ilvl: " + notable3.Mod.Level + ")";
+		out.success = true;
+		out.betweenNames = betweenNames;
+        out.notablesBetween = notablesBetween;
+        out.validEnchants = validEnchants;
+        out.notable1 = notable1;
+        out.notable3 = notable3;
+		out.notableName1 = notableName1;
+		out.notableName3 = notableName3;
+		out.minLvl = min;
+		out.maxLvl = max;
+
+		return out;
 	}
 
     calculate3n2d(notableName1, notableName3) {
@@ -127,6 +190,44 @@ class Calculator extends React.Component {
         this.setState({...this.state, error: errorString});
     }
 
+	renderOutput() {
+		if (this.state.output.filter(out => out.success).length == 0) {
+			return <div></div>;
+		}
+
+		return (
+			<div>
+			<b>Output</b>
+			{/* Commented out the below because the trade link generated isn't guaranteed to have the desired notables in good positions */}
+			{/* <CalculatorOutput 
+				megaOutput={this.state.output.filter(out=>out.success)}
+			/> */}
+			<Tabs>
+				{this.state.output.filter(out => out.success)
+				.map(out => {
+					let l = out.name;
+					return (
+						<div label={l} key={l + "divtab"}>
+							<CalculatorOutput 
+								// error={out.error}
+								validEnchants={out.validEnchants}
+								notablesBetween={out.notablesBetween}
+								notableName1={out.notableName1}
+								notableName3={out.notableName3}
+								notable1={out.notable1}
+								notable3={out.notable3}
+								key={l}
+							/>
+						</div>
+					);
+				})}
+			</Tabs>
+			</div>
+
+		);
+		
+	}
+
     render() {
         return (
             <div>
@@ -141,14 +242,13 @@ class Calculator extends React.Component {
                 </div>
 				<img style={{display: "inline-block"}} src={diagram} alt=""/>
 				<div style={{"verticalAlign": "top", display: "inline-block", "marginLeft": "3px"}} >
-					<CalculatorInput sortOrderMap={sortOrderMap} calculateCallback={this.calculateCallback.bind(this)}/>
-					<CalculatorOutput 
-						error={this.state.error}
-						validEnchants={this.state.validEnchants}
-						notablesBetween={this.state.notablesBetween}
-						notableName1={this.state.notableName1}
-						notableName3={this.state.notableName3}
-					/>
+					<CalculatorInput 
+						sortOrderMap={sortOrderMap} 
+						calculateCallback={this.calculateCallback.bind(this)}
+						selected={this.props.selected}
+						disabled={this.props.disabled}
+						/>
+					{this.renderOutput()}
 				</div>
             </div>
         );

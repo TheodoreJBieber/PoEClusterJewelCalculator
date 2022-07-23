@@ -1,7 +1,7 @@
 import json
 
 # Script to parse data from ./raw directory and write it to a nicer format
-input_path = "data/raw/"
+input_path = "src/data/raw/"
 ext = ".json"
 files = ["BaseItemTypes", # 0
     "Mods", # 1
@@ -18,7 +18,7 @@ files = ["BaseItemTypes", # 0
 file_json = {}
 out_json = {}
 
-output_file = "data/data.json"
+output_file = "src/data/data.json"
 
 def main():
     print("Starting data read")
@@ -150,7 +150,7 @@ def extract_stat(stat, value = None):
     return out
 
 def extract_mod(mod):
-    carryover = ["CorrectGroup"]
+    carryover = ["CorrectGroup", "Level"]
     out = extract_as_is(mod, carryover)
     return out
 

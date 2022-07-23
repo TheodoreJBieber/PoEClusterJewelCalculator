@@ -8,228 +8,241 @@
             "Widespread Destruction": "explicit.stat_1678643716",
             "Prismatic Heart": "explicit.stat_2342448236",
             "Exposure Therapy": "explicit.stat_131358113",
+            "Feed the Fury": "explicit.stat_3944525413",
             "Feasting Fiends": "explicit.stat_383245807",
             "Righteous Path": "explicit.stat_2620267328",
-            "Calamitous": "explicit.stat_3359207393",
-            "Feed the Fury": "explicit.stat_3944525413",
             "Brewed for Potency": "explicit.stat_3250272113",
+            "Calamitous": "explicit.stat_3359207393",
             "Magnifier": "explicit.stat_2886441936",
-            "Disorienting Display": "explicit.stat_3206911230",
             "Circling Oblivion": "explicit.stat_2129392647",
+            "Disorienting Display": "explicit.stat_3206911230",
             "Practiced Caster": "explicit.stat_3435403756",
             "Deep Chill": "explicit.stat_1703766309",
             "Heavy Hitter": "explicit.stat_3640252904",
             "Repeater": "explicit.stat_2233272527",
+            "Vicious Skewering": "explicit.stat_567971948",
             "Call to the Slaughter": "explicit.stat_3317068522",
             "Haemorrhage": "explicit.stat_72129119",
+            "Quick Getaway": "explicit.stat_1626818279",
             "Unwaveringly Evil": "explicit.stat_2788982914",
             "Renewal": "explicit.stat_3607300552",
-            "Streamlined": "explicit.stat_1397498432",
             "Vile Reinvigoration": "explicit.stat_647201233",
-            "Vicious Skewering": "explicit.stat_567971948",
+            "Battle-Hardened": "explicit.stat_4188581520",
+            "Streamlined": "explicit.stat_1397498432",
             "Iron Breaker": "explicit.stat_3258653591",
-            "Quick Getaway": "explicit.stat_1626818279",
+            "Rotten Claws": "explicit.stat_2289610642",
+            "Eye of the Storm": "explicit.stat_3818661553",
+            "Unholy Grace": "explicit.stat_4186213466",
             "Empowered Envoy": "explicit.stat_2032453153",
             "Snowstorm": "explicit.stat_1595367309",
             "Purposeful Harbinger": "explicit.stat_507505131",
-            "Battle-Hardened": "explicit.stat_4188581520",
-            "Agent of Destruction": "explicit.stat_3122491961",
-            "Rotten Claws": "explicit.stat_2289610642",
             "Basics of Pain": "explicit.stat_3084359503",
+            "Agent of Destruction": "explicit.stat_3122491961",
             "Student of Decay": "explicit.stat_3202667190",
             "Thaumophage": "explicit.stat_177215332",
+            "Storm Drinker": "explicit.stat_2087561637",
+            "Wicked Pall": "explicit.stat_1616734644",
             "Spiteful Presence": "explicit.stat_1134501245",
+            "Titanic Swings": "explicit.stat_2930275641",
             "Burden Projection": "explicit.stat_2008682345",
+            "Replenishing Presence": "explicit.stat_1496043857",
             "Burning Bright": "explicit.stat_4199056048",
             "Distilled Perfection": "explicit.stat_3652138990",
-            "Eye of the Storm": "explicit.stat_3818661553",
+            "Eye to Eye": "explicit.stat_392942015",
             "Conjured Wall": "explicit.stat_4105031548",
             "Touch of Cruelty": "explicit.stat_2780712583",
             "Pressure Points": "explicit.stat_3391925584",
-            "Unholy Grace": "explicit.stat_4186213466",
+            "Sadist": "explicit.stat_3638731729",
             "Doryani's Lesson": "explicit.stat_228455793",
-            "Wicked Pall": "explicit.stat_1616734644",
-            "Replenishing Presence": "explicit.stat_1496043857",
             "Essence Rush": "explicit.stat_1096136223",
-            "Dread March": "explicit.stat_3087667389",
-            "Overshock": "explicit.stat_3777170562",
             "Sage": "explicit.stat_478147593",
+            "Dread March": "explicit.stat_3087667389",
+            "Guerilla Tactics": "explicit.stat_1882129725",
+            "Overshock": "explicit.stat_3777170562",
             "Cremator": "explicit.stat_1153801980",
             "Special Reserve": "explicit.stat_4235300427",
-            "Eye to Eye": "explicit.stat_392942015",
+            "Smoking Remains": "explicit.stat_2322980282",
+            "Second Skin": "explicit.stat_2773515950",
+            "Volatile Presence": "explicit.stat_2350668735",
+            "Master the Fundamentals": "explicit.stat_3585232432",
             "Furious Assault": "explicit.stat_3415827027",
             "Endbringer": "explicit.stat_2150878631",
-            "Second Skin": "explicit.stat_2773515950",
-            "Titanic Swings": "explicit.stat_2930275641",
-            "Vast Power": "explicit.stat_1996576560",
+            "Stoic Focus": "explicit.stat_1088949570",
             "Wound Aggravation": "explicit.stat_69078820",
-            "Storm Drinker": "explicit.stat_2087561637",
+            "Vast Power": "explicit.stat_1996576560",
             "Brand Loyalty": "explicit.stat_3198006994",
+            "Cold-Blooded Killer": "explicit.stat_836566759",
             "Flow of Life": "explicit.stat_2350430215",
             "Precise Retaliation": "explicit.stat_2335364359",
-            "Smoking Remains": "explicit.stat_2322980282",
+            "Devastator": "explicit.stat_3711553948",
             "Strike Leader": "explicit.stat_282062371",
-            "Untouchable": "explicit.stat_2758966888",
-            "Volatile Presence": "explicit.stat_2350668735",
             "Cult-Leader": "explicit.stat_2026112251",
+            "Astonishing Affliction": "explicit.stat_2428334013",
+            "Hit and Run": "explicit.stat_2665170385",
+            "Untouchable": "explicit.stat_2758966888",
             "Brush with Death": "explicit.stat_2900833792",
             "Provocateur": "explicit.stat_814369372",
-            "Devastator": "explicit.stat_3711553948",
-            "Stoic Focus": "explicit.stat_1088949570",
             "Scintillating Idea": "explicit.stat_2589589781",
             "Uncompromising": "explicit.stat_382360671",
+            "Energy From Naught": "explicit.stat_2195518432",
             "Towering Threat": "explicit.stat_3536778624",
             "Stormrider": "explicit.stat_889728548",
             "Flexible Sentry": "explicit.stat_982290947",
-            "Energy From Naught": "explicit.stat_2195518432",
+            "Fasting": "explicit.stat_37078857",
             "Mystical Ward": "explicit.stat_2314111938",
             "Spiked Concoction": "explicit.stat_3372255769",
             "Peak Vigour": "explicit.stat_1722821275",
             "Shrieking Bolts": "explicit.stat_2783012144",
-            "Hit and Run": "explicit.stat_2665170385",
             "Powerful Assault": "explicit.stat_1005475168",
             "Aggressive Defence": "explicit.stat_4154008618",
-            "Cold-Blooded Killer": "explicit.stat_836566759",
+            "Vital Focus": "explicit.stat_2134141047",
+            "Rattling Bellow": "explicit.stat_4288473380",
             "Prodigious Defence": "explicit.stat_1705633890",
             "Self-Control": "explicit.stat_3025453294",
+            "Vicious Guard": "explicit.stat_4054656914",
             "Surging Vitality": "explicit.stat_2410501331",
             "Surprise Sabotage": "explicit.stat_3051562738",
             "Ancestral Echo": "explicit.stat_957679205",
             "Mage Hunter": "explicit.stat_2118664144",
             "Force Multiplier": "explicit.stat_1904581068",
-            "Guerilla Tactics": "explicit.stat_1882129725",
             "Thunderstruck": "explicit.stat_1741700339",
-            "Sadist": "explicit.stat_3638731729",
+            "Lead By Example": "explicit.stat_2195406641",
+            "Ancestral Reach": "explicit.stat_3294884567",
             "Wasting Affliction": "explicit.stat_2066820199",
-            "Vital Focus": "explicit.stat_2134141047",
+            "Deadly Repartee": "explicit.stat_1013470938",
             "Inevitable Doom": "explicit.stat_156080652",
+            "Evil Eye": "explicit.stat_4291066912",
             "Dark Messenger": "explicit.stat_3784610129",
-            "Heraldry": "explicit.stat_3274270612",
-            "Vicious Guard": "explicit.stat_4054656914",
             "Paralysis": "explicit.stat_4272503233",
-            "Life from Death": "explicit.stat_2337273077",
+            "Heraldry": "explicit.stat_3274270612",
             "Broadside": "explicit.stat_2205982416",
+            "Life from Death": "explicit.stat_2337273077",
+            "Natural Vigour": "explicit.stat_510654792",
             "Sublime Form": "explicit.stat_2251304016",
+            "Set and Forget": "explicit.stat_1101250813",
             "Blanketed Snow": "explicit.stat_1085167979",
             "Savour the Moment": "explicit.stat_3539175001",
             "Sublime Sensation": "explicit.stat_1364858171",
-            "Master the Fundamentals": "explicit.stat_3585232432",
+            "Invigorating Portents": "explicit.stat_2262034536",
             "Holy Conquest": "explicit.stat_3898572660",
-            "Set and Forget": "explicit.stat_1101250813",
-            "Battlefield Dominator": "explicit.stat_1499057234",
-            "Graceful Execution": "explicit.stat_1903496649",
+            "Precise Focus": "explicit.stat_2913581789",
+            "Sap Psyche": "explicit.stat_715786975",
             "Opportunistic Fusilade": "explicit.stat_4281625943",
-            "Raze and Pillage": "explicit.stat_1038897629",
-            "Evil Eye": "explicit.stat_4291066912",
-            "Spring Back": "explicit.stat_3603695769",
-            "Hulking Corpses": "explicit.stat_3467711950",
-            "Weight Advantage": "explicit.stat_2244243943",
-            "Veteran Defender": "explicit.stat_664010431",
+            "Vicious Bite": "explicit.stat_882876854",
+            "Bodyguards": "explicit.stat_791125124",
+            "Battlefield Dominator": "explicit.stat_1499057234",
             "Alchemist": "explicit.stat_2912949210",
-            "Readiness": "explicit.stat_845306697",
-            "Grim Oath": "explicit.stat_2194205899",
-            "Astonishing Affliction": "explicit.stat_2428334013",
+            "Graceful Execution": "explicit.stat_1903496649",
+            "Raze and Pillage": "explicit.stat_1038897629",
+            "Weight Advantage": "explicit.stat_2244243943",
+            "Spring Back": "explicit.stat_3603695769",
             "Arcane Heroism": "explicit.stat_3901992019",
-            "Natural Vigour": "explicit.stat_510654792",
+            "Hulking Corpses": "explicit.stat_3467711950",
+            "Readiness": "explicit.stat_845306697",
+            "Veteran Defender": "explicit.stat_664010431",
+            "Wish for Death": "explicit.stat_608164368",
+            "Grim Oath": "explicit.stat_2194205899",
             "Lasting Impression": "explicit.stat_426715778",
+            "Aerodynamics": "explicit.stat_4120556534",
             "Overwhelming Malice": "explicit.stat_770408103",
             "Destructive Aspect": "explicit.stat_3860179422",
-            "Bodyguards": "explicit.stat_791125124",
             "Introspection": "explicit.stat_1309218394",
             "Pure Might": "explicit.stat_2372915005",
-            "Lead By Example": "explicit.stat_2195406641",
+            "Skeletal Atrophy": "explicit.stat_1290215329",
             "Expansive Might": "explicit.stat_394918362",
+            "Militarism": "explicit.stat_4154709486",
             "Doedre's Spite": "explicit.stat_462115791",
-            "Aerodynamics": "explicit.stat_4120556534",
+            "Inspired Oppression": "explicit.stat_3872380586",
             "Pure Guile": "explicit.stat_1621496909",
-            "Precise Focus": "explicit.stat_2913581789",
-            "Deadly Repartee": "explicit.stat_1013470938",
+            "Dark Ideation": "explicit.stat_1603621602",
             "Dragon Hunter": "explicit.stat_1038955006",
             "Electric Presence": "explicit.stat_3950683692",
             "Ancestral Inspiration": "explicit.stat_77045106",
-            "Skeletal Atrophy": "explicit.stat_1290215329",
-            "Wish for Death": "explicit.stat_608164368",
             "Blast-Freeze": "explicit.stat_693808153",
+            "Enduring Composure": "explicit.stat_2043284086",
             "Blessed": "explicit.stat_775689239",
-            "Militarism": "explicit.stat_4154709486",
-            "Vicious Bite": "explicit.stat_882876854",
-            "Dark Ideation": "explicit.stat_1603621602",
+            "Careful Handling": "explicit.stat_456502758",
             "Fire Attunement": "explicit.stat_3188756614",
             "Antivenom": "explicit.stat_774369953",
             "Savage Response": "explicit.stat_4222635921",
-            "Fasting": "explicit.stat_37078857",
-            "Sap Psyche": "explicit.stat_715786975",
-            "Careful Handling": "explicit.stat_456502758",
+            "Clarity of Purpose": "explicit.stat_684087686",
+            "Follow-Through": "explicit.stat_3984980429",
             "Corrosive Elements": "explicit.stat_1777139212",
-            "Enduring Composure": "explicit.stat_2043284086",
+            "Cold to the Core": "explicit.stat_744783843",
             "Disorienting Wounds": "explicit.stat_3351136461",
             "Assert Dominance": "explicit.stat_4222265138",
+            "Tempered Arrowheads": "explicit.stat_2631806437",
             "Openness": "explicit.stat_633943719",
-            "Invigorating Portents": "explicit.stat_2262034536",
             "Pure Aptitude": "explicit.stat_3509724289",
             "Advance Guard": "explicit.stat_1625939562",
+            "Combat Rhythm": "explicit.stat_3122505794",
             "Elegant Form": "explicit.stat_289714529",
             "Self-Fulfilling Prophecy": "explicit.stat_2644533453",
+            "Fettle": "explicit.stat_1353571444",
             "Blessed Rebirth": "explicit.stat_1424794574",
             "Insatiable Killer": "explicit.stat_3904970959",
+            "Numbing Elixir": "explicit.stat_1028754276",
             "Blowback": "explicit.stat_1612414696",
-            "Follow-Through": "explicit.stat_3984980429",
             "Unwavering Focus": "explicit.stat_367638058",
             "Surefooted Striker": "explicit.stat_3410752193",
-            "Fettle": "explicit.stat_1353571444",
             "Grand Design": "explicit.stat_2350900742",
             "Storm's Hand": "explicit.stat_1122051203",
-            "Numbing Elixir": "explicit.stat_1028754276",
             "Cold Conduction": "explicit.stat_1274505521",
             "Blizzard Caller": "explicit.stat_3758712376",
             "Haunting Shout": "explicit.stat_1080363357",
             "Martial Momentum": "explicit.stat_2978494217",
             "Darting Movements": "explicit.stat_846491278",
-            "Combat Rhythm": "explicit.stat_3122505794",
+            "Liquid Inspiration": "explicit.stat_1094635162",
             "Eternal Suffering": "explicit.stat_2144634814",
-            "Rattling Bellow": "explicit.stat_4288473380",
             "Deep Cuts": "explicit.stat_410939404",
             "Ancestral Guidance": "explicit.stat_2387747995",
-            "Ancestral Reach": "explicit.stat_3294884567",
             "Martial Mastery": "explicit.stat_1015189426",
+            "Cooked Alive": "explicit.stat_2938895712",
             "Tempt the Storm": "explicit.stat_348883745",
-            "Tempered Arrowheads": "explicit.stat_2631806437",
             "Rend": "explicit.stat_4263287206",
             "Arcing Shot": "explicit.stat_3212859169",
-            "Liquid Inspiration": "explicit.stat_1094635162",
-            "Misery Everlasting": "explicit.stat_3832665876",
             "Peace Amidst Chaos": "explicit.stat_1734275536",
+            "Misery Everlasting": "explicit.stat_3832665876",
+            "Shifting Shadow": "explicit.stat_1476913894",
+            "Master of Fear": "explicit.stat_2771217016",
+            "Mender's Wellspring": "explicit.stat_4291434923",
             "Snaring Spirits": "explicit.stat_3319205340",
             "Exploit Weakness": "explicit.stat_50129423",
-            "Inspired Oppression": "explicit.stat_3872380586",
-            "Lord of Drought": "explicit.stat_2055715585",
-            "Shifting Shadow": "explicit.stat_1476913894",
-            "Disease Vector": "explicit.stat_183591019",
+            "Non-Flammable": "explicit.stat_731840035",
             "Insulated": "explicit.stat_212648555",
+            "Vivid Hues": "explicit.stat_3957006524",
+            "Arcane Pyrotechnics": "explicit.stat_2043503530",
+            "Heart of Iron": "explicit.stat_1483358825",
+            "Lord of Drought": "explicit.stat_2055715585",
+            "Disease Vector": "explicit.stat_183591019",
+            "Born of Chaos": "explicit.stat_2449392400",
             "Compound Injury": "explicit.stat_4018305528",
+            "Blacksmith": "explicit.stat_1127706436",
             "Chip Away": "explicit.stat_968069586",
             "Disciples": "explicit.stat_3177526694",
             "Steady Torment": "explicit.stat_3500334379",
-            "Cooked Alive": "explicit.stat_2938895712",
+            "Seeker Runes": "explicit.stat_2261237498",
             "Victim Maker": "explicit.stat_1936135020",
             "Master of Fire": "explicit.stat_1462135249",
             "Skullbreaker": "explicit.stat_315697256",
-            "Arcane Pyrotechnics": "explicit.stat_2043503530",
+            "Wrapped in Flame": "explicit.stat_241783558",
+            "Capacitor": "explicit.stat_4025536654",
             "Pure Agony": "explicit.stat_1507409483",
-            "Non-Flammable": "explicit.stat_731840035",
-            "Rapid Infusion": "explicit.stat_1570474940",
             "Prismatic Carapace": "explicit.stat_3492924480",
+            "Rapid Infusion": "explicit.stat_1570474940",
+            "Master of Command": "explicit.stat_3257074218",
             "Brutal Infamy": "explicit.stat_2068574831",
             "Remarkable": "explicit.stat_691431951",
             "Antifreeze": "explicit.stat_2622946553",
+            "Conservation of Energy": "explicit.stat_2083777017",
             "Cry Wolf": "explicit.stat_1821748178",
             "Expert Sabotage": "explicit.stat_2084371547",
-            "Seeker Runes": "explicit.stat_2261237498",
-            "Mender's Wellspring": "explicit.stat_4291434923",
+            "One with the Shield": "explicit.stat_1976069869",
             "Warning Call": "explicit.stat_578355556",
+            "Rot-Resistant": "explicit.stat_713945233",
             "Fan the Flames": "explicit.stat_2918755450",
-            "Wrapped in Flame": "explicit.stat_241783558",
             "Holistic Health": "explicit.stat_3667965781",
+            "Explosive Force": "explicit.stat_2017927451",
             "Prismatic Dance": "explicit.stat_1149662934",
             "Hibernator": "explicit.stat_2294919888",
             "Wizardry": "explicit.stat_3078065247",
@@ -237,31 +250,23 @@
             "Seal Mender": "explicit.stat_876846990",
             "Ancestral Preservation": "explicit.stat_3746703776",
             "Mindfulness": "explicit.stat_2595115995",
-            "Arcane Adept": "explicit.stat_393565679",
-            "Cold to the Core": "explicit.stat_744783843",
-            "Explosive Force": "explicit.stat_2017927451",
             "Rote Reinforcement": "explicit.stat_2478282326",
+            "Hex Breaker": "explicit.stat_2341828832",
+            "Arcane Adept": "explicit.stat_393565679",
             "Unspeakable Gifts": "explicit.stat_729163974",
-            "Blacksmith": "explicit.stat_1127706436",
             "Feast of Flesh": "explicit.stat_2396755365",
-            "Conservation of Energy": "explicit.stat_2083777017",
-            "Master of Command": "explicit.stat_3257074218",
+            "Mob Mentality": "explicit.stat_1048879642",
             "Expendability": "explicit.stat_2020075345",
             "Septic Spells": "explicit.stat_4290522695",
-            "Born of Chaos": "explicit.stat_2449392400",
+            "Chilling Presence": "explicit.stat_2834490860",
             "Eldritch Inspiration": "explicit.stat_3737604164",
-            "Rot-Resistant": "explicit.stat_713945233",
-            "Mob Mentality": "explicit.stat_1048879642",
             "Primordial Bond": "explicit.stat_622362787",
-            "One with the Shield": "explicit.stat_1976069869",
             "Frantic Aspect": "explicit.stat_792262925",
-            "Hex Breaker": "explicit.stat_2341828832",
-            "Clarity of Purpose": "explicit.stat_684087686",
+            "Will Shaper": "explicit.stat_1162352537",
             "Mage Bane": "explicit.stat_684155617",
             "Run Through": "explicit.stat_1488030420",
             "Quick and Deadly": "explicit.stat_2169345147",
             "Stubborn Student": "explicit.stat_2383914651",
-            "Master of Fear": "explicit.stat_2771217016",
             "Low Tolerance": "explicit.stat_3989400244",
             "Sleepless Sentries": "explicit.stat_3993957711",
             "Ancestral Might": "explicit.stat_3998316",
@@ -269,33 +274,28 @@
             "Daring Ideas": "explicit.stat_2534405517",
             "Mortifying Aspect": "explicit.stat_3881737087",
             "Phlebotomist": "explicit.stat_3057154383",
-            "Capacitor": "explicit.stat_4025536654",
+            "Improvisor": "explicit.stat_810219447",
             "Gladiator's Fortitude": "explicit.stat_1591995797",
             "Adrenaline": "explicit.stat_4022743870",
             "Enduring Focus": "explicit.stat_2522970386",
-            "Heart of Iron": "explicit.stat_1483358825",
-            "Will Shaper": "explicit.stat_1162352537",
+            "Powerful Ward": "explicit.stat_164032122",
+            "Master of the Maelstrom": "explicit.stat_185592058",
+            "Riot Queller": "explicit.stat_254194892",
+            "Enduring Ward": "explicit.stat_252724319",
+            "Fan of Blades": "explicit.stat_2484082827",
             "Overlord": "explicit.stat_2250169390",
             "Bloodscent": "explicit.stat_3967765261",
-            "Riot Queller": "explicit.stat_254194892",
+            "Aerialist": "explicit.stat_3848677307",
             "Wall of Muscle": "explicit.stat_1363668533",
             "Winter Prowler": "explicit.stat_755881431",
-            "Master of the Maelstrom": "explicit.stat_185592058",
-            "Chilling Presence": "explicit.stat_2834490860",
             "Fearsome Warrior": "explicit.stat_3134222965",
             "Molten One's Mark": "explicit.stat_3875792669",
-            "Powerful Ward": "explicit.stat_164032122",
             "Doedre's Apathy": "explicit.stat_1381945089",
             "Blood Artist": "explicit.stat_2284771334",
             "Doedre's Gluttony": "explicit.stat_2695848124",
-            "Improvisor": "explicit.stat_810219447",
-            "Vivid Hues": "explicit.stat_3957006524",
-            "Enduring Ward": "explicit.stat_252724319",
             "Genius": "explicit.stat_2763732093",
             "Hound's Mark": "explicit.stat_555800967",
-            "Fan of Blades": "explicit.stat_2484082827",
             "Supercharge": "explicit.stat_3226074658",
-            "Aerialist": "explicit.stat_3848677307",
             "Intensity": "explicit.stat_2785835061",
             "No Witnesses": "explicit.stat_1722480396",
             "Gladiatorial Combat": "explicit.stat_1543731719",
@@ -586,7 +586,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableProdigiousDefense"
+                    "CorrectGroup": "AfflictionNotableProdigiousDefense",
+                    "Level": 1
                 }
             },
             "Advance Guard": {
@@ -635,7 +636,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAdvanceGuard"
+                    "CorrectGroup": "AfflictionNotableAdvanceGuard",
+                    "Level": 50
                 }
             },
             "Strike Leader": {
@@ -684,7 +686,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStrikeLeader"
+                    "CorrectGroup": "AfflictionNotableStrikeLeader",
+                    "Level": 1
                 }
             },
             "Gladiator's Fortitude": {
@@ -725,7 +728,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude"
+                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude",
+                    "Level": 68
                 }
             },
             "Precise Retaliation": {
@@ -766,7 +770,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePreciseRetaliation"
+                    "CorrectGroup": "AfflictionNotablePreciseRetaliation",
+                    "Level": 50
                 }
             },
             "Veteran Defender": {
@@ -815,7 +820,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVeteranDefender"
+                    "CorrectGroup": "AfflictionNotableVeteranDefender",
+                    "Level": 1
                 }
             },
             "Iron Breaker": {
@@ -856,7 +862,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableIronBreaker"
+                    "CorrectGroup": "AfflictionNotableIronBreaker",
+                    "Level": 1
                 }
             },
             "Master the Fundamentals": {
@@ -905,7 +912,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMastertheFundamentals"
+                    "CorrectGroup": "AfflictionNotableMastertheFundamentals",
+                    "Level": 50
                 }
             },
             "Force Multiplier": {
@@ -946,7 +954,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 50
                 }
             },
             "Furious Assault": {
@@ -987,7 +996,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Vicious Skewering": {
@@ -1100,7 +1110,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableViciousSkewering"
+                    "CorrectGroup": "AfflictionNotableViciousSkewering",
+                    "Level": 68
                 }
             },
             "Grim Oath": {
@@ -1139,7 +1150,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 68
                 }
             },
             "Battle-Hardened": {
@@ -1180,7 +1192,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBattleHardened"
+                    "CorrectGroup": "AfflictionNotableBattleHardened",
+                    "Level": 50
                 }
             },
             "Righteous Path": {
@@ -1239,7 +1252,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                    "CorrectGroup": "AfflictionNotableVengefulCommander",
+                    "Level": 1
                 }
             },
             "Overwhelming Malice": {
@@ -1272,7 +1286,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice"
+                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice",
+                    "Level": 68
                 }
             },
             "Titanic Swings": {
@@ -1313,7 +1328,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTitanicSwings"
+                    "CorrectGroup": "AfflictionNotableTitanicSwings",
+                    "Level": 50
                 }
             },
             "Ancestral Inspiration": {
@@ -1354,7 +1370,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralInspiration"
+                    "CorrectGroup": "AfflictionNotableAncestralInspiration",
+                    "Level": 68
                 }
             },
             "Arcane Adept": {
@@ -1403,7 +1420,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableArcaneAdept"
+                    "CorrectGroup": "AfflictionNotableArcaneAdept",
+                    "Level": 68
                 }
             },
             "Bloodscent": {
@@ -1440,7 +1458,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBloodscent"
+                    "CorrectGroup": "AfflictionNotableBloodscent",
+                    "Level": 75
                 }
             },
             "Run Through": {
@@ -1501,7 +1520,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRunThrough"
+                    "CorrectGroup": "AfflictionNotableRunThrough",
+                    "Level": 68
                 }
             },
             "Wound Aggravation": {
@@ -1554,7 +1574,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWoundAggravation"
+                    "CorrectGroup": "AfflictionNotableWoundAggravation",
+                    "Level": 1
                 }
             },
             "Overlord": {
@@ -1599,7 +1620,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOverlord"
+                    "CorrectGroup": "AfflictionNotableOverlord",
+                    "Level": 75
                 }
             },
             "Expansive Might": {
@@ -1644,7 +1666,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExpansiveMight"
+                    "CorrectGroup": "AfflictionNotableExpansiveMight",
+                    "Level": 68
                 }
             },
             "Weight Advantage": {
@@ -1697,7 +1720,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWeightAdvantage"
+                    "CorrectGroup": "AfflictionNotableWeightAdvantage",
+                    "Level": 1
                 }
             },
             "Wind-up": {
@@ -1742,7 +1766,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWindup"
+                    "CorrectGroup": "AfflictionNotableWindup",
+                    "Level": 68
                 }
             },
             "Fan of Blades": {
@@ -1787,7 +1812,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFanofBlades"
+                    "CorrectGroup": "AfflictionNotableFanofBlades",
+                    "Level": 75
                 }
             },
             "Disease Vector": {
@@ -1832,7 +1858,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDiseaseVector"
+                    "CorrectGroup": "AfflictionNotableDiseaseVector",
+                    "Level": 50
                 }
             },
             "Arcing Shot": {
@@ -1877,7 +1904,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableArcingShot"
+                    "CorrectGroup": "AfflictionNotableArcingShot",
+                    "Level": 50
                 }
             },
             "Tempered Arrowheads": {
@@ -1930,7 +1958,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTemperedArrowheads"
+                    "CorrectGroup": "AfflictionNotableTemperedArrowheads",
+                    "Level": 50
                 }
             },
             "Broadside": {
@@ -1967,7 +1996,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBroadside"
+                    "CorrectGroup": "AfflictionNotableBroadside",
+                    "Level": 1
                 }
             },
             "Explosive Force": {
@@ -2008,7 +2038,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExplosiveForce"
+                    "CorrectGroup": "AfflictionNotableExplosiveForce",
+                    "Level": 68
                 }
             },
             "Opportunistic Fusilade": {
@@ -2049,7 +2080,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOpportunisticFusilade"
+                    "CorrectGroup": "AfflictionNotableOpportunisticFusilade",
+                    "Level": 1
                 }
             },
             "Storm's Hand": {
@@ -2090,7 +2122,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStormsHand"
+                    "CorrectGroup": "AfflictionNotableStormsHand",
+                    "Level": 50
                 }
             },
             "Battlefield Dominator": {
@@ -2139,7 +2172,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBattlefieldDominator"
+                    "CorrectGroup": "AfflictionNotableBattlefieldDominator",
+                    "Level": 1
                 }
             },
             "Martial Mastery": {
@@ -2188,7 +2222,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMartialMastery"
+                    "CorrectGroup": "AfflictionNotableMartialMastery",
+                    "Level": 50
                 }
             },
             "Surefooted Striker": {
@@ -2229,7 +2264,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSurefootedStriker"
+                    "CorrectGroup": "AfflictionNotableSurefootedStriker",
+                    "Level": 50
                 }
             },
             "Graceful Execution": {
@@ -2286,7 +2322,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGracefulExecution"
+                    "CorrectGroup": "AfflictionNotableGracefulExecution",
+                    "Level": 1
                 }
             },
             "Brutal Infamy": {
@@ -2327,7 +2364,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBrutalInfamy"
+                    "CorrectGroup": "AfflictionNotableBrutalInfamy",
+                    "Level": 50
                 }
             },
             "Fearsome Warrior": {
@@ -2376,7 +2414,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFearsomeWarrior"
+                    "CorrectGroup": "AfflictionNotableFearsomeWarrior",
+                    "Level": 68
                 }
             },
             "Combat Rhythm": {
@@ -2417,7 +2456,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCombatRhythm"
+                    "CorrectGroup": "AfflictionNotableCombatRhythm",
+                    "Level": 50
                 }
             },
             "Hit and Run": {
@@ -2458,7 +2498,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHitandRun"
+                    "CorrectGroup": "AfflictionNotableHitandRun",
+                    "Level": 1
                 }
             },
             "Insatiable Killer": {
@@ -2507,7 +2548,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableInsatiableKiller"
+                    "CorrectGroup": "AfflictionNotableInsatiableKiller",
+                    "Level": 50
                 }
             },
             "Mage Bane": {
@@ -2556,7 +2598,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMageBane"
+                    "CorrectGroup": "AfflictionNotableMageBane",
+                    "Level": 68
                 }
             },
             "Martial Momentum": {
@@ -2605,7 +2648,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMartialMomentum"
+                    "CorrectGroup": "AfflictionNotableMartialMomentum",
+                    "Level": 50
                 }
             },
             "Deadly Repartee": {
@@ -2654,7 +2698,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDeadlyRepartee"
+                    "CorrectGroup": "AfflictionNotableDeadlyRepartee",
+                    "Level": 1
                 }
             },
             "Quick and Deadly": {
@@ -2695,7 +2740,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableQuickandDeadly"
+                    "CorrectGroup": "AfflictionNotableQuickandDeadly",
+                    "Level": 68
                 }
             },
             "Smite the Weak": {
@@ -2800,7 +2846,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Heavy Hitter": {
@@ -2921,7 +2968,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 50
                 }
             },
             "Martial Prowess": {
@@ -3042,7 +3090,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Calamitous": {
@@ -3155,7 +3204,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCalamitous"
+                    "CorrectGroup": "AfflictionNotableCalamitous",
+                    "Level": 50
                 }
             },
             "Devastator": {
@@ -3268,7 +3318,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDevastator"
+                    "CorrectGroup": "AfflictionNotableDevastator",
+                    "Level": 75
                 }
             },
             "Fuel the Fight": {
@@ -3381,7 +3432,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFueltheFight"
+                    "CorrectGroup": "AfflictionNotableFueltheFight",
+                    "Level": 1
                 }
             },
             "Drive the Destruction": {
@@ -3494,7 +3546,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDrivetheDestruction"
+                    "CorrectGroup": "AfflictionNotableDrivetheDestruction",
+                    "Level": 1
                 }
             },
             "Feed the Fury": {
@@ -3607,7 +3660,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFeedtheFury"
+                    "CorrectGroup": "AfflictionNotableFeedtheFury",
+                    "Level": 50
                 }
             },
             "Seal Mender": {
@@ -3640,7 +3694,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSealMender"
+                    "CorrectGroup": "AfflictionNotableSealMender",
+                    "Level": 75
                 }
             },
             "Conjured Wall": {
@@ -3681,7 +3736,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableConjuredWall"
+                    "CorrectGroup": "AfflictionNotableConjuredWall",
+                    "Level": 50
                 }
             },
             "Arcane Heroism": {
@@ -3722,7 +3778,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableArcaneHeroism"
+                    "CorrectGroup": "AfflictionNotableArcaneHeroism",
+                    "Level": 68
                 }
             },
             "Practiced Caster": {
@@ -3771,7 +3828,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePracticedCaster"
+                    "CorrectGroup": "AfflictionNotablePracticedCaster",
+                    "Level": 1
                 }
             },
             "Burden Projection": {
@@ -3812,7 +3870,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBurdenProjection"
+                    "CorrectGroup": "AfflictionNotableBurdenProjection",
+                    "Level": 50
                 }
             },
             "Thaumophage": {
@@ -3861,7 +3920,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 50
                 }
             },
             "Essence Rush": {
@@ -3910,7 +3970,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 50
                 }
             },
             "Sap Psyche": {
@@ -3959,7 +4020,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 68
                 }
             },
             "Sadist": {
@@ -4026,7 +4088,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSadist"
+                    "CorrectGroup": "AfflictionNotableSadist",
+                    "Level": 68
                 }
             },
             "Corrosive Elements": {
@@ -4101,7 +4164,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCorrosiveElements"
+                    "CorrectGroup": "AfflictionNotableCorrosiveElements",
+                    "Level": 75
                 }
             },
             "Doryani's Lesson": {
@@ -4160,7 +4224,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 68
                 }
             },
             "Disorienting Display": {
@@ -4219,7 +4284,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 50
                 }
             },
             "Prismatic Heart": {
@@ -4278,7 +4344,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePrismaticHeart"
+                    "CorrectGroup": "AfflictionNotablePrismaticHeart",
+                    "Level": 1
                 }
             },
             "Widespread Destruction": {
@@ -4337,7 +4404,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Master of Fire": {
@@ -4370,7 +4438,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofFire"
+                    "CorrectGroup": "AfflictionNotableMasterofFire",
+                    "Level": 75
                 }
             },
             "Smoking Remains": {
@@ -4411,7 +4480,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSmokingRemains"
+                    "CorrectGroup": "AfflictionNotableSmokingRemains",
+                    "Level": 50
                 }
             },
             "Cremator": {
@@ -4452,7 +4522,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCremator"
+                    "CorrectGroup": "AfflictionNotableCremator",
+                    "Level": 50
                 }
             },
             "Snowstorm": {
@@ -4491,7 +4562,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSnowstorm"
+                    "CorrectGroup": "AfflictionNotableSnowstorm",
+                    "Level": 50
                 }
             },
             "Storm Drinker": {
@@ -4532,7 +4604,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStormDrinker"
+                    "CorrectGroup": "AfflictionNotableStormDrinker",
+                    "Level": 1
                 }
             },
             "Paralysis": {
@@ -4581,7 +4654,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableParalysis"
+                    "CorrectGroup": "AfflictionNotableParalysis",
+                    "Level": 50
                 }
             },
             "Blanketed Snow": {
@@ -4614,7 +4688,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlanketedSnow"
+                    "CorrectGroup": "AfflictionNotableBlanketedSnow",
+                    "Level": 68
                 }
             },
             "Cold to the Core": {
@@ -4663,7 +4738,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableColdtotheCore"
+                    "CorrectGroup": "AfflictionNotableColdtotheCore",
+                    "Level": 68
                 }
             },
             "Cold-Blooded Killer": {
@@ -4704,7 +4780,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableColdBloodedKiller"
+                    "CorrectGroup": "AfflictionNotableColdBloodedKiller",
+                    "Level": 50
                 }
             },
             "Touch of Cruelty": {
@@ -4745,7 +4822,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTouchofCruelty"
+                    "CorrectGroup": "AfflictionNotableTouchofCruelty",
+                    "Level": 1
                 }
             },
             "Unwaveringly Evil": {
@@ -4786,7 +4864,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil"
+                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil",
+                    "Level": 1
                 }
             },
             "Unspeakable Gifts": {
@@ -4819,7 +4898,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 75
                 }
             },
             "Dark Ideation": {
@@ -4852,7 +4932,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDarkIdeation"
+                    "CorrectGroup": "AfflictionNotableDarkIdeation",
+                    "Level": 68
                 }
             },
             "Unholy Grace": {
@@ -4893,7 +4974,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Wicked Pall": {
@@ -4934,7 +5016,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWickedPall"
+                    "CorrectGroup": "AfflictionNotableWickedPall",
+                    "Level": 50
                 }
             },
             "Renewal": {
@@ -4975,7 +5058,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRenewal"
+                    "CorrectGroup": "AfflictionNotableRenewal",
+                    "Level": 50
                 }
             },
             "Raze and Pillage": {
@@ -5024,7 +5108,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRazeandPillage"
+                    "CorrectGroup": "AfflictionNotableRazeandPillage",
+                    "Level": 68
                 }
             },
             "Rotten Claws": {
@@ -5057,7 +5142,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRottenClaws"
+                    "CorrectGroup": "AfflictionNotableRottenClaws",
+                    "Level": 50
                 }
             },
             "Call to the Slaughter": {
@@ -5106,7 +5192,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 1
                 }
             },
             "Skeletal Atrophy": {
@@ -5147,7 +5234,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSkeletalAtrophy"
+                    "CorrectGroup": "AfflictionNotableSkeletalAtrophy",
+                    "Level": 68
                 }
             },
             "Vicious Bite": {
@@ -5188,7 +5276,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 75
                 }
             },
             "Primordial Bond": {
@@ -5237,7 +5326,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLargeSuffix"
+                    "CorrectGroup": "AfflictionNotableLargeSuffix",
+                    "Level": 68
                 }
             },
             "Burning Bright": {
@@ -5278,7 +5368,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBurningBright"
+                    "CorrectGroup": "AfflictionNotableBurningBright",
+                    "Level": 50
                 }
             },
             "Inspired Oppression": {
@@ -5347,7 +5438,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableInspiredOppression"
+                    "CorrectGroup": "AfflictionNotableInspiredOppression",
+                    "Level": 75
                 }
             },
             "Deep Chill": {
@@ -5388,7 +5480,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDeepChill"
+                    "CorrectGroup": "AfflictionNotableDeepChill",
+                    "Level": 1
                 }
             },
             "Blast-Freeze": {
@@ -5429,7 +5522,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlastFreeze"
+                    "CorrectGroup": "AfflictionNotableBlastFreeze",
+                    "Level": 68
                 }
             },
             "Thunderstruck": {
@@ -5478,7 +5572,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableThunderstruck"
+                    "CorrectGroup": "AfflictionNotableThunderstruck",
+                    "Level": 50
                 }
             },
             "Stormrider": {
@@ -5533,7 +5628,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStormrider"
+                    "CorrectGroup": "AfflictionNotableStormrider",
+                    "Level": 68
                 }
             },
             "Overshock": {
@@ -5574,7 +5670,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOvershock"
+                    "CorrectGroup": "AfflictionNotableOvershock",
+                    "Level": 50
                 }
             },
             "Feasting Fiends": {
@@ -5623,7 +5720,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFeastingFiends"
+                    "CorrectGroup": "AfflictionNotableFeastingFiends",
+                    "Level": 1
                 }
             },
             "Scintillating Idea": {
@@ -5664,7 +5762,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableScintillatingIdea"
+                    "CorrectGroup": "AfflictionNotableScintillatingIdea",
+                    "Level": 50
                 }
             },
             "Mage Hunter": {
@@ -5713,7 +5812,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMageHunter"
+                    "CorrectGroup": "AfflictionNotableMageHunter",
+                    "Level": 68
                 }
             },
             "Riot Queller": {
@@ -5754,7 +5854,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRiotQueller"
+                    "CorrectGroup": "AfflictionNotableRiotQueller",
+                    "Level": 75
                 }
             },
             "Lord of Drought": {
@@ -5795,7 +5896,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                    "CorrectGroup": "AfflictionNotableLordofDrought",
+                    "Level": 50
                 }
             },
             "Blizzard Caller": {
@@ -5836,7 +5938,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller",
+                    "Level": 50
                 }
             },
             "Tempt the Storm": {
@@ -5877,7 +5980,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                    "CorrectGroup": "AfflictionNotableTempttheStorm",
+                    "Level": 50
                 }
             },
             "Misery Everlasting": {
@@ -5918,7 +6022,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting",
+                    "Level": 50
                 }
             },
             "Exploit Weakness": {
@@ -5959,7 +6064,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                    "CorrectGroup": "AfflictionNotableExploitWeakness",
+                    "Level": 50
                 }
             },
             "Aggressive Defence": {
@@ -6032,7 +6138,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAggressiveDefence"
+                    "CorrectGroup": "AfflictionNotableAggressiveDefence",
+                    "Level": 1
                 }
             }
         },
@@ -6087,7 +6194,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableProdigiousDefense"
+                    "CorrectGroup": "AfflictionNotableProdigiousDefense",
+                    "Level": 1
                 }
             },
             "Strike Leader": {
@@ -6140,7 +6248,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStrikeLeader"
+                    "CorrectGroup": "AfflictionNotableStrikeLeader",
+                    "Level": 1
                 }
             },
             "Powerful Ward": {
@@ -6185,7 +6294,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePowerfulWard"
+                    "CorrectGroup": "AfflictionNotablePowerfulWard",
+                    "Level": 68
                 }
             },
             "Enduring Ward": {
@@ -6230,7 +6340,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEnduringWard"
+                    "CorrectGroup": "AfflictionNotableEnduringWard",
+                    "Level": 68
                 }
             },
             "Gladiator's Fortitude": {
@@ -6271,7 +6382,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude"
+                    "CorrectGroup": "AfflictionNotableGladiatorsFortitude",
+                    "Level": 68
                 }
             },
             "Battle-Hardened": {
@@ -6318,7 +6430,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBattleHardened"
+                    "CorrectGroup": "AfflictionNotableBattleHardened",
+                    "Level": 50
                 }
             },
             "Replenishing Presence": {
@@ -6351,7 +6464,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableReplenishingPresence"
+                    "CorrectGroup": "AfflictionNotableReplenishingPresence",
+                    "Level": 50
                 }
             },
             "Master of Command": {
@@ -6392,7 +6506,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofCommand"
+                    "CorrectGroup": "AfflictionNotableMasterofCommand",
+                    "Level": 68
                 }
             },
             "Spiteful Presence": {
@@ -6433,7 +6548,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFirstAmongEquals"
+                    "CorrectGroup": "AfflictionNotableFirstAmongEquals",
+                    "Level": 1
                 }
             },
             "Purposeful Harbinger": {
@@ -6466,7 +6582,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger"
+                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger",
+                    "Level": 75
                 }
             },
             "Destructive Aspect": {
@@ -6507,7 +6624,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePreciseCommander"
+                    "CorrectGroup": "AfflictionNotablePreciseCommander",
+                    "Level": 68
                 }
             },
             "Electric Presence": {
@@ -6566,7 +6684,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureCommander"
+                    "CorrectGroup": "AfflictionNotablePureCommander",
+                    "Level": 68
                 }
             },
             "Volatile Presence": {
@@ -6625,7 +6744,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStalwartCommander"
+                    "CorrectGroup": "AfflictionNotableStalwartCommander",
+                    "Level": 50
                 }
             },
             "Righteous Path": {
@@ -6666,7 +6786,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                    "CorrectGroup": "AfflictionNotableVengefulCommander",
+                    "Level": 1
                 }
             },
             "Towering Threat": {
@@ -6707,7 +6828,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableToweringThreat"
+                    "CorrectGroup": "AfflictionNotableToweringThreat",
+                    "Level": 68
                 }
             },
             "Stoic Focus": {
@@ -6760,7 +6882,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStoicFocus"
+                    "CorrectGroup": "AfflictionNotableStoicFocus",
+                    "Level": 1
                 }
             },
             "Hit and Run": {
@@ -6801,7 +6924,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHitandRun"
+                    "CorrectGroup": "AfflictionNotableHitandRun",
+                    "Level": 1
                 }
             },
             "Mage Bane": {
@@ -6854,7 +6978,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMageBane"
+                    "CorrectGroup": "AfflictionNotableMageBane",
+                    "Level": 68
                 }
             },
             "Prismatic Heart": {
@@ -6907,7 +7032,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePrismaticHeart"
+                    "CorrectGroup": "AfflictionNotablePrismaticHeart",
+                    "Level": 1
                 }
             },
             "Eldritch Inspiration": {
@@ -6956,7 +7082,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEldritchInspiration"
+                    "CorrectGroup": "AfflictionNotableEldritchInspiration",
+                    "Level": 50
                 }
             },
             "Flow of Life": {
@@ -7005,7 +7132,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFlowofLife"
+                    "CorrectGroup": "AfflictionNotableFlowofLife",
+                    "Level": 68
                 }
             },
             "Exposure Therapy": {
@@ -7046,7 +7174,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExposureTherapy"
+                    "CorrectGroup": "AfflictionNotableExposureTherapy",
+                    "Level": 1
                 }
             },
             "Brush with Death": {
@@ -7101,7 +7230,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBrushwithDeath"
+                    "CorrectGroup": "AfflictionNotableBrushwithDeath",
+                    "Level": 68
                 }
             },
             "Vile Reinvigoration": {
@@ -7150,7 +7280,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVileReinvigoration"
+                    "CorrectGroup": "AfflictionNotableVileReinvigoration",
+                    "Level": 50
                 }
             },
             "Evil Eye": {
@@ -7183,7 +7314,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEvilEye"
+                    "CorrectGroup": "AfflictionNotableEvilEye",
+                    "Level": 1
                 }
             },
             "Inevitable Doom": {
@@ -7224,7 +7356,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWhispersofDeath"
+                    "CorrectGroup": "AfflictionNotableWhispersofDeath",
+                    "Level": 1
                 }
             },
             "Forbidden Words": {
@@ -7265,7 +7398,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWardbreaker"
+                    "CorrectGroup": "AfflictionNotableWardbreaker",
+                    "Level": 68
                 }
             },
             "Doedre's Spite": {
@@ -7306,7 +7440,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDarkDiscourse"
+                    "CorrectGroup": "AfflictionNotableDarkDiscourse",
+                    "Level": 50
                 }
             },
             "Victim Maker": {
@@ -7347,7 +7482,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVictimMaker"
+                    "CorrectGroup": "AfflictionNotableVictimMaker",
+                    "Level": 50
                 }
             },
             "Master of Fear": {
@@ -7380,7 +7516,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofFear"
+                    "CorrectGroup": "AfflictionNotableMasterofFear",
+                    "Level": 68
                 }
             },
             "Wish for Death": {
@@ -7413,7 +7550,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWishforDeath"
+                    "CorrectGroup": "AfflictionNotableWishforDeath",
+                    "Level": 50
                 }
             },
             "Careful Handling": {
@@ -7476,7 +7614,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCarefulHandling"
+                    "CorrectGroup": "AfflictionNotableCarefulHandling",
+                    "Level": 68
                 }
             },
             "Peak Vigour": {
@@ -7517,7 +7656,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePeakVigour"
+                    "CorrectGroup": "AfflictionNotablePeakVigour",
+                    "Level": 1
                 }
             },
             "Fettle": {
@@ -7558,7 +7698,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFettle"
+                    "CorrectGroup": "AfflictionNotableFettle",
+                    "Level": 75
                 }
             },
             "Feast of Flesh": {
@@ -7607,7 +7748,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFeastofFlesh"
+                    "CorrectGroup": "AfflictionNotableFeastofFlesh",
+                    "Level": 68
                 }
             },
             "Sublime Sensation": {
@@ -7654,7 +7796,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSublimeSensation"
+                    "CorrectGroup": "AfflictionNotableSublimeSensation",
+                    "Level": 50
                 }
             },
             "Surging Vitality": {
@@ -7695,7 +7838,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSurgingVitality"
+                    "CorrectGroup": "AfflictionNotableSurgingVitality",
+                    "Level": 1
                 }
             },
             "Peace Amidst Chaos": {
@@ -7744,7 +7888,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePeaceAmidstChaos"
+                    "CorrectGroup": "AfflictionNotablePeaceAmidstChaos",
+                    "Level": 50
                 }
             },
             "Adrenaline": {
@@ -7785,7 +7930,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAdrenaline"
+                    "CorrectGroup": "AfflictionNotableAdrenaline",
+                    "Level": 68
                 }
             },
             "Wall of Muscle": {
@@ -7826,7 +7972,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWallofMuscle"
+                    "CorrectGroup": "AfflictionNotableWallofMuscle",
+                    "Level": 75
                 }
             },
             "Mindfulness": {
@@ -7867,7 +8014,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMindfulness"
+                    "CorrectGroup": "AfflictionNotableMindfulness",
+                    "Level": 50
                 }
             },
             "Liquid Inspiration": {
@@ -7916,7 +8064,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLiquidInspiration"
+                    "CorrectGroup": "AfflictionNotableLiquidInspiration",
+                    "Level": 68
                 }
             },
             "Openness": {
@@ -7957,7 +8106,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOpenness"
+                    "CorrectGroup": "AfflictionNotableOpenness",
+                    "Level": 1
                 }
             },
             "Daring Ideas": {
@@ -7998,7 +8148,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDaringIdeas"
+                    "CorrectGroup": "AfflictionNotableDaringIdeas",
+                    "Level": 50
                 }
             },
             "Clarity of Purpose": {
@@ -8039,7 +8190,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableClarityofPurpose"
+                    "CorrectGroup": "AfflictionNotableClarityofPurpose",
+                    "Level": 1
                 }
             },
             "Scintillating Idea": {
@@ -8080,7 +8232,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableScintillatingIdea"
+                    "CorrectGroup": "AfflictionNotableScintillatingIdea",
+                    "Level": 50
                 }
             },
             "Holistic Health": {
@@ -8127,7 +8280,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHolisticHealth"
+                    "CorrectGroup": "AfflictionNotableHolisticHealth",
+                    "Level": 68
                 }
             },
             "Genius": {
@@ -8168,7 +8322,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGenius"
+                    "CorrectGroup": "AfflictionNotableGenius",
+                    "Level": 75
                 }
             },
             "Improvisor": {
@@ -8217,7 +8372,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableImprovisor"
+                    "CorrectGroup": "AfflictionNotableImprovisor",
+                    "Level": 68
                 }
             },
             "Stubborn Student": {
@@ -8272,7 +8428,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStubbornStudent"
+                    "CorrectGroup": "AfflictionNotableStubbornStudent",
+                    "Level": 68
                 }
             },
             "Savour the Moment": {
@@ -8313,7 +8470,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSavourtheMoment"
+                    "CorrectGroup": "AfflictionNotableSavourtheMoment",
+                    "Level": 1
                 }
             },
             "Energy From Naught": {
@@ -8354,7 +8512,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEnergyFromNaught"
+                    "CorrectGroup": "AfflictionNotableEnergyFromNaught",
+                    "Level": 50
                 }
             },
             "Will Shaper": {
@@ -8393,7 +8552,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWillShaper"
+                    "CorrectGroup": "AfflictionNotableWillShaper",
+                    "Level": 75
                 }
             },
             "Spring Back": {
@@ -8434,7 +8594,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSpringBack"
+                    "CorrectGroup": "AfflictionNotableSpringBack",
+                    "Level": 1
                 }
             },
             "Conservation of Energy": {
@@ -8475,7 +8636,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableConservationofEnergy"
+                    "CorrectGroup": "AfflictionNotableConservationofEnergy",
+                    "Level": 68
                 }
             },
             "Heart of Iron": {
@@ -8514,7 +8676,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHeartofIron"
+                    "CorrectGroup": "AfflictionNotableHeartofIron",
+                    "Level": 68
                 }
             },
             "Prismatic Carapace": {
@@ -8573,7 +8736,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePrismaticCarapace"
+                    "CorrectGroup": "AfflictionNotablePrismaticCarapace",
+                    "Level": 75
                 }
             },
             "Militarism": {
@@ -8614,7 +8778,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMilitarism"
+                    "CorrectGroup": "AfflictionNotableMilitarism",
+                    "Level": 50
                 }
             },
             "Second Skin": {
@@ -8673,7 +8838,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSecondSkin"
+                    "CorrectGroup": "AfflictionNotableSecondSkin",
+                    "Level": 1
                 }
             },
             "Dragon Hunter": {
@@ -8728,7 +8894,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDragonHunter"
+                    "CorrectGroup": "AfflictionNotableDragonHunter",
+                    "Level": 50
                 }
             },
             "Enduring Composure": {
@@ -8769,7 +8936,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEnduringComposure"
+                    "CorrectGroup": "AfflictionNotableEnduringComposure",
+                    "Level": 68
                 }
             },
             "Prismatic Dance": {
@@ -8828,7 +8996,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePrismaticDance"
+                    "CorrectGroup": "AfflictionNotablePrismaticDance",
+                    "Level": 75
                 }
             },
             "Natural Vigour": {
@@ -8875,7 +9044,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableNaturalVigour"
+                    "CorrectGroup": "AfflictionNotableNaturalVigour",
+                    "Level": 50
                 }
             },
             "Untouchable": {
@@ -8922,7 +9092,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUntouchable"
+                    "CorrectGroup": "AfflictionNotableUntouchable",
+                    "Level": 1
                 }
             },
             "Shifting Shadow": {
@@ -8971,7 +9142,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableShiftingShadow"
+                    "CorrectGroup": "AfflictionNotableShiftingShadow",
+                    "Level": 50
                 }
             },
             "Readiness": {
@@ -9020,7 +9192,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableReadiness"
+                    "CorrectGroup": "AfflictionNotableReadiness",
+                    "Level": 1
                 }
             },
             "Flexible Sentry": {
@@ -9099,7 +9272,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFlexibleSentry"
+                    "CorrectGroup": "AfflictionNotableFlexibleSentry",
+                    "Level": 50
                 }
             },
             "Vicious Guard": {
@@ -9158,7 +9332,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableViciousGuard"
+                    "CorrectGroup": "AfflictionNotableViciousGuard",
+                    "Level": 1
                 }
             },
             "Mystical Ward": {
@@ -9217,7 +9392,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMysticalWard"
+                    "CorrectGroup": "AfflictionNotableMysticalWard",
+                    "Level": 1
                 }
             },
             "Rote Reinforcement": {
@@ -9276,7 +9452,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRoteReinforcement"
+                    "CorrectGroup": "AfflictionNotableRoteReinforcement",
+                    "Level": 68
                 }
             },
             "Mage Hunter": {
@@ -9329,7 +9506,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMageHunter"
+                    "CorrectGroup": "AfflictionNotableMageHunter",
+                    "Level": 68
                 }
             },
             "Riot Queller": {
@@ -9374,7 +9552,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRiotQueller"
+                    "CorrectGroup": "AfflictionNotableRiotQueller",
+                    "Level": 75
                 }
             },
             "One with the Shield": {
@@ -9427,7 +9606,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOnewiththeShield"
+                    "CorrectGroup": "AfflictionNotableOnewiththeShield",
+                    "Level": 50
                 }
             },
             "Aerialist": {
@@ -9468,7 +9648,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAerialist"
+                    "CorrectGroup": "AfflictionNotableAerialist",
+                    "Level": 75
                 }
             },
             "Elegant Form": {
@@ -9509,7 +9690,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableElegantForm"
+                    "CorrectGroup": "AfflictionNotableElegantForm",
+                    "Level": 1
                 }
             },
             "Darting Movements": {
@@ -9550,7 +9732,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDartingMovements"
+                    "CorrectGroup": "AfflictionNotableDartingMovements",
+                    "Level": 1
                 }
             },
             "Molten One's Mark": {
@@ -9591,7 +9774,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMoltenOnesMark"
+                    "CorrectGroup": "AfflictionNotableMoltenOnesMark",
+                    "Level": 68
                 }
             },
             "Fire Attunement": {
@@ -9640,7 +9824,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFireAttunement"
+                    "CorrectGroup": "AfflictionNotableFireAttunement",
+                    "Level": 1
                 }
             },
             "Pure Might": {
@@ -9695,7 +9880,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureMight"
+                    "CorrectGroup": "AfflictionNotablePureMight",
+                    "Level": 68
                 }
             },
             "Blacksmith": {
@@ -9750,7 +9936,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlacksmith"
+                    "CorrectGroup": "AfflictionNotableBlacksmith",
+                    "Level": 68
                 }
             },
             "Non-Flammable": {
@@ -9799,7 +9986,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableNonFlammable"
+                    "CorrectGroup": "AfflictionNotableNonFlammable",
+                    "Level": 50
                 }
             },
             "Winter Prowler": {
@@ -9840,7 +10028,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWinterProwler"
+                    "CorrectGroup": "AfflictionNotableWinterProwler",
+                    "Level": 68
                 }
             },
             "Hibernator": {
@@ -9897,7 +10086,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHibernator"
+                    "CorrectGroup": "AfflictionNotableHibernator",
+                    "Level": 50
                 }
             },
             "Pure Guile": {
@@ -9952,7 +10142,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureGuile"
+                    "CorrectGroup": "AfflictionNotablePureGuile",
+                    "Level": 68
                 }
             },
             "Alchemist": {
@@ -10001,7 +10192,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAlchemist"
+                    "CorrectGroup": "AfflictionNotableAlchemist",
+                    "Level": 1
                 }
             },
             "Antifreeze": {
@@ -10050,7 +10242,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAntifreeze"
+                    "CorrectGroup": "AfflictionNotableAntifreeze",
+                    "Level": 50
                 }
             },
             "Wizardry": {
@@ -10097,7 +10290,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWizardry"
+                    "CorrectGroup": "AfflictionNotableWizardry",
+                    "Level": 68
                 }
             },
             "Capacitor": {
@@ -10146,7 +10340,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCapacitor"
+                    "CorrectGroup": "AfflictionNotableCapacitor",
+                    "Level": 50
                 }
             },
             "Pure Aptitude": {
@@ -10201,7 +10396,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureAptitude"
+                    "CorrectGroup": "AfflictionNotablePureAptitude",
+                    "Level": 68
                 }
             },
             "Sage": {
@@ -10262,7 +10458,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSage"
+                    "CorrectGroup": "AfflictionNotableSage",
+                    "Level": 1
                 }
             },
             "Insulated": {
@@ -10311,7 +10508,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableInsulated"
+                    "CorrectGroup": "AfflictionNotableInsulated",
+                    "Level": 50
                 }
             },
             "Born of Chaos": {
@@ -10344,7 +10542,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBornofChaos"
+                    "CorrectGroup": "AfflictionNotableBornofChaos",
+                    "Level": 68
                 }
             },
             "Antivenom": {
@@ -10393,7 +10592,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAntivenom"
+                    "CorrectGroup": "AfflictionNotableAntivenom",
+                    "Level": 50
                 }
             },
             "Rot-Resistant": {
@@ -10450,7 +10650,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRotResistant"
+                    "CorrectGroup": "AfflictionNotableRotResistant",
+                    "Level": 68
                 }
             },
             "Blessed": {
@@ -10511,7 +10712,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlessed"
+                    "CorrectGroup": "AfflictionNotableBlessed",
+                    "Level": 68
                 }
             },
             "Student of Decay": {
@@ -10552,7 +10754,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStudentofDecay"
+                    "CorrectGroup": "AfflictionNotableStudentofDecay",
+                    "Level": 50
                 }
             },
             "Lord of Drought": {
@@ -10593,7 +10796,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                    "CorrectGroup": "AfflictionNotableLordofDrought",
+                    "Level": 50
                 }
             },
             "Blizzard Caller": {
@@ -10634,7 +10838,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller",
+                    "Level": 50
                 }
             },
             "Tempt the Storm": {
@@ -10675,7 +10880,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                    "CorrectGroup": "AfflictionNotableTempttheStorm",
+                    "Level": 50
                 }
             },
             "Misery Everlasting": {
@@ -10716,7 +10922,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting",
+                    "Level": 50
                 }
             },
             "Exploit Weakness": {
@@ -10757,7 +10964,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                    "CorrectGroup": "AfflictionNotableExploitWeakness",
+                    "Level": 50
                 }
             },
             "Self-Control": {
@@ -10804,7 +11012,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSelfControl"
+                    "CorrectGroup": "AfflictionNotableSelfControl",
+                    "Level": 50
                 }
             },
             "Uncompromising": {
@@ -10851,7 +11060,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUncompromising"
+                    "CorrectGroup": "AfflictionNotableUncompromising",
+                    "Level": 50
                 }
             },
             "Sublime Form": {
@@ -10898,7 +11108,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSublimeForm"
+                    "CorrectGroup": "AfflictionNotableSublimeForm",
+                    "Level": 50
                 }
             },
             "Mortifying Aspect": {
@@ -10945,7 +11156,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSummerCommander"
+                    "CorrectGroup": "AfflictionNotableSummerCommander",
+                    "Level": 68
                 }
             },
             "Frantic Aspect": {
@@ -10992,7 +11204,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWinterCommander"
+                    "CorrectGroup": "AfflictionNotableWinterCommander",
+                    "Level": 68
                 }
             },
             "Introspection": {
@@ -11031,7 +11244,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGroundedCommander"
+                    "CorrectGroup": "AfflictionNotableGroundedCommander",
+                    "Level": 68
                 }
             },
             "Hound's Mark": {
@@ -11072,7 +11286,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHoundsMark"
+                    "CorrectGroup": "AfflictionNotableHoundsMark",
+                    "Level": 1
                 }
             },
             "Doedre's Gluttony": {
@@ -11113,7 +11328,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDoedresGluttony"
+                    "CorrectGroup": "AfflictionNotableDoedresGluttony",
+                    "Level": 50
                 }
             },
             "Doedre's Apathy": {
@@ -11154,7 +11370,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDoedresApathy"
+                    "CorrectGroup": "AfflictionNotableDoedresApathy",
+                    "Level": 68
                 }
             },
             "Master of the Maelstrom": {
@@ -11195,7 +11412,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom"
+                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom",
+                    "Level": 50
                 }
             }
         },
@@ -11238,7 +11456,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePreciseRetaliation"
+                    "CorrectGroup": "AfflictionNotablePreciseRetaliation",
+                    "Level": 50
                 }
             },
             "Replenishing Presence": {
@@ -11271,7 +11490,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableReplenishingPresence"
+                    "CorrectGroup": "AfflictionNotableReplenishingPresence",
+                    "Level": 50
                 }
             },
             "Master of Command": {
@@ -11312,7 +11532,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofCommand"
+                    "CorrectGroup": "AfflictionNotableMasterofCommand",
+                    "Level": 68
                 }
             },
             "Spiteful Presence": {
@@ -11353,7 +11574,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFirstAmongEquals"
+                    "CorrectGroup": "AfflictionNotableFirstAmongEquals",
+                    "Level": 1
                 }
             },
             "Purposeful Harbinger": {
@@ -11398,7 +11620,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger"
+                    "CorrectGroup": "AfflictionNotablePurposefulHarbinger",
+                    "Level": 75
                 }
             },
             "Destructive Aspect": {
@@ -11445,7 +11668,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePreciseCommander"
+                    "CorrectGroup": "AfflictionNotablePreciseCommander",
+                    "Level": 68
                 }
             },
             "Electric Presence": {
@@ -11486,7 +11710,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureCommander"
+                    "CorrectGroup": "AfflictionNotablePureCommander",
+                    "Level": 68
                 }
             },
             "Volatile Presence": {
@@ -11527,7 +11752,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStalwartCommander"
+                    "CorrectGroup": "AfflictionNotableStalwartCommander",
+                    "Level": 50
                 }
             },
             "Righteous Path": {
@@ -11568,7 +11794,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVengefulCommander"
+                    "CorrectGroup": "AfflictionNotableVengefulCommander",
+                    "Level": 1
                 }
             },
             "Skullbreaker": {
@@ -11609,7 +11836,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSkullbreaker"
+                    "CorrectGroup": "AfflictionNotableSkullbreaker",
+                    "Level": 68
                 }
             },
             "Pressure Points": {
@@ -11650,7 +11878,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePressurePoints"
+                    "CorrectGroup": "AfflictionNotablePressurePoints",
+                    "Level": 50
                 }
             },
             "Overwhelming Malice": {
@@ -11683,7 +11912,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice"
+                    "CorrectGroup": "AfflictionNotableOverwhelmingMalice",
+                    "Level": 68
                 }
             },
             "Magnifier": {
@@ -11730,7 +11960,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMagnifier"
+                    "CorrectGroup": "AfflictionNotableMagnifier",
+                    "Level": 1
                 }
             },
             "Savage Response": {
@@ -11771,7 +12002,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSavageResponse"
+                    "CorrectGroup": "AfflictionNotableSavageResponse",
+                    "Level": 50
                 }
             },
             "Eye of the Storm": {
@@ -11832,7 +12064,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEyeoftheStorm"
+                    "CorrectGroup": "AfflictionNotableEyeoftheStorm",
+                    "Level": 50
                 }
             },
             "Basics of Pain": {
@@ -11873,7 +12106,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBasicsofPain"
+                    "CorrectGroup": "AfflictionNotableBasicsofPain",
+                    "Level": 1
                 }
             },
             "Quick Getaway": {
@@ -11922,7 +12156,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableQuickGetaway"
+                    "CorrectGroup": "AfflictionNotableQuickGetaway",
+                    "Level": 1
                 }
             },
             "Assert Dominance": {
@@ -11955,7 +12190,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAssertDominance"
+                    "CorrectGroup": "AfflictionNotableAssertDominance",
+                    "Level": 68
                 }
             },
             "Vast Power": {
@@ -11996,7 +12232,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVastPower"
+                    "CorrectGroup": "AfflictionNotableVastPower",
+                    "Level": 50
                 }
             },
             "Powerful Assault": {
@@ -12037,7 +12274,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePowerfulAssault"
+                    "CorrectGroup": "AfflictionNotablePowerfulAssault",
+                    "Level": 50
                 }
             },
             "Titanic Swings": {
@@ -12078,7 +12316,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTitanicSwings"
+                    "CorrectGroup": "AfflictionNotableTitanicSwings",
+                    "Level": 50
                 }
             },
             "Towering Threat": {
@@ -12119,7 +12358,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableToweringThreat"
+                    "CorrectGroup": "AfflictionNotableToweringThreat",
+                    "Level": 68
                 }
             },
             "Ancestral Echo": {
@@ -12160,7 +12400,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralEcho"
+                    "CorrectGroup": "AfflictionNotableAncestralEcho",
+                    "Level": 1
                 }
             },
             "Ancestral Reach": {
@@ -12209,7 +12450,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralReach"
+                    "CorrectGroup": "AfflictionNotableAncestralReach",
+                    "Level": 1
                 }
             },
             "Ancestral Might": {
@@ -12258,7 +12500,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralMight"
+                    "CorrectGroup": "AfflictionNotableAncestralMight",
+                    "Level": 50
                 }
             },
             "Ancestral Preservation": {
@@ -12307,7 +12550,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralPreservation"
+                    "CorrectGroup": "AfflictionNotableAncestralPreservation",
+                    "Level": 68
                 }
             },
             "Snaring Spirits": {
@@ -12348,7 +12592,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSnaringSpirits"
+                    "CorrectGroup": "AfflictionNotableSnaringSpirits",
+                    "Level": 50
                 }
             },
             "Sleepless Sentries": {
@@ -12389,7 +12634,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSleeplessSentries"
+                    "CorrectGroup": "AfflictionNotableSleeplessSentries",
+                    "Level": 68
                 }
             },
             "Ancestral Guidance": {
@@ -12430,7 +12676,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralGuidance"
+                    "CorrectGroup": "AfflictionNotableAncestralGuidance",
+                    "Level": 50
                 }
             },
             "Ancestral Inspiration": {
@@ -12471,7 +12718,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAncestralInspiration"
+                    "CorrectGroup": "AfflictionNotableAncestralInspiration",
+                    "Level": 68
                 }
             },
             "Vital Focus": {
@@ -12512,7 +12760,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVitalFocus"
+                    "CorrectGroup": "AfflictionNotableVitalFocus",
+                    "Level": 1
                 }
             },
             "Rapid Infusion": {
@@ -12553,7 +12802,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRapidInfusion"
+                    "CorrectGroup": "AfflictionNotableRapidInfusion",
+                    "Level": 68
                 }
             },
             "Unwavering Focus": {
@@ -12594,7 +12844,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUnwaveringFocus"
+                    "CorrectGroup": "AfflictionNotableUnwaveringFocus",
+                    "Level": 50
                 }
             },
             "Enduring Focus": {
@@ -12635,7 +12886,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEnduringFocus"
+                    "CorrectGroup": "AfflictionNotableEnduringFocus",
+                    "Level": 75
                 }
             },
             "Precise Focus": {
@@ -12676,7 +12928,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePreciseFocus"
+                    "CorrectGroup": "AfflictionNotablePreciseFocus",
+                    "Level": 50
                 }
             },
             "Stoic Focus": {
@@ -12725,7 +12978,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStoicFocus"
+                    "CorrectGroup": "AfflictionNotableStoicFocus",
+                    "Level": 1
                 }
             },
             "Hex Breaker": {
@@ -12766,7 +13020,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHexBreaker"
+                    "CorrectGroup": "AfflictionNotableHexBreaker",
+                    "Level": 75
                 }
             },
             "Distilled Perfection": {
@@ -12825,7 +13080,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDistilledPerfection"
+                    "CorrectGroup": "AfflictionNotableDistilledPerfection",
+                    "Level": 1
                 }
             },
             "Spiked Concoction": {
@@ -12876,7 +13132,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSpikedConcoction"
+                    "CorrectGroup": "AfflictionNotableSpikedConcoction",
+                    "Level": 50
                 }
             },
             "Fasting": {
@@ -12927,7 +13184,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFasting"
+                    "CorrectGroup": "AfflictionNotableFasting",
+                    "Level": 50
                 }
             },
             "Mender's Wellspring": {
@@ -12986,7 +13244,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMendersWellspring"
+                    "CorrectGroup": "AfflictionNotableMendersWellspring",
+                    "Level": 68
                 }
             },
             "Special Reserve": {
@@ -13037,7 +13296,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSpecialReserve"
+                    "CorrectGroup": "AfflictionNotableSpecialReserve",
+                    "Level": 1
                 }
             },
             "Numbing Elixir": {
@@ -13088,7 +13348,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableNumbingElixir"
+                    "CorrectGroup": "AfflictionNotableNumbingElixir",
+                    "Level": 68
                 }
             },
             "Mob Mentality": {
@@ -13129,7 +13390,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMobMentality"
+                    "CorrectGroup": "AfflictionNotableMobMentality",
+                    "Level": 75
                 }
             },
             "Cry Wolf": {
@@ -13170,7 +13432,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCryWolf"
+                    "CorrectGroup": "AfflictionNotableCryWolf",
+                    "Level": 68
                 }
             },
             "Haunting Shout": {
@@ -13203,7 +13466,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHauntingShout"
+                    "CorrectGroup": "AfflictionNotableHauntingShout",
+                    "Level": 50
                 }
             },
             "Lead By Example": {
@@ -13244,7 +13508,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLeadByExample"
+                    "CorrectGroup": "AfflictionNotableLeadByExample",
+                    "Level": 1
                 }
             },
             "Provocateur": {
@@ -13291,7 +13556,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableProvocateur"
+                    "CorrectGroup": "AfflictionNotableProvocateur",
+                    "Level": 50
                 }
             },
             "Warning Call": {
@@ -13324,7 +13590,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWarningCall"
+                    "CorrectGroup": "AfflictionNotableWarningCall",
+                    "Level": 68
                 }
             },
             "Rattling Bellow": {
@@ -13365,7 +13632,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRattlingBellow"
+                    "CorrectGroup": "AfflictionNotableRattlingBellow",
+                    "Level": 1
                 }
             },
             "Wound Aggravation": {
@@ -13414,7 +13682,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWoundAggravation"
+                    "CorrectGroup": "AfflictionNotableWoundAggravation",
+                    "Level": 1
                 }
             },
             "Expansive Might": {
@@ -13455,7 +13724,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExpansiveMight"
+                    "CorrectGroup": "AfflictionNotableExpansiveMight",
+                    "Level": 68
                 }
             },
             "Master of Fire": {
@@ -13488,7 +13758,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofFire"
+                    "CorrectGroup": "AfflictionNotableMasterofFire",
+                    "Level": 75
                 }
             },
             "Smoking Remains": {
@@ -13529,7 +13800,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSmokingRemains"
+                    "CorrectGroup": "AfflictionNotableSmokingRemains",
+                    "Level": 50
                 }
             },
             "Cremator": {
@@ -13570,7 +13842,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCremator"
+                    "CorrectGroup": "AfflictionNotableCremator",
+                    "Level": 50
                 }
             },
             "Cold-Blooded Killer": {
@@ -13611,7 +13884,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableColdBloodedKiller"
+                    "CorrectGroup": "AfflictionNotableColdBloodedKiller",
+                    "Level": 50
                 }
             },
             "Unwaveringly Evil": {
@@ -13652,7 +13926,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil"
+                    "CorrectGroup": "AfflictionNotableUnwaveringlyEvil",
+                    "Level": 1
                 }
             },
             "Dark Ideation": {
@@ -13685,7 +13960,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDarkIdeation"
+                    "CorrectGroup": "AfflictionNotableDarkIdeation",
+                    "Level": 68
                 }
             },
             "Wicked Pall": {
@@ -13726,7 +14002,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWickedPall"
+                    "CorrectGroup": "AfflictionNotableWickedPall",
+                    "Level": 50
                 }
             },
             "Renewal": {
@@ -13767,7 +14044,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRenewal"
+                    "CorrectGroup": "AfflictionNotableRenewal",
+                    "Level": 50
                 }
             },
             "Hulking Corpses": {
@@ -13808,7 +14086,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHulkingCorpses"
+                    "CorrectGroup": "AfflictionNotableHulkingCorpses",
+                    "Level": 50
                 }
             },
             "Blowback": {
@@ -13849,7 +14128,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlowback"
+                    "CorrectGroup": "AfflictionNotableBlowback",
+                    "Level": 50
                 }
             },
             "Fan the Flames": {
@@ -13882,7 +14162,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFantheFlames"
+                    "CorrectGroup": "AfflictionNotableFantheFlames",
+                    "Level": 68
                 }
             },
             "Cooked Alive": {
@@ -13923,7 +14204,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCookedAlive"
+                    "CorrectGroup": "AfflictionNotableCookedAlive",
+                    "Level": 68
                 }
             },
             "Burning Bright": {
@@ -13964,7 +14246,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBurningBright"
+                    "CorrectGroup": "AfflictionNotableBurningBright",
+                    "Level": 50
                 }
             },
             "Wrapped in Flame": {
@@ -14013,7 +14296,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWrappedinFlame"
+                    "CorrectGroup": "AfflictionNotableWrappedinFlame",
+                    "Level": 68
                 }
             },
             "Vivid Hues": {
@@ -14062,7 +14346,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVividHues"
+                    "CorrectGroup": "AfflictionNotableVividHues",
+                    "Level": 50
                 }
             },
             "Rend": {
@@ -14103,7 +14388,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRend"
+                    "CorrectGroup": "AfflictionNotableRend",
+                    "Level": 50
                 }
             },
             "Disorienting Wounds": {
@@ -14144,7 +14430,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDisorientingWounds"
+                    "CorrectGroup": "AfflictionNotableDisorientingWounds",
+                    "Level": 1
                 }
             },
             "Compound Injury": {
@@ -14177,7 +14464,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCompoundInjury"
+                    "CorrectGroup": "AfflictionNotableCompoundInjury",
+                    "Level": 50
                 }
             },
             "Blood Artist": {
@@ -14218,7 +14506,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBloodArtist"
+                    "CorrectGroup": "AfflictionNotableBloodArtist",
+                    "Level": 75
                 }
             },
             "Phlebotomist": {
@@ -14259,7 +14548,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePhlebotomist"
+                    "CorrectGroup": "AfflictionNotablePhlebotomist",
+                    "Level": 50
                 }
             },
             "Septic Spells": {
@@ -14308,7 +14598,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSepticSpells"
+                    "CorrectGroup": "AfflictionNotableSepticSpells",
+                    "Level": 50
                 }
             },
             "Low Tolerance": {
@@ -14341,7 +14632,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLowTolerance"
+                    "CorrectGroup": "AfflictionNotableLowTolerance",
+                    "Level": 68
                 }
             },
             "Steady Torment": {
@@ -14404,7 +14696,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSteadyTorment"
+                    "CorrectGroup": "AfflictionNotableSteadyTorment",
+                    "Level": 68
                 }
             },
             "Eternal Suffering": {
@@ -14445,7 +14738,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEternalSuffering"
+                    "CorrectGroup": "AfflictionNotableEternalSuffering",
+                    "Level": 50
                 }
             },
             "Eldritch Inspiration": {
@@ -14494,7 +14788,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEldritchInspiration"
+                    "CorrectGroup": "AfflictionNotableEldritchInspiration",
+                    "Level": 50
                 }
             },
             "Wasting Affliction": {
@@ -14559,7 +14854,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWastingAffliction"
+                    "CorrectGroup": "AfflictionNotableWastingAffliction",
+                    "Level": 68
                 }
             },
             "Haemorrhage": {
@@ -14630,7 +14926,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHaemorrhage"
+                    "CorrectGroup": "AfflictionNotableHaemorrhage",
+                    "Level": 50
                 }
             },
             "Flow of Life": {
@@ -14703,7 +15000,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFlowofLife"
+                    "CorrectGroup": "AfflictionNotableFlowofLife",
+                    "Level": 68
                 }
             },
             "Exposure Therapy": {
@@ -14768,7 +15066,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExposureTherapy"
+                    "CorrectGroup": "AfflictionNotableExposureTherapy",
+                    "Level": 1
                 }
             },
             "Brush with Death": {
@@ -14841,7 +15140,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBrushwithDeath"
+                    "CorrectGroup": "AfflictionNotableBrushwithDeath",
+                    "Level": 68
                 }
             },
             "Vile Reinvigoration": {
@@ -14914,7 +15214,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVileReinvigoration"
+                    "CorrectGroup": "AfflictionNotableVileReinvigoration",
+                    "Level": 50
                 }
             },
             "Circling Oblivion": {
@@ -14979,7 +15280,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCirclingOblivion"
+                    "CorrectGroup": "AfflictionNotableCirclingOblivion",
+                    "Level": 1
                 }
             },
             "Brewed for Potency": {
@@ -15058,7 +15360,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBrewedforPotency"
+                    "CorrectGroup": "AfflictionNotableBrewedforPotency",
+                    "Level": 1
                 }
             },
             "Astonishing Affliction": {
@@ -15107,7 +15410,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAstonishingAffliction"
+                    "CorrectGroup": "AfflictionNotableAstonishingAffliction",
+                    "Level": 1
                 }
             },
             "Cold Conduction": {
@@ -15148,7 +15452,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableColdConduction"
+                    "CorrectGroup": "AfflictionNotableColdConduction",
+                    "Level": 68
                 }
             },
             "Inspired Oppression": {
@@ -15205,7 +15510,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableInspiredOppression"
+                    "CorrectGroup": "AfflictionNotableInspiredOppression",
+                    "Level": 75
                 }
             },
             "Chilling Presence": {
@@ -15244,7 +15550,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableChillingPresence"
+                    "CorrectGroup": "AfflictionNotableChillingPresence",
+                    "Level": 75
                 }
             },
             "Deep Chill": {
@@ -15291,7 +15598,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDeepChill"
+                    "CorrectGroup": "AfflictionNotableDeepChill",
+                    "Level": 1
                 }
             },
             "Blast-Freeze": {
@@ -15338,7 +15646,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlastFreeze"
+                    "CorrectGroup": "AfflictionNotableBlastFreeze",
+                    "Level": 68
                 }
             },
             "Stormrider": {
@@ -15387,7 +15696,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStormrider"
+                    "CorrectGroup": "AfflictionNotableStormrider",
+                    "Level": 68
                 }
             },
             "Overshock": {
@@ -15428,7 +15738,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableOvershock"
+                    "CorrectGroup": "AfflictionNotableOvershock",
+                    "Level": 50
                 }
             },
             "Evil Eye": {
@@ -15461,7 +15772,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEvilEye"
+                    "CorrectGroup": "AfflictionNotableEvilEye",
+                    "Level": 1
                 }
             },
             "Inevitable Doom": {
@@ -15502,7 +15814,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWhispersofDeath"
+                    "CorrectGroup": "AfflictionNotableWhispersofDeath",
+                    "Level": 1
                 }
             },
             "Forbidden Words": {
@@ -15543,7 +15856,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWardbreaker"
+                    "CorrectGroup": "AfflictionNotableWardbreaker",
+                    "Level": 68
                 }
             },
             "Doedre's Spite": {
@@ -15584,7 +15898,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDarkDiscourse"
+                    "CorrectGroup": "AfflictionNotableDarkDiscourse",
+                    "Level": 50
                 }
             },
             "Victim Maker": {
@@ -15625,7 +15940,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableVictimMaker"
+                    "CorrectGroup": "AfflictionNotableVictimMaker",
+                    "Level": 50
                 }
             },
             "Master of Fear": {
@@ -15658,7 +15974,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterofFear"
+                    "CorrectGroup": "AfflictionNotableMasterofFear",
+                    "Level": 68
                 }
             },
             "Wish for Death": {
@@ -15691,7 +16008,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWishforDeath"
+                    "CorrectGroup": "AfflictionNotableWishforDeath",
+                    "Level": 50
                 }
             },
             "Heraldry": {
@@ -15746,7 +16064,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHeraldry"
+                    "CorrectGroup": "AfflictionNotableHeraldry",
+                    "Level": 75
                 }
             },
             "Endbringer": {
@@ -15793,7 +16112,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEndbringer"
+                    "CorrectGroup": "AfflictionNotableEndbringer",
+                    "Level": 68
                 }
             },
             "Cult-Leader": {
@@ -15826,7 +16146,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCultLeader"
+                    "CorrectGroup": "AfflictionNotableCultLeader",
+                    "Level": 1
                 }
             },
             "Empowered Envoy": {
@@ -15867,7 +16188,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEmpoweredEnvoy"
+                    "CorrectGroup": "AfflictionNotableEmpoweredEnvoy",
+                    "Level": 1
                 }
             },
             "Dark Messenger": {
@@ -15908,7 +16230,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDarkMessenger"
+                    "CorrectGroup": "AfflictionNotableDarkMessenger",
+                    "Level": 50
                 }
             },
             "Agent of Destruction": {
@@ -15949,7 +16272,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAgentofDestruction"
+                    "CorrectGroup": "AfflictionNotableAgentofDestruction",
+                    "Level": 1
                 }
             },
             "Lasting Impression": {
@@ -15996,7 +16320,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLastingImpression"
+                    "CorrectGroup": "AfflictionNotableLastingImpression",
+                    "Level": 68
                 }
             },
             "Self-Fulfilling Prophecy": {
@@ -16037,7 +16362,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSelfFulfillingProphecy"
+                    "CorrectGroup": "AfflictionNotableSelfFulfillingProphecy",
+                    "Level": 68
                 }
             },
             "Invigorating Portents": {
@@ -16078,7 +16404,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableInvigoratingPortents"
+                    "CorrectGroup": "AfflictionNotableInvigoratingPortents",
+                    "Level": 50
                 }
             },
             "Pure Agony": {
@@ -16119,7 +16446,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureAgony"
+                    "CorrectGroup": "AfflictionNotablePureAgony",
+                    "Level": 68
                 }
             },
             "Disciples": {
@@ -16160,7 +16488,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDisciples"
+                    "CorrectGroup": "AfflictionNotableDisciples",
+                    "Level": 68
                 }
             },
             "Dread March": {
@@ -16217,7 +16546,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDreadMarch"
+                    "CorrectGroup": "AfflictionNotableDreadMarch",
+                    "Level": 1
                 }
             },
             "Blessed Rebirth": {
@@ -16258,7 +16588,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlessedRebirth"
+                    "CorrectGroup": "AfflictionNotableBlessedRebirth",
+                    "Level": 68
                 }
             },
             "Life from Death": {
@@ -16307,7 +16638,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLifefromDeath"
+                    "CorrectGroup": "AfflictionNotableLifefromDeath",
+                    "Level": 50
                 }
             },
             "Feasting Fiends": {
@@ -16356,7 +16688,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFeastingFiends"
+                    "CorrectGroup": "AfflictionNotableFeastingFiends",
+                    "Level": 1
                 }
             },
             "Bodyguards": {
@@ -16397,7 +16730,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBodyguards"
+                    "CorrectGroup": "AfflictionNotableBodyguards",
+                    "Level": 50
                 }
             },
             "Follow-Through": {
@@ -16430,7 +16764,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableFollowThrough"
+                    "CorrectGroup": "AfflictionNotableFollowThrough",
+                    "Level": 68
                 }
             },
             "Streamlined": {
@@ -16471,7 +16806,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStreamlined"
+                    "CorrectGroup": "AfflictionNotableStreamlined",
+                    "Level": 1
                 }
             },
             "Shrieking Bolts": {
@@ -16512,7 +16848,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableShriekingBolts"
+                    "CorrectGroup": "AfflictionNotableShriekingBolts",
+                    "Level": 50
                 }
             },
             "Eye to Eye": {
@@ -16553,7 +16890,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableEyetoEye"
+                    "CorrectGroup": "AfflictionNotableEyetoEye",
+                    "Level": 50
                 }
             },
             "Repeater": {
@@ -16594,7 +16932,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRepeater"
+                    "CorrectGroup": "AfflictionNotableRepeater",
+                    "Level": 1
                 }
             },
             "Aerodynamics": {
@@ -16643,7 +16982,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableAerodynamics"
+                    "CorrectGroup": "AfflictionNotableAerodynamics",
+                    "Level": 68
                 }
             },
             "Chip Away": {
@@ -16684,7 +17024,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableChipAway"
+                    "CorrectGroup": "AfflictionNotableChipAway",
+                    "Level": 50
                 }
             },
             "Seeker Runes": {
@@ -16725,7 +17066,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSeekerRunes"
+                    "CorrectGroup": "AfflictionNotableSeekerRunes",
+                    "Level": 68
                 }
             },
             "Remarkable": {
@@ -16766,7 +17108,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableRemarkable"
+                    "CorrectGroup": "AfflictionNotableRemarkable",
+                    "Level": 68
                 }
             },
             "Brand Loyalty": {
@@ -16799,7 +17142,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBrandLoyalty"
+                    "CorrectGroup": "AfflictionNotableBrandLoyalty",
+                    "Level": 1
                 }
             },
             "Holy Conquest": {
@@ -16840,7 +17184,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHolyConquest"
+                    "CorrectGroup": "AfflictionNotableHolyConquest",
+                    "Level": 50
                 }
             },
             "Grand Design": {
@@ -16889,7 +17234,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGrandDesign"
+                    "CorrectGroup": "AfflictionNotableGrandDesign",
+                    "Level": 68
                 }
             },
             "Set and Forget": {
@@ -16950,7 +17296,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSetandForget"
+                    "CorrectGroup": "AfflictionNotableSetandForget",
+                    "Level": 50
                 }
             },
             "Expert Sabotage": {
@@ -16995,7 +17342,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExpertSabotage"
+                    "CorrectGroup": "AfflictionNotableExpertSabotage",
+                    "Level": 50
                 }
             },
             "Guerilla Tactics": {
@@ -17064,7 +17412,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGuerillaTactics"
+                    "CorrectGroup": "AfflictionNotableGuerillaTactics",
+                    "Level": 1
                 }
             },
             "Expendability": {
@@ -17101,7 +17450,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExpendability"
+                    "CorrectGroup": "AfflictionNotableExpendability",
+                    "Level": 68
                 }
             },
             "Arcane Pyrotechnics": {
@@ -17162,7 +17512,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableArcanePyrotechnics"
+                    "CorrectGroup": "AfflictionNotableArcanePyrotechnics",
+                    "Level": 68
                 }
             },
             "Surprise Sabotage": {
@@ -17223,7 +17574,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSurpriseSabotage"
+                    "CorrectGroup": "AfflictionNotableSurpriseSabotage",
+                    "Level": 50
                 }
             },
             "Careful Handling": {
@@ -17284,7 +17636,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableCarefulHandling"
+                    "CorrectGroup": "AfflictionNotableCarefulHandling",
+                    "Level": 68
                 }
             },
             "Peak Vigour": {
@@ -17325,7 +17678,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePeakVigour"
+                    "CorrectGroup": "AfflictionNotablePeakVigour",
+                    "Level": 1
                 }
             },
             "Liquid Inspiration": {
@@ -17374,7 +17728,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLiquidInspiration"
+                    "CorrectGroup": "AfflictionNotableLiquidInspiration",
+                    "Level": 68
                 }
             },
             "Pure Might": {
@@ -17423,7 +17778,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureMight"
+                    "CorrectGroup": "AfflictionNotablePureMight",
+                    "Level": 68
                 }
             },
             "Pure Guile": {
@@ -17472,7 +17828,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureGuile"
+                    "CorrectGroup": "AfflictionNotablePureGuile",
+                    "Level": 68
                 }
             },
             "Pure Aptitude": {
@@ -17521,7 +17878,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotablePureAptitude"
+                    "CorrectGroup": "AfflictionNotablePureAptitude",
+                    "Level": 68
                 }
             },
             "Student of Decay": {
@@ -17580,7 +17938,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableStudentofDecay"
+                    "CorrectGroup": "AfflictionNotableStudentofDecay",
+                    "Level": 50
                 }
             },
             "Lord of Drought": {
@@ -17621,7 +17980,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableLordofDrought"
+                    "CorrectGroup": "AfflictionNotableLordofDrought",
+                    "Level": 50
                 }
             },
             "Blizzard Caller": {
@@ -17662,7 +18022,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableBlizzardCaller"
+                    "CorrectGroup": "AfflictionNotableBlizzardCaller",
+                    "Level": 50
                 }
             },
             "Tempt the Storm": {
@@ -17703,7 +18064,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableTempttheStorm"
+                    "CorrectGroup": "AfflictionNotableTempttheStorm",
+                    "Level": 50
                 }
             },
             "Misery Everlasting": {
@@ -17744,7 +18106,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMiseryEverlasting"
+                    "CorrectGroup": "AfflictionNotableMiseryEverlasting",
+                    "Level": 50
                 }
             },
             "Exploit Weakness": {
@@ -17785,7 +18148,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableExploitWeakness"
+                    "CorrectGroup": "AfflictionNotableExploitWeakness",
+                    "Level": 50
                 }
             },
             "Self-Control": {
@@ -17826,7 +18190,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSelfControl"
+                    "CorrectGroup": "AfflictionNotableSelfControl",
+                    "Level": 50
                 }
             },
             "Uncompromising": {
@@ -17867,7 +18232,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableUncompromising"
+                    "CorrectGroup": "AfflictionNotableUncompromising",
+                    "Level": 50
                 }
             },
             "Sublime Form": {
@@ -17908,7 +18274,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSublimeForm"
+                    "CorrectGroup": "AfflictionNotableSublimeForm",
+                    "Level": 50
                 }
             },
             "Mortifying Aspect": {
@@ -17949,7 +18316,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableSummerCommander"
+                    "CorrectGroup": "AfflictionNotableSummerCommander",
+                    "Level": 68
                 }
             },
             "Frantic Aspect": {
@@ -17990,7 +18358,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableWinterCommander"
+                    "CorrectGroup": "AfflictionNotableWinterCommander",
+                    "Level": 68
                 }
             },
             "Introspection": {
@@ -18023,7 +18392,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableGroundedCommander"
+                    "CorrectGroup": "AfflictionNotableGroundedCommander",
+                    "Level": 68
                 }
             },
             "Hound's Mark": {
@@ -18064,7 +18434,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableHoundsMark"
+                    "CorrectGroup": "AfflictionNotableHoundsMark",
+                    "Level": 1
                 }
             },
             "Doedre's Gluttony": {
@@ -18105,7 +18476,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDoedresGluttony"
+                    "CorrectGroup": "AfflictionNotableDoedresGluttony",
+                    "Level": 50
                 }
             },
             "Doedre's Apathy": {
@@ -18146,7 +18518,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableDoedresApathy"
+                    "CorrectGroup": "AfflictionNotableDoedresApathy",
+                    "Level": 68
                 }
             },
             "Master of the Maelstrom": {
@@ -18187,7 +18560,8 @@
                     ]
                 ],
                 "Mod": {
-                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom"
+                    "CorrectGroup": "AfflictionNotableMasterOfTheMaelstrom",
+                    "Level": 50
                 }
             }
         }
