@@ -3,7 +3,7 @@ import { getEnchantKey } from './Calculator';
 import megaStruct from '../data/data.json';
 import { enchantMap } from './Calculator';
 
-const tradePathBase = "https://www.pathofexile.com/trade/search/Sentinel?q=";
+const tradePathBase = "https://www.pathofexile.com/trade/search/Kalandra?q=";
 
 class TradeUrl extends React.Component {
 
