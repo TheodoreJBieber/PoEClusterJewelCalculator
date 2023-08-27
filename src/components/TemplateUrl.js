@@ -5,7 +5,7 @@ import megaStruct from '../data/data.json';
 class TemplateUrl extends React.Component {
 
     render() {
-        let body = this.generateBody(this.props.min, this.props.max);
+        let body = this.generateBody(this.props.min, this.props.max, this.props.ilvlMin, this.props.ilvlMax);
         let url = this.getSearchUrl(body);
 
         return (
@@ -23,7 +23,7 @@ class TemplateUrl extends React.Component {
         return this.props.tradePathBase + queryUrlEncoded;
     }
 
-    generateBody(min, max) {
+    generateBody(min, max, ilvlMin = null, ilvlMax = null) {
         let base_request = {
             "sort":{"price":"asc"},
             "query":{
@@ -53,6 +53,26 @@ class TemplateUrl extends React.Component {
         and_body.filters.push(enchants);
 
         base_request.query.stats.push(and_body);
+
+        if (ilvlMin != null 
+            || ilvlMax != null) {
+            base_request.query.filters = {
+                misc_filters: {
+                    filters: {
+                        ilvl: {
+                        }
+                    }
+                }
+            }
+        }
+        if (ilvlMin != null) {
+            base_request.query.filters.misc_filters.filters.ilvl.min = ilvlMin;
+        }
+
+        if (ilvlMax != null) {
+            base_request.query.filters.misc_filters.filters.ilvl.max = ilvlMax;
+        }
+
 
         return base_request;
     }
