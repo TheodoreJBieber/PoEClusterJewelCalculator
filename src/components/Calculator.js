@@ -231,6 +231,7 @@ class Calculator extends React.Component {
 								notable1={out.notable1}
 								notable3={out.notable3}
 								key={l}
+								tradePathBase={this.props.tradePathBase}
 							/>
 						</div>
 					);

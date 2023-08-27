@@ -66,7 +66,7 @@ class CalculatorOutput extends React.Component {
         return (
             <ul key={key + "ul"}>
             <li key={key + "li"}>
-                <TradeUrl desired={desired} notableNames={notableNames} ench={ench} key={key}/>
+                <TradeUrl desired={desired} notableNames={notableNames} ench={ench} key={key} tradePathBase={this.props.tradePathBase}/>
                 <ul key={key + "ul2"}>Position 2 Notable Options: <span key={key + "span"}>
                     {this.props.notablesBetween.map(nObj => nObj.PassiveSkill.Name + " (ilvl: " + nObj.Mod.Level + ")").join(", ")}
                 </span></ul>

@@ -3,8 +3,6 @@ import { getEnchantKey } from './Calculator';
 import megaStruct from '../data/data.json';
 import { enchantMap } from './Calculator';
 
-const tradePathBase = "https://www.pathofexile.com/trade/search/Kalandra?q=";
-
 class TradeUrl extends React.Component {
 
     render() {
@@ -19,7 +17,6 @@ class TradeUrl extends React.Component {
                 </div>
             );
         }
-
 
         let enchantDescription = "Any Enchant";
         let url = null;
@@ -44,7 +41,7 @@ class TradeUrl extends React.Component {
     getSearchUrl(body) {
         var queryStringified = JSON.stringify(body);
         var queryUrlEncoded = encodeURIComponent(queryStringified);
-        return tradePathBase + queryUrlEncoded;
+        return this.props.tradePathBase + queryUrlEncoded;
     }
 
     
@@ -104,6 +101,8 @@ class TradeUrl extends React.Component {
 
         return base_request;
     }
+
+
 
     generateBodyAnySelected(allDesired, allUndesired) {let base_request = {
         "sort":{"price":"asc"},
